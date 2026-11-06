@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycle 1**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cells 01–25. **Next:** Cell 26 — Role correspondence.
+**Completed:** Cells 01–30. **Next:** Cell 31 — Cross-position validation.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -1251,4 +1251,236 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 26 / Role correspondence. -->
+
+## Cycle 1 / Cell 26 / Role correspondence
+
+*Relating × Release × Bearing*
+
+### Dialogue
+
+*Two members of a chess club are staying behind after the beginners' session.*
+
+**Mick:** I was meant to be showing you how things work, wasn't I? I've been playing here for twenty years.
+
+**Salma:** You showed me the opening we practised. I wouldn't have spotted that trap otherwise.
+
+**Mick:** But then I spent ten minutes asking you how to use the online clock.
+
+**Salma:** That's because I use the same software at school. I didn't know the club used it until today.
+
+**Mick:** I kept thinking the instructor ought to be the one with all the answers.
+
+**Salma:** Why? You know the board positions. I know the clock settings. Those aren't the same thing.
+
+**Mick:** True. When I got stuck on the time controls, you were explaining and I was following.
+
+**Salma:** And when I got stuck in that endgame, it was the other way round.
+
+**Mick:** So I suppose the club's badge saying “experienced member” doesn't tell us who teaches whom.
+
+**Salma:** Not from one question to the next, no.
+
+**Mick:** Would you mind helping me set up the clocks for next week's tournament?
+
+**Salma:** Gladly. And could we go over that rook ending again afterward?
+
+**Mick:** Deal. We'll each have something to show the other.
+
+### Structural check
+
+- **Change:** The participants' roles as teacher and learner become determinate through their actual knowledge-bearing exchanges rather than through the senior member's assigned status.
+- **Sufficiency:** Seniority ceases to prescribe which person can instruct the other. In chess positions Mick teaches Salma; in clock setup Salma teaches Mick. What each is to the other is established by those actual bearings.
+- **Persistence:** The roles remain available through their specific relation of expertise and need, and can reverse when the subject changes; they are not conferred once and for all by club rank.
+- **Closest rival cell and decisive difference:** Cell 23, *Reciprocal shift*. Both concern standings constituted through relations, but here a preassigned hierarchy specifically loses its authority to settle those standings. The completed correspondence is between actual roles, not official ranks.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 27 / Emergent coordination
+
+*Relating × Release × Efficacy*
+
+### Dialogue
+
+*Two volunteers are working at opposite ends of a busy food pantry on distribution morning.*
+
+**Rina:** We've got six families waiting, but I'm still sending every request to the coordinator before I bring anything from storage.
+
+**Joel:** I've got the same problem at the packing table. By the time the messages come back, the queue has changed.
+
+**Rina:** The coordinator said we can speak directly today if we need to. I wasn't sure how that would work.
+
+**Joel:** Tell me what you're short of, then.
+
+**Rina:** Rice bags. Three families need them, and I've only got one here.
+
+**Joel:** I've got a full box at my end. I'll bring two over. Can you send me the spare pasta you mentioned earlier?
+
+**Rina:** Yes. There's enough pasta here for your next two parcels.
+
+**Joel:** Hang on, the family at my table has just said they don't use pasta. Keep one of those packets. They need rice instead.
+
+**Rina:** Then I'll send you another rice bag and hold the pasta here. I can see the next family in my queue needs it.
+
+**Joel:** That fits. I'll put a marker beside the rice box whenever we're down to the last few.
+
+**Rina:** I'll do the same with the pasta. If either of us sees a shortage, we can call it across before the next parcels are packed.
+
+**Joel:** We've just cleared three requests without waiting for anyone to pass notes between us.
+
+**Rina:** And I changed what I was packing as soon as you told me what your family needed.
+
+**Joel:** Good. Keep talking to me when the queue changes.
+
+### Structural check
+
+- **Change:** Separate requests and stock decisions become an effective direct exchange between the volunteers, rather than consequences routed through a coordinator.
+- **Sufficiency:** The coordinator's former intermediary role loses its determining force; each volunteer's information now alters the other's choices in real time. Appropriate parcels result from the emerging responsiveness between them.
+- **Persistence:** The relation remains as an operative coordination channel: changes in one queue can directly reshape packing and stock movement in the other without waiting for a command.
+- **Closest rival cell and decisive difference:** Cell 24, *Relational cycle*. That cell establishes consequential interdependence in a feedback system. Here the completion is specifically direct responsiveness made effective beyond a formerly governing chain of authority; it need not form a closed feedback loop.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 28 / Focal adjustment
+
+*Repair × Focal × Standing*
+
+### Dialogue
+
+*Two neighbours are proofreading a flyer for a shared courtyard clean-up.*
+
+**Amal:** Did you mean to put Saturday the seventeenth on here?
+
+**Gareth:** Yes, that's when we agreed to meet.
+
+**Amal:** The calendar says the seventeenth is a Sunday.
+
+**Gareth:** Really? I wrote the date down at the residents' meeting.
+
+**Amal:** Here's the meeting note you sent me: “Saturday 16 May, ten o'clock.”
+
+**Gareth:** You're right. I must have typed seventeen from the following day's calendar square.
+
+**Amal:** The time and meeting point are right. It's just the date.
+
+**Gareth:** Let me change it to the sixteenth.
+
+**Amal:** Read that line back.
+
+**Gareth:** “Courtyard clean-up, Saturday 16 May, 10 a.m., by the bicycle racks.”
+
+**Amal:** That matches the meeting note and the calendar.
+
+**Gareth:** Good thing you checked. I'll print this version, not the earlier one.
+
+**Amal:** I'll delete the draft from the shared folder so nobody sends the wrong one.
+
+### Structural check
+
+- **Change:** A flyer whose date conflicts with the agreed event becomes a corrected, definite announcement.
+- **Sufficiency:** The error is localized to the date, and the replacement is checked against both the meeting record and the calendar. That decisive correction satisfies the criterion for an accurate announcement.
+- **Persistence:** The corrected wording stands as the agreed printable version, with the faulty draft superseded.
+- **Closest rival cell and decisive difference:** Cell 29, *Proportional correction*. Cell 29 achieves correctness through a focal item's ongoing fit with something it must match. Here the central achievement is the established corrected formulation at the exact faulty passage, rather than a fit-dependent adjustment whose validity remains constituted by an interface.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 29 / Proportional correction
+
+*Repair × Focal × Bearing*
+
+### Dialogue
+
+*Two housemates are installing a replacement handle on a cupboard door.*
+
+**Ellie:** It's still wobbling. I thought the new handle was the right size.
+
+**Tomás:** The screws are tight, but look—there's a gap between the handle and the door.
+
+**Ellie:** Maybe we need to tighten it harder.
+
+**Tomás:** I don't think so. The screws are already at the end of their threads. The package came with shorter screws as well.
+
+**Ellie:** I used the long ones because the cupboard door looked thick.
+
+**Tomás:** Let's measure it. Eighteen millimetres. The fitting guide says the short screws are for doors up to twenty.
+
+**Ellie:** So the handle isn't wrong; the screws don't match the door thickness.
+
+**Tomás:** Exactly. I'll swap one and see whether it pulls the handle flush.
+
+**Ellie:** That's much better. Try the other side.
+
+**Tomás:** Both in. Give it a pull.
+
+**Ellie:** Solid. There's no gap now.
+
+**Tomás:** And the screws haven't gone through the front.
+
+**Ellie:** Good. These are the right length for this door.
+
+### Structural check
+
+- **Change:** A loose handle installation becomes a correctly fitted one when the fastening length is matched to the cupboard door's thickness.
+- **Sufficiency:** The shorter screws are correct not in isolation, but because their length allows this handle to seat securely against this door without protruding. The particular dimensional match removes the operative misfit.
+- **Persistence:** The correctness remains constituted by the achieved handle–screw–door fit; changing the door thickness could make those same screws inappropriate.
+- **Closest rival cell and decisive difference:** Cell 28, *Focal adjustment*. Cell 28 establishes a corrected item as a definitive formulation. Here the repair's correctness exists only through the focal fastening's proportionate match to the material it joins.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 30 / Load transfer
+
+*Repair × Focal × Efficacy*
+
+### Dialogue
+
+*Two travellers are packing for a train journey when they notice a suitcase won't roll properly.*
+
+**Bea:** Could you lift that end? I can't pull it across the floor without it dragging.
+
+**Owen:** The left wheel's barely turning.
+
+**Bea:** That's why I had to carry the whole case from the car. I thought it was just overloaded.
+
+**Owen:** It's not the weight. There's a strip of plastic wound around the axle.
+
+**Bea:** Can we get it off without breaking anything?
+
+**Owen:** Pass me the tweezers. I'll hold the wheel while you pull the end of the strip.
+
+**Bea:** It's longer than I expected. There—got it.
+
+**Owen:** Spin the wheel now.
+
+**Bea:** It turns freely. But will it work with the clothes inside?
+
+**Owen:** Let's put the case down and try it properly.
+
+**Bea:** Oh, that rolls easily. I can pull it with two fingers.
+
+**Owen:** The wheel's taking the weight again instead of you having to lift that corner.
+
+**Bea:** Good. I wasn't looking forward to carrying it through the station.
+
+**Owen:** Give it another run along the hallway to make sure it doesn't catch.
+
+**Bea:** Still smooth. We can take this one after all.
+
+### Structural check
+
+- **Change:** A suitcase wheel that failed under load regains the ability to support and move its portion of the suitcase's weight.
+- **Sufficiency:** Removing the obstruction restores free rotation, and a loaded rolling test establishes that the repaired wheel takes the burden previously imposed on the person lifting the suitcase.
+- **Persistence:** The achieved repair remains as the wheel's restored load-bearing and rolling function, changing how the suitcase can be moved.
+- **Closest rival cell and decisive difference:** Cell 29, *Proportional correction*. That cell's correctness is constituted by an item's proper fit to a counterpart. Here the decisive achievement is operative: a formerly failing component carries its burden again and makes normal movement possible.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 31 / Cross-position validation. -->
