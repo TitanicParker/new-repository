@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycle 1**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cells 01–15. **Next:** Cell 16 — Released option.
+**Completed:** Cells 01–20. **Next:** Cell 21 — Responsive return.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -775,4 +775,238 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 16 / Released option. -->
+
+## Cycle 1 / Cell 16 / Released option
+
+*Opening × Release × Standing*
+
+### Dialogue
+
+*Two neighbours are discussing the small community garden beside their flats.*
+
+**Lena:** Is the garden still closed on Sundays?
+
+**Patrick:** I thought it was. Didn't the committee ban weekend visits after someone left the gate open?
+
+**Lena:** That was last winter. There's a new notice on the board.
+
+**Patrick:** What does it say?
+
+**Lena:** “Residents may use the garden every day, eight until eight.” No exception for Sundays.
+
+**Patrick:** Maybe that's just for the volunteers who water the beds.
+
+**Lena:** I wondered that too, but below it says, “All residents and their guests.” And look, the old Sunday notice has been taken down.
+
+**Patrick:** So we're actually allowed to sit out there on a Sunday now?
+
+**Lena:** Yes. The committee changed the rule at the last meeting.
+
+**Patrick:** I used to work Saturdays. Sunday was the only day I could have gone.
+
+**Lena:** Then you can finally use it. They haven't scheduled anything there this weekend.
+
+**Patrick:** Lovely. I might take a book over after lunch.
+
+**Lena:** I'll probably be there with a coffee.
+
+### Structural check
+
+- **Change:** Sunday use of the garden becomes an established possibility after the former Sunday prohibition ceases to govern residents' access.
+- **Sufficiency:** The new resident-wide rule supersedes the old restriction. The Sunday option is genuinely available, not merely imagined or dependent on someone making a one-off exception.
+- **Persistence:** Sunday access stands as one of the permitted uses of the garden under the current rules.
+- **Closest rival cell and decisive difference:** Cell 17, *Continual passage*. The achievement here is the standing availability of a formerly barred option. It is not specifically access constituted by an entitlement that replaces case-by-case permission.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 17 / Continual passage
+
+*Opening × Release × Bearing*
+
+### Dialogue
+
+*Two tenants are talking in the lobby of their apartment building.*
+
+**Iris:** The concierge told me to ask the manager whenever I want to use the bicycle storage room.
+
+**Jonah:** That's how it used to work. He'd open it for you if he was around.
+
+**Iris:** Well, I was hoping to get my bike out before six tomorrow. The office won't be open.
+
+**Jonah:** Have you tried your building fob on the storage door?
+
+**Iris:** I didn't think it was meant to work there.
+
+**Jonah:** They changed the arrangement when the new tenancy agreements came in. Look at the residents' notice.
+
+**Iris:** “Bicycle storage access included for registered tenants.” Does that mean I can go in without asking anyone?
+
+**Jonah:** Yes, provided your fob is registered. Mine works whenever I need it.
+
+**Iris:** How do I know if mine's registered?
+
+**Jonah:** Your tenancy email lists the rooms your fob covers. Mine says bicycle storage. Can you check yours?
+
+**Iris:** Here it is. Same wording. So the concierge doesn't decide whether I can go in?
+
+**Jonah:** No. Your tenancy gives you access. If the fob doesn't work, the office has to fix the registration.
+
+**Iris:** Good. I can collect my bike tomorrow without hoping someone is at the desk.
+
+### Structural check
+
+- **Change:** Access to bicycle storage becomes a tenant's valid entitlement rather than a possibility dependent on the concierge's discretion.
+- **Sufficiency:** The tenancy terms constitute the residents' access and remove the concierge's approval as the governing condition of admission. Fob registration implements that entitlement rather than authorizing it afresh.
+- **Persistence:** The opening remains through the ongoing tenant–building entitlement, not through an isolated permission or a manager's willingness to unlock a door.
+- **Closest rival cell and decisive difference:** Cell 16, *Released option*. Cell 16 establishes a formerly barred possibility as permitted. Here access is constituted by a specific continuing entitlement that displaces discretionary permission.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 18 / Edge opening
+
+*Opening × Release × Efficacy*
+
+### Dialogue
+
+*Two members of a local theatre group are preparing posters for their next show.*
+
+**Cass:** Should we send this poster to Martin before we put it up?
+
+**Dev:** We used to have to. He approved all the publicity when the group rented space through his organisation.
+
+**Cass:** I don't want to print fifty copies and then be told to change them.
+
+**Dev:** We're booking the hall ourselves now, remember? The group voted to handle its own publicity.
+
+**Cass:** Did that vote actually remove the approval step, though?
+
+**Dev:** I've got the minutes here. “The publicity team may publish event materials without prior sign-off by the former venue coordinator.”
+
+**Cass:** So Martin can't hold up the printing anymore.
+
+**Dev:** Right. We still need to check our own dates and ticket link.
+
+**Cass:** The date matches the hall booking. Can you open the ticket page?
+
+**Dev:** Yes, that's working. And the spelling looks right.
+
+**Cass:** Then I'll send it to the printer now.
+
+**Dev:** Go ahead.
+
+**Cass:** Done. That feels strange. Normally we'd be waiting for a reply all week.
+
+**Dev:** This time we can get on with it ourselves.
+
+### Structural check
+
+- **Change:** Publishing the group's publicity becomes an executable action independent of a former external sign-off requirement.
+- **Sufficiency:** The governing veto over initiation has been removed, and the participants establish that the necessary internal checks are satisfied before actually sending the poster to print.
+- **Persistence:** The achieved opening is an operative ability to publish future materials without waiting for the former coordinator's clearance.
+- **Closest rival cell and decisive difference:** Cell 16, *Released option*. Cell 16 establishes that an option is permitted. Here completion consists in independent execution no longer held at the approval boundary; the participants demonstrate that ability by proceeding.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 19 / Direct bearing
+
+*Relating × Focal × Standing*
+
+### Dialogue
+
+*Two volunteers are checking the switches in the corridor of an old village hall.*
+
+**Marta:** Which switch puts the light on over the side entrance?
+
+**Eoin:** I assumed it was the one beside the door, but that only lights the corridor.
+
+**Marta:** There are three switches at this end. The labels have worn off.
+
+**Eoin:** Try the first one while I look through the window.
+
+**Marta:** Anything?
+
+**Eoin:** The courtyard light came on, not the entrance light. Turn it off.
+
+**Marta:** Second one?
+
+**Eoin:** That's the light above the noticeboard.
+
+**Marta:** Then this last one should be it.
+
+**Eoin:** There it is. The lamp over the side steps just came on.
+
+**Marta:** Let me turn it off and back on, to be sure.
+
+**Eoin:** Yes, same lamp both times.
+
+**Marta:** I'll write “side steps” on a new label for this switch.
+
+**Eoin:** Good. People keep turning on the courtyard light when they're trying to see the steps.
+
+### Structural check
+
+- **Change:** An uncertain association between a particular switch and an outside lamp becomes a definite, located connection.
+- **Sufficiency:** Repeated operation establishes the direct link at the specific switch controlling the side-steps lamp; merely listing switches or noticing that some lights respond would not anchor the relation.
+- **Persistence:** The established switch–lamp connection remains available as a determinate fact, recorded by the new label.
+- **Closest rival cell and decisive difference:** Cell 21, *Responsive return*. That cell requires the focal relation to persist as consequential responsive efficacy. Here the achievement is the established identification of which particular switch bears on which lamp, not the creation or repair of its power to produce a response.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 20 / Pivoted balance
+
+*Relating × Focal × Bearing*
+
+### Dialogue
+
+*Two friends are making a hanging mobile for a baby's room.*
+
+**Ada:** Why does the wooden bird keep dropping lower than the cloud?
+
+**Noel:** The bird's heavier. We could take it off.
+
+**Ada:** But then it's not the mobile we planned. What if we move the strings?
+
+**Noel:** The cloud's already right at the end of its side.
+
+**Ada:** Could we bring the bird closer to the point where the bar hangs?
+
+**Noel:** Let's try. Hold the middle string while I slide it.
+
+**Ada:** A little more. The bar's still leaning towards the bird.
+
+**Noel:** There?
+
+**Ada:** Almost. Move it another centimetre.
+
+**Noel:** Now they're level.
+
+**Ada:** Interesting. The bird still weighs more, but it doesn't pull that side down.
+
+**Noel:** Because it's closer to the middle. The lighter cloud balances it from farther out.
+
+**Ada:** So that little cloud isn't just decoration. It's what keeps the bird from tipping the whole thing.
+
+**Noel:** Yes. If we change where either one hangs, we'll need to balance them against each other again.
+
+**Ada:** Leave them there, then. I like it just as it is.
+
+### Structural check
+
+- **Change:** The cloud's role becomes determinate as the counterbalance to the heavier bird at the mobile's shared suspension point, rather than as a merely decorative object.
+- **Sufficiency:** The two hanging positions establish a stable balance around the pivot. The cloud's counterbearing is defined through the bird's weight and position, and vice versa; neither role is established in isolation.
+- **Persistence:** The achieved relation exists through the continuing proportions of weight and distance from the pivot. Altering either hanging position would alter the balance itself.
+- **Closest rival cell and decisive difference:** Cell 19, *Direct bearing*. Cell 19 establishes a definite anchored connection. Here the focal achievement is a counterbalancing relation whose identity depends on reciprocal load and position around the pivot.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 21 / Responsive return. -->
