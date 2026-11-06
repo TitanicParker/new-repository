@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–2**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–45. **Next:** Cycle 2 / Cell 46 — Settled alternative.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54. **Next:** Cycle 3 / Cell 01 — Focal mark.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -4501,4 +4501,398 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 2 dialogues above this marker. Next target: Cycle 2 / Cell 46 / Settled alternative. -->
+
+## Cycle 2 / Cell 46 / Settled alternative
+
+*Settlement × Focal × Standing*
+
+### Dialogue
+
+*Two committee members are deciding which room will host the hall's first evening reading group.*
+
+**Alma:** The group leader needs a room confirmed today. The library room is quieter, but the supper room has more chairs.
+
+**Dev:** How many people have signed up?
+
+**Alma:** Eight, with two more who might come.
+
+**Dev:** The library room seats twelve, doesn't it?
+
+**Alma:** It does. I was worried about the heating; it was cold when we inspected it.
+
+**Dev:** The caretaker tested that radiator yesterday. Shall we check before choosing?
+
+**Alma:** Good idea. It's warm now, and the door shuts properly.
+
+**Dev:** Then the extra space in the supper room isn't really needed.
+
+**Alma:** And the library room has the lamps people wanted for reading.
+
+**Dev:** Are we agreed on the library room?
+
+**Alma:** Yes. I'll put it on the booking confirmation.
+
+**Dev:** That settles which room they'll use. I'll leave the supper room free for other bookings.
+
+### Structural check
+
+- **Change:** A live choice between two rooms becomes a definite room selection.
+- **Sufficiency:** Capacity, heating and reading conditions resolve the question in favour of the library room; nothing further is needed to decide which room is booked.
+- **Persistence:** The library room stands as the selected location in the booking record.
+- **Closest rival cell and decisive difference:** Cell 48, *Path completion*. This dialogue settles the identity of the chosen alternative; Cell 48 completes an actionable course of continuation.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 47 / Unified settlement
+
+*Settlement × Focal × Bearing*
+
+### Dialogue
+
+*Two organisers are settling how the cost of a damaged hall projector should be shared.*
+
+**Faye:** The repair invoice is a hundred and twenty euro. The photography club offered to pay it all because they were using the projector when it failed.
+
+**Kieran:** But the technician said the cooling fan had been failing for months. It wasn't caused by their slideshow.
+
+**Faye:** The club did ask us to replace the remote, though. That's another twenty euro on the invoice.
+
+**Kieran:** We agreed the hall pays for ordinary equipment repairs, while a group pays for extra accessories it requests.
+
+**Faye:** So the hundred for the fan is the hall's, and the twenty for the remote belongs to the club?
+
+**Kieran:** That's how the invoice is itemised. Does the club know the difference?
+
+**Faye:** I'll ring their treasurer. Hang on ... She says that's fair, and she's relieved they aren't being charged for the fan.
+
+**Kieran:** Then I'll authorise the hall's hundred.
+
+**Faye:** And I'll send the club the twenty-euro line. We have one agreed allocation under the rules we already use.
+
+### Structural check
+
+- **Change:** An uncertain claim about who owes the repair cost becomes a settled allocation for one invoice.
+- **Sufficiency:** The division satisfies the recognised distinction between maintenance and a requested accessory; an arbitrary agreement on amounts would not by itself meet those terms.
+- **Persistence:** The allocation remains settled through its relation to the invoice's verified items and the hall's cost-sharing rule.
+- **Closest rival cell and decisive difference:** Cell 46, *Settled alternative*. The outcome is not simply one option selected; it is a settlement constituted by meeting the conditions that make the division acceptable.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 48 / Path completion
+
+*Settlement × Focal × Efficacy*
+
+### Dialogue
+
+*Two volunteers discover that the hall's usual delivery entrance is blocked just before a furniture donation arrives.*
+
+**Luca:** The van's ten minutes away, and the builders have fenced off the rear gate.
+
+**Mina:** Could they unload at the front?
+
+**Luca:** The driver said the van is too tall for the archway.
+
+**Mina:** There's the side service gate. Does it open wide enough?
+
+**Luca:** I don't know. I'll measure it. Two and a half metres. The van's two metres wide.
+
+**Mina:** Is the path clear to the store room?
+
+**Luca:** There's a stack of empty crates, but we can move those. The caretaker has the gate key.
+
+**Mina:** Call him while I move the crates.
+
+**Luca:** He can meet the van at the side gate in five minutes.
+
+**Mina:** Then tell the driver to use Mill Lane and turn in there.
+
+**Luca:** Message sent. He confirms he's coming that way.
+
+**Mina:** Good. We know exactly where to receive the furniture now.
+
+### Structural check
+
+- **Change:** An obstructed delivery becomes a definite, executable plan for receiving the furniture.
+- **Sufficiency:** Width, access, clearance, keyholder and driver confirmation jointly determine the next course; merely preferring the side gate would leave the practical question open.
+- **Persistence:** The settlement holds as the agreed instruction directing the imminent delivery.
+- **Closest rival cell and decisive difference:** Cell 46, *Settled alternative*. The completion is not only choosing a gate, but securing the practical continuation that lets the delivery proceed.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 49 / Recurrence settlement
+
+*Settlement × Distributed × Standing*
+
+### Dialogue
+
+*Two hall volunteers are preparing a reply to questions raised at the public reopening meeting.*
+
+**Saira:** We answered the parking question, but people are still asking about the noise, the closing time and the side gate.
+
+**Ben:** Let's put the answers together. Otherwise the replies may contradict one another.
+
+**Saira:** The hall closes to the public at ten on event nights. The booking agreement says amplified music ends at half nine.
+
+**Ben:** And the side gate?
+
+**Saira:** It stays available as an accessible exit, but ordinary departures should use the main doors unless staff direct otherwise.
+
+**Ben:** The parking notice says cars must leave the school car park by ten-fifteen. Is that enough time after closing?
+
+**Saira:** Yes, but we should say that clearly. We don't want the notice to imply people can stay in the hall until ten-fifteen.
+
+**Ben:** What about the neighbour who asked how to report a disturbance?
+
+**Saira:** The duty contact number is on every event notice. I'll include it here too.
+
+**Ben:** Read the full reply aloud.
+
+**Saira:** Music ends at nine-thirty, public use ends at ten, the school car park closes at ten-fifteen, the side gate remains an accessible exit, and the duty contact receives concerns.
+
+**Ben:** That answers the questions without one answer undoing another.
+
+**Saira:** I'll attach it to the minutes so we can refer back to the same account.
+
+### Structural check
+
+- **Change:** Scattered, potentially conflicting answers become a complete and coherent account of the hall's event conditions.
+- **Sufficiency:** The relevant questions are answered across the full field, including their overlaps; resolving only one concern would leave the public account unsettled.
+- **Persistence:** The consolidated response stands in the meeting minutes as the reference when these questions recur.
+- **Closest rival cell and decisive difference:** Cell 51, *Case settlement*. Cell 51 discharges procedural choices by supplying an executable course across cases. Here the achievement is a complete standing answer to a range of connected questions.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 50 / Condition-bound settlement
+
+*Settlement × Distributed × Bearing*
+
+### Dialogue
+
+*Two committee members are checking whether several groups have accepted the hall's shared storage arrangement.*
+
+**Niamh:** The choir says the cupboard beside the stage is theirs. The drama group says they were promised half.
+
+**Oisín:** We discussed sharing it, but did we ever settle the conditions?
+
+**Niamh:** I have the draft: each group gets two labelled shelves; large items go in the common floor area only with the other group's agreement.
+
+**Oisín:** The choir wanted access on rehearsal nights. The drama group wanted to avoid moving equipment without notice.
+
+**Niamh:** The revised draft says both groups have keys, and neither moves the other's labelled property. It also says the floor area must stay clear of the electrical panel.
+
+**Oisín:** Have they both accepted that version?
+
+**Niamh:** The drama secretary signed yesterday. Let me check the choir message ... yes, they approved it this morning.
+
+**Oisín:** Then the cupboard isn't assigned exclusively to either group.
+
+**Niamh:** Right. Both have agreed to the same shelves, access and notice conditions.
+
+**Oisín:** I'll put the signed arrangement inside the door.
+
+**Niamh:** Good. Now we know what each group can expect of the other.
+
+### Structural check
+
+- **Change:** Competing claims to a shared cupboard become a mutually acknowledged settlement across the affected groups.
+- **Sufficiency:** Both groups accept the same conditions governing space, access and handling; one party's unilateral understanding or a draft alone would not settle their relationship.
+- **Persistence:** The arrangement obtains through the continuing reciprocal obligations and permissions accepted by the parties.
+- **Closest rival cell and decisive difference:** Cell 49, *Recurrence settlement*. That cell yields a complete answering account. Here settlement depends on shared recognition of conditions that bind several parties.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 51 / Case settlement
+
+*Settlement × Distributed × Efficacy*
+
+### Dialogue
+
+*Two volunteers are preparing a procedure for people who leave belongings behind after hall events.*
+
+**Elise:** We found a scarf, a phone and a set of keys after last night's concert. Everyone handled them differently.
+
+**Cormac:** The scarf went into the lost-property box, but the phone stayed at the desk. Someone took the keys home to keep them safe.
+
+**Elise:** That's not going to work. Let's agree what happens from the moment something is found.
+
+**Cormac:** First, log where and when it was found.
+
+**Elise:** Then ordinary items go into the labelled cupboard. Valuables go into the locked office drawer, not home with a volunteer.
+
+**Cormac:** How does someone claim an item?
+
+**Elise:** They describe it, we check the description against the log, then record who collected it.
+
+**Cormac:** And things nobody claims?
+
+**Elise:** We follow the hall's retention policy. Let's check the actual periods rather than guess them.
+
+**Cormac:** Here it is. Ordinary items are reviewed after six weeks. Valuables follow the separate procedure in the policy.
+
+**Elise:** Let's test it. A scarf found after a class?
+
+**Cormac:** Log, cupboard, verify the claimant, record collection, or review at six weeks.
+
+**Elise:** A phone?
+
+**Cormac:** Log, locked drawer, verify the owner, then the valuables procedure if unclaimed.
+
+**Elise:** Good. Every sort of case has a route from discovery to final handling.
+
+### Structural check
+
+- **Change:** Inconsistent lost-property handling becomes a determinate procedure covering the relevant cases and stages.
+- **Sufficiency:** The participants establish and test actionable directions for receipt, storage, claims and unclaimed items; no consequential stage remains dependent on improvisation.
+- **Persistence:** The settlement stands as a repeatable course of action for future lost-property cases.
+- **Closest rival cell and decisive difference:** Cell 49, *Recurrence settlement*. A complete account answers questions; this achievement specifically settles what staff do across the successive stages of differing cases.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 52 / Transformation release
+
+*Settlement × Release × Standing*
+
+### Dialogue
+
+*Two members of the hall committee are discussing an objection to the choice of a new hall sign.*
+
+**Iris:** Another email has come in asking us to reopen the sign competition.
+
+**Padraig:** Is there a problem with the vote?
+
+**Iris:** No. They just prefer the design that came second.
+
+**Padraig:** We gave everyone a chance to submit designs and used the judging process agreed beforehand.
+
+**Iris:** I checked the records. All five judges scored the entries, and the winning design met the size and accessibility requirements.
+
+**Padraig:** Then the result stands, even if someone dislikes it.
+
+**Iris:** I don't want to ignore their opinion.
+
+**Padraig:** We can acknowledge it. But an objection to the outcome isn't the same as a fault in how the decision was reached.
+
+**Iris:** So I'll reply that their preference is noted, but the competition is closed and the selected design remains approved.
+
+**Padraig:** Yes. We don't need to conduct the competition again each time someone prefers a different sign.
+
+**Iris:** Sent. I'll file it with the decision record.
+
+### Structural check
+
+- **Change:** A challenge that might reopen the sign selection is recognised as dissent that does not unsettle the completed decision.
+- **Sufficiency:** The agreed judging procedure has been fulfilled and no procedural defect is identified; the objection loses authority to require renewed adjudication.
+- **Persistence:** The selected sign remains definitively approved despite continued preference for another design.
+- **Closest rival cell and decisive difference:** Cell 54, *Continuation discharge*. Here the achievement is the standing finality of the selection. Cell 54 is the effective freedom to continue an undertaking without the old question becoming a new prerequisite.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 53 / Retrospective settlement
+
+*Settlement × Release × Bearing*
+
+### Dialogue
+
+*Two volunteers are settling expenses from the hall's fundraising supper.*
+
+**Tess:** I still have you down as owing me thirty euro for the tablecloths.
+
+**Ravi:** I thought I covered that when I bought the candles and napkins.
+
+**Tess:** Let's compare the receipts. The tablecloths were fifty, and you gave me twenty at the time.
+
+**Ravi:** Right. My candles and napkins came to thirty, but those were supposed to be reimbursed from the supper fund, not paid by you.
+
+**Tess:** Then they're separate. Did the treasurer reimburse you?
+
+**Ravi:** Yes, yesterday. Here's the transfer.
+
+**Tess:** So that thirty is already settled with the fund. It doesn't cancel what you owe me for the cloths.
+
+**Ravi:** You're right. I'll send you the remaining thirty now.
+
+**Tess:** Received. Let me update the expense sheet.
+
+**Ravi:** Does anything else show as outstanding between us?
+
+**Tess:** No. The cloths are paid in full, and your other purchases were reimbursed properly.
+
+**Ravi:** Good. I was mixing two different payments together.
+
+**Tess:** Now neither of us has a claim left against the other from the supper.
+
+### Structural check
+
+- **Change:** A confused sense of outstanding debt becomes a balanced and discharged account between the two volunteers.
+- **Sufficiency:** Distinguishing personal repayment from reimbursement by the fund establishes the correct obligations, and the final transfer satisfies the remaining claim.
+- **Persistence:** Their being quits obtains through the completed relation of payments to obligations; the former claim no longer has a balance to demand.
+- **Closest rival cell and decisive difference:** Cell 52, *Transformation release*. Cell 52 gives a decision standing finality despite dissent. Here release is constituted by a verified reciprocal balance that leaves no debt outstanding.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 54 / Continuation discharge
+
+*Settlement × Release × Efficacy*
+
+### Dialogue
+
+*Two organisers are preparing to send the hall's autumn programme to the printer.*
+
+**Aoife:** There's another suggestion to change the cover colour. I thought we were ready to print.
+
+**Hassan:** Did the person spot an error, or do they just prefer the blue version?
+
+**Aoife:** They prefer blue. The committee approved the green cover last week.
+
+**Hassan:** What about the actual details? The dates and room bookings?
+
+**Aoife:** Checked against the calendar. The accessibility notes were reviewed, and the group leaders approved their descriptions.
+
+**Hassan:** And the printer has the final file specifications?
+
+**Aoife:** Yes. They just need us to send the approved PDF.
+
+**Hassan:** Then the colour suggestion can go into the notes for next year's programme. It doesn't need another approval round.
+
+**Aoife:** I keep thinking we ought to circulate it once more, just in case.
+
+**Hassan:** What would that resolve? The required checks are finished, and the design choice was made.
+
+**Aoife:** You're right. I'll send the approved file now.
+
+**Hassan:** Has it gone?
+
+**Aoife:** Yes. The printer's acknowledged it and given us a collection date.
+
+**Hassan:** Good. I'll organise the volunteers to distribute the copies.
+
+**Aoife:** At last we're arranging distribution instead of reopening the cover discussion.
+
+### Structural check
+
+- **Change:** A programme held at risk of repeated reconsideration becomes free to proceed into printing and distribution.
+- **Sufficiency:** The required checks and approval are complete, while a new preference carries no authority to demand another decision. The participants act on that release by submitting the approved file.
+- **Persistence:** The settlement remains as an effective continuation into production and distribution without reopening the completed design question as a condition.
+- **Closest rival cell and decisive difference:** Cell 52, *Transformation release*. Cell 52 establishes the definitive status of a decision. Here the achievement is specifically the practical capacity to move on without renewed adjudication.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Cycle 2 complete. Next target: Cycle 3 / Cell 01 / Focal mark. -->
