@@ -1,4 +1,7 @@
 # SOCRATIA — THE ORDINARY CONVERSATIONS
+
+> **PRELIMINARY SKETCH — ON HOLD.** This opening was written before the first complete cycle of 54 generated dialogues. Do not expand or treat it as the foundation of the new *Socratia* yet. First complete at least Cycle 1 (Cells 01–54), preferably two independent cycles, inspect the quality of the conversations, and select the most illuminating achievements. Only then begin the substantive literary reconstruction. The canonical *Socratia* in the Fiche Ceathar repository remains unchanged.
+
 ## A dialogue-led working edition · Opening movement
 
 *Companion working manuscript to [Socratia](https://github.com/TitanicParker/fiche-ceathar/blob/main/Socratia.md). This is a new editorial experiment, not a replacement for the existing twenty-seven chapters.*
