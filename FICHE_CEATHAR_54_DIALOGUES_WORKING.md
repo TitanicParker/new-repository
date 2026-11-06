@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–2**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–15. **Next:** Cycle 2 / Cell 16 — Released option.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–25. **Next:** Cycle 2 / Cell 26 — Role correspondence.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -3228,4 +3228,419 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 2 dialogues above this marker. Next target: Cycle 2 / Cell 16 / Released option. -->
+
+## Cycle 2 / Cell 16 / Released option
+
+*Opening × Release × Standing*
+
+### Dialogue
+
+*Two neighbours are looking over the updated noticeboard outside the hall.*
+
+**Fergus:** I was going to suggest a Sunday repair café, but I remembered we're not allowed to hold events on Sundays.
+
+**Leonie:** That rule was from when the hall shared a caretaker with the school.
+
+**Fergus:** I know they've hired someone new. Does that actually change the rule?
+
+**Leonie:** It did. The committee voted on opening hours last month. There's the notice.
+
+**Fergus:** “Community bookings permitted Monday to Sunday.” I hadn't seen that.
+
+**Leonie:** They still require bookings to finish by nine in the evening, but the Sunday restriction is gone.
+
+**Fergus:** So we could book a Sunday afternoon without asking for a special exception?
+
+**Leonie:** Yes. The booking calendar has Sundays available now.
+
+**Fergus:** That's good. Most of the people who repair things work on Saturdays.
+
+**Leonie:** Put the idea to them. At least the day isn't ruled out anymore.
+
+### Structural check
+
+- **Change:** Sunday community use becomes an established possibility where an earlier rule had barred it.
+- **Sufficiency:** The prior Sunday prohibition no longer has governing force; the replacement booking policy genuinely makes that day available rather than merely tolerating an exception.
+- **Persistence:** Sunday booking stands as an available option under the current hall arrangements.
+- **Closest rival cell and decisive difference:** Cell 17, *Continual passage*. Here the completed achievement is a permitted option after a prohibition's loss of authority, not a right of access constituted by a specific entitlement that displaces discretionary permission.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 17 / Continual passage
+
+*Opening × Release × Bearing*
+
+### Dialogue
+
+*At the hall's office, a regular volunteer is checking the arrangements for the tool store.*
+
+**Sana:** Do I still have to ask the caretaker each time I need the paint cupboard opened?
+
+**Martin:** Not if you've completed the equipment induction.
+
+**Sana:** I finished that on Tuesday. I thought it just meant I knew the safety rules.
+
+**Martin:** It also gives you access to the store. Let me check the register.
+
+**Sana:** I used to wait until someone was free to unlock it. Sometimes the whole morning went by.
+
+**Martin:** Here you are: inducted on Tuesday, store access authorised for your volunteer role.
+
+**Sana:** So I can collect brushes before the caretaker arrives?
+
+**Martin:** Yes, during your booked volunteer sessions. Your badge has been activated for that door.
+
+**Sana:** But I don't have to ask whether it's all right each time?
+
+**Martin:** No. If the badge doesn't open it, that's an access fault for us to fix, not a request for the caretaker to decide.
+
+**Sana:** Good. I'll bring the brushes out before the others start painting tomorrow.
+
+### Structural check
+
+- **Change:** Access to the tool store becomes a valid, continuing entitlement of an inducted volunteer instead of depending on case-by-case caretaker approval.
+- **Sufficiency:** Recorded induction and the volunteer's authorised role constitute access; the former discretionary unlocking arrangement no longer decides admission.
+- **Persistence:** Access obtains through the ongoing relationship between induction, role and booked session, implemented by the badge rather than renewed permission.
+- **Closest rival cell and decisive difference:** Cell 16, *Released option*. That cell establishes a formerly forbidden booking possibility. Here the opening is borne by a specific recognised entitlement that makes discretionary approval unnecessary.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 18 / Edge opening
+
+*Opening × Release × Efficacy*
+
+### Dialogue
+
+*Two volunteers are preparing the hall's weekly online events notice.*
+
+**Ari:** The poetry group's announcement is ready, but I haven't sent it to the old publicity officer.
+
+**Megan:** You don't need to send it to him anymore. Didn't we settle that when the hall took over its own website?
+
+**Ari:** I know the committee said we'd handle publicity, but I wasn't sure whether his sign-off was still required.
+
+**Megan:** I've got the handover note. It says the hall's communications volunteers can publish routine notices once they've checked the event details.
+
+**Ari:** No outside approval?
+
+**Megan:** Not for routine notices. Let's check this one. The poetry group confirmed Thursday at seven?
+
+**Ari:** Yes. The room booking matches, and there's no admission charge.
+
+**Megan:** Then it's ready.
+
+**Ari:** I'll publish it now. There—it's appeared on the events page.
+
+**Megan:** Good. Last year we'd still be waiting for permission to put up an ordinary notice.
+
+**Ari:** And now, once we've checked it, we can send it out ourselves.
+
+### Structural check
+
+- **Change:** Routine publication becomes executable without the former officer's clearance controlling whether action can begin.
+- **Sufficiency:** The old sign-off no longer holds a veto, and the volunteers complete the required checks and actually publish the notice through their own authority.
+- **Persistence:** The opening remains an operative independence to publish routine verified notices without renewed external clearance.
+- **Closest rival cell and decisive difference:** Cell 17, *Continual passage*. Cell 17 rests in an access entitlement borne by a qualifying relation. This completion is specifically the capacity to initiate and carry through publication beyond a former approval barrier.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 19 / Direct bearing
+
+*Relating × Focal × Standing*
+
+### Dialogue
+
+*Two people are examining an old photograph beside the hall's newly uncovered foundation stone.*
+
+**Roisin:** The photograph says “First hall committee, 1924.” Do we know where it was taken?
+
+**Gavin:** I assumed outside the church. There are stone steps behind them.
+
+**Roisin:** Look at the narrow carved border on the right of the picture. The church steps are plain.
+
+**Gavin:** Could it be a different entrance that's been knocked down?
+
+**Roisin:** The builders uncovered a carved border beside the hall's old side door. I've got a photograph of it on my phone.
+
+**Gavin:** The notch at the bottom matches. And there's the same small crack running upwards.
+
+**Roisin:** So they're standing on the hall's old side steps.
+
+**Gavin:** That tells us where the photograph belongs. We shouldn't caption it as the church.
+
+**Roisin:** I'll put “Outside the hall's former side entrance” in the exhibition notes.
+
+**Gavin:** Good. The carving makes the connection definite.
+
+### Structural check
+
+- **Change:** An unidentified photographic setting acquires a determinate relation to the hall's former side entrance.
+- **Sufficiency:** A distinctive architectural feature anchors the image to one particular place, correcting the tentative church association.
+- **Persistence:** The photograph-to-entrance connection stands as a documented relation in the exhibition notes.
+- **Closest rival cell and decisive difference:** Cell 20, *Pivoted balance*. Cell 20 requires a role constituted through counterbearing with another term. Here a definite focal anchoring connection is established; the photograph's relation to the entrance is not a balance of opposing contributions.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 20 / Pivoted balance
+
+*Relating × Focal × Bearing*
+
+### Dialogue
+
+*Two volunteers are hanging a wooden sign over the hall's exhibition doorway.*
+
+**Lydia:** It's hanging lower on the right. I thought the hooks were level.
+
+**Omar:** They are. The sign itself is heavier at the end with the carved emblem.
+
+**Lydia:** Could we put the hanging cord in the exact middle?
+
+**Omar:** That's where it is now. The middle of the board isn't where its weight balances.
+
+**Lydia:** So we should shift the cord towards the emblem?
+
+**Omar:** A little. Hold the sign while I loosen this fitting.
+
+**Lydia:** There. The right side is still slightly down.
+
+**Omar:** Another centimetre?
+
+**Lydia:** That's level. Why does moving the cord such a small amount change it?
+
+**Omar:** The heavier end needs a shorter reach from the hanging point. The lighter end can extend farther.
+
+**Lydia:** Then the two sides balance against each other at this fitting.
+
+**Omar:** Exactly. Mark this position before we take it down to finish the paint.
+
+**Lydia:** I'll mark it underneath. Otherwise we'll have the same trouble when we put it back.
+
+### Structural check
+
+- **Change:** The sign's unequal sides acquire determinate counterbalancing positions around the hanging point.
+- **Sufficiency:** The focal suspension point establishes the opposed weight-and-distance bearings needed for level hanging; geometric centrality alone does not determine the correct relation.
+- **Persistence:** The balance exists through the continuing proportion between the two sides and their distances from the pivot.
+- **Closest rival cell and decisive difference:** Cell 19, *Direct bearing*. A connection to a location is enough there. Here the focal point only has its proper status through the mutual counterbearing of the unequal sides.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 21 / Responsive return
+
+*Relating × Focal × Efficacy*
+
+### Dialogue
+
+*Two helpers are checking the hall's accessible toilet before the first public event.*
+
+**Jo:** There's an emergency pull cord beside the sink. The electrician tested the light, but did anyone check where the call goes?
+
+**Kofi:** The indicator panel is by reception, I think. Shall I stand there while you pull it?
+
+**Jo:** Yes. Tell me what happens.
+
+**Kofi:** All right, I'm by the desk.
+
+**Jo:** Pulling now. Can you hear me?
+
+**Kofi:** The panel's sounding, and a light marked “Accessible toilet” has come on.
+
+**Jo:** Can you acknowledge it from there?
+
+**Kofi:** There's a button. I'll press it.
+
+**Jo:** The little light by the cord has changed. So the person calling can see someone's responded.
+
+**Kofi:** And it stays on at reception until we reset it at the toilet.
+
+**Jo:** Good. I was worried the cord was just attached to a bell that nobody could locate.
+
+**Kofi:** No, it brings a call to the desk and sends an acknowledgement back.
+
+**Jo:** Let's record the test for the opening checklist.
+
+### Structural check
+
+- **Change:** The pull cord becomes a demonstrably responsive connection from a particular point of need to reception.
+- **Sufficiency:** A pull at the focal location produces a located alarm and an acknowledgement back to the caller, establishing effective responsiveness rather than an assumed wiring connection.
+- **Persistence:** The completed relation remains as that call point's operative power to elicit a reception response.
+- **Closest rival cell and decisive difference:** Cell 19, *Direct bearing*. Cell 19 establishes where a relation is anchored; here completion lies in a focal call's effective return from the receiver.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 22 / Sequential link
+
+*Relating × Distributed × Standing*
+
+### Dialogue
+
+*Two members of the history group are arranging a timeline for the hall's entrance display.*
+
+**Eithne:** We've got dates for the hall opening, the roof replacement and the extension. I can't tell which of these photographs belongs between them.
+
+**Nabil:** That one has the old brick chimney, so it must be before the roof work.
+
+**Eithne:** But the extension's already there in the background.
+
+**Nabil:** Then the extension came first. What's the date in the building ledger?
+
+**Eithne:** Extension completed in 1961. Roof replaced in 1974.
+
+**Nabil:** And the photograph of the opening is from 1924. That gives us opening, extension, this photograph, then roof replacement.
+
+**Eithne:** What about the stage refurbishment?
+
+**Nabil:** 1986, according to the programme. After the roof.
+
+**Eithne:** Let's lay the whole strip out and check there are no overlaps.
+
+**Nabil:** Opening, extension, chimney photograph, new roof, stage refurbishment.
+
+**Eithne:** That's a proper timeline now. I'll number the captions in order.
+
+### Structural check
+
+- **Change:** Separate documents and images acquire a determinate relational sequence across the hall's history.
+- **Sufficiency:** The dated alterations and visible architectural features establish where each item falls within the complete ordering, not just one isolated before-and-after link.
+- **Persistence:** The established chronology stands as a relational account visitors can follow.
+- **Closest rival cell and decisive difference:** Cell 23, *Reciprocal shift*. The photographs gain positions in a settled sequence; their meaning is not constituted by simultaneous mutual roles that change with each other.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 23 / Reciprocal shift
+
+*Relating × Distributed × Bearing*
+
+### Dialogue
+
+*Two volunteers are rehearsing a short welcome presentation for the hall's reopening.*
+
+**Nora:** My part feels odd. I introduce the photographs, then you describe the restoration, then I just read a thank-you list.
+
+**Yusuf:** Maybe that's because I'm telling the whole story of the repairs. Then your photographs don't have much to do.
+
+**Nora:** What if I use the pictures to show what needed attention, and you explain what the volunteers did about it?
+
+**Yusuf:** Let's try one. You show the old stage.
+
+**Nora:** “This is how the stage looked when we first came in. You can see the damaged boards near the steps.”
+
+**Yusuf:** “And here's what the carpentry group replaced, keeping the original shape.”
+
+**Nora:** That works. My picture gives your explanation something concrete to answer.
+
+**Yusuf:** And my part helps people understand why you chose that picture.
+
+**Nora:** With the roof photograph I could ask what people remember about the leaks, then you explain the repair.
+
+**Yusuf:** Yes. We're not just taking turns speaking. Each part changes what the other is doing.
+
+**Nora:** Let's write the handovers that way throughout.
+
+### Structural check
+
+- **Change:** Two independent speaking parts acquire determinate roles as mutually informing presentation contributions.
+- **Sufficiency:** The images become prompts for the repair account, while the repair account constitutes the images as evidence of specific work. Neither contribution has its completed role in isolation.
+- **Persistence:** Their positions as question, evidence and response obtain through the distributed cross-reference built into the presentation.
+- **Closest rival cell and decisive difference:** Cell 22, *Sequential link*. Simply deciding who speaks first would produce order. Here each speaker's contribution becomes what it is through its bearing on the other.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 24 / Relational cycle
+
+*Relating × Distributed × Efficacy*
+
+### Dialogue
+
+*Two volunteers are trying to understand the hall's new ventilation controls.*
+
+**Sibel:** The extractor keeps slowing down. I thought it was meant to run at one speed during events.
+
+**Dan:** It's connected to the air-quality sensor. Watch the reading while the rehearsal group is in the room.
+
+**Sibel:** It's just gone up. The fan's speeding up too.
+
+**Dan:** That should bring in more fresh air. Let's check again after the group takes its break.
+
+**Sibel:** They've gone outside. The reading is dropping.
+
+**Dan:** And now the fan has slowed. It doesn't need to pull as much air through.
+
+**Sibel:** So the people change the air, the sensor changes the fan, and the fan changes the air again.
+
+**Dan:** Exactly. And when the air improves, the sensor tells the fan it can slow.
+
+**Sibel:** It's not an intermittent fault, then.
+
+**Dan:** No. The readings and the ventilation keep affecting each other.
+
+**Sibel:** I'll explain that to the caretaker so nobody keeps switching it to manual out of worry.
+
+### Structural check
+
+- **Change:** Varying fan speed becomes intelligible as a consequential feedback relation among occupancy, air quality, sensing and ventilation.
+- **Sufficiency:** The participants observe the cycle in both directions: worsening air increases ventilation; resulting improvement reduces demand. One causal link would not establish the operative loop.
+- **Persistence:** The achievement remains as a distributed coupling that adjusts its own continuation through returning effects.
+- **Closest rival cell and decisive difference:** Cell 21, *Responsive return*. Cell 21 centres on a source eliciting a response; here the response alters the conditions that determine the next response throughout the system.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 25 / Pattern alignment
+
+*Relating × Release × Standing*
+
+### Dialogue
+
+*Two residents are comparing the old hall's floor plan with the plan for the adjoining former schoolroom.*
+
+**Hazel:** The archives list these as two separate buildings. I'm trying to work out why both drawings show a passage beside the chimney.
+
+**Ciaran:** I assumed each passage went somewhere different. The property boundary ran between them.
+
+**Hazel:** Put the plans side by side. The chimney is drawn in the same place on each.
+
+**Ciaran:** But the schoolroom plan has been printed upside down. Turn it around.
+
+**Hazel:** Ah. The two passage lines meet exactly.
+
+**Ciaran:** And these little square marks must be the old doorposts. They line up too.
+
+**Hazel:** There's a sealed doorway in that wall today. We saw it when the plaster came off.
+
+**Ciaran:** So the drawings are two halves of the same former connecting passage.
+
+**Hazel:** Even though each archive catalogue treats its building separately.
+
+**Ciaran:** I'll note the alignment on both records. The boundary between the drawings made us miss the connection.
+
+**Hazel:** The old passage is clear when we read them together.
+
+### Structural check
+
+- **Change:** Two separately catalogued building plans become an established cross-boundary arrangement centred on a former connecting passage.
+- **Sufficiency:** The property and catalogue division ceases to determine which lines count as belonging together; matched chimney, passage and doorway features establish one corresponding layout.
+- **Persistence:** The aligned configuration stands as an accepted relational account in both archive records.
+- **Closest rival cell and decisive difference:** Cell 22, *Sequential link*. The completion here is not a temporal or procedural order but the recognition of one relational arrangement despite a boundary that previously excluded its correspondence.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 2 dialogues above this marker. Next target: Cycle 2 / Cell 26 / Role correspondence. -->
