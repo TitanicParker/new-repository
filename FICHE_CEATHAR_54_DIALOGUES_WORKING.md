@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycle 1**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cells 01–20. **Next:** Cell 21 — Responsive return.
+**Completed:** Cells 01–25. **Next:** Cell 26 — Role correspondence.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -1009,4 +1009,246 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 21 / Responsive return. -->
+
+## Cycle 1 / Cell 21 / Responsive return
+
+*Relating × Focal × Efficacy*
+
+### Dialogue
+
+*At a busy community centre, two volunteers are trying to contact the reception desk from the upstairs hall.*
+
+**Tessa:** I don't want to leave the children alone while I go downstairs for more chairs.
+
+**Mark:** There's a call button beside the storeroom. Maybe reception can send someone up.
+
+**Tessa:** I thought that was an alarm. It has a little bell drawn on it.
+
+**Mark:** The notice says “Press once for reception assistance.” Shall we try?
+
+**Tessa:** All right. I've pressed it. Nothing's happened.
+
+**Mark:** Give them a moment. There's a light blinking above it.
+
+**Tessa:** Oh, the speaker's come on.
+
+**Receptionist, over the speaker:** Upstairs hall?
+
+**Tessa:** Yes, we need six more chairs, please.
+
+**Receptionist:** I'll send them with Mo.
+
+**Mark:** So pressing that button actually brings reception onto the line.
+
+**Tessa:** And they know we're calling from this room?
+
+**Mark:** Apparently. The label under the speaker says “Upstairs hall,” and she knew where we were.
+
+**Tessa:** That's useful. We can ask for help without leaving the room.
+
+**Mark:** I'll tell the next shift how to use it.
+
+### Structural check
+
+- **Change:** The wall button becomes intelligible as a focal means of eliciting a response from reception, rather than an uncertain fixture whose consequences are unknown.
+- **Sufficiency:** Pressing it produces a responsive connection at the other end, demonstrated by reception answering the upstairs hall and taking the request. The source of the call is determinately consequential for the receiving party.
+- **Persistence:** The relation remains as an operative capacity of that call point to summon and communicate with reception when help is needed.
+- **Closest rival cell and decisive difference:** Cell 19, *Direct bearing*. Cell 19 establishes an anchored connection as a determination. Here completion requires the focal call to elicit an actual responsive return, establishing a consequential interaction rather than merely identifying what connects to what.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 22 / Sequential link
+
+*Relating × Distributed × Standing*
+
+### Dialogue
+
+*Two parents are working out the sequence for a school concert from a stack of loose programme cards.*
+
+**Faye:** These must have fallen out of order when I dropped the folder.
+
+**Omar:** We can put them back. The choir goes first, doesn't it?
+
+**Faye:** I thought so, but this note says the choir needs the risers after the violin group finishes.
+
+**Omar:** So violins before choir. What comes after the choir?
+
+**Faye:** The younger pupils' poem. There's a note here: “Clear risers while the poem is read.”
+
+**Omar:** That explains why the poem isn't first. It gives them time to change the stage.
+
+**Faye:** And the dance group needs the clear floor, so they must follow the poem.
+
+**Omar:** There's still the headteacher's welcome.
+
+**Faye:** This card says, “Welcome immediately before first performance.” That puts it ahead of the violins.
+
+**Omar:** Let's read the whole order aloud: welcome, violins, choir, poem, dance.
+
+**Faye:** Yes. The notes on each card line up with what the next group needs.
+
+**Omar:** I'll number them before they get mixed up again.
+
+**Faye:** Good. Now whoever is backstage can see how one part follows another.
+
+### Structural check
+
+- **Change:** Disconnected programme cards acquire a determinate sequence of relations, each positioned by its bearing on what precedes and follows.
+- **Sufficiency:** The running order is established across the complete event by the linked requirements for risers, stage clearance, and the opening welcome. A single before-and-after relation would not settle the configuration.
+- **Persistence:** The full ordering stands as a stable account available to the people managing the concert.
+- **Closest rival cell and decisive difference:** Cell 23, *Reciprocal shift*. The sequence here fixes relations among successive events; the identity of each part is not constituted by ongoing mutual adjustment between the participants or positions.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 23 / Reciprocal shift
+
+*Relating × Distributed × Bearing*
+
+### Dialogue
+
+*Two musicians are rehearsing a short duet on acoustic guitars.*
+
+**Rosa:** I keep losing your part when I play the melody.
+
+**Cal:** I can play mine louder.
+
+**Rosa:** You tried that yesterday. Then I just played louder too, and we both ended up strumming hard.
+
+**Cal:** True. Can we try those four bars again, but you play on your own first?
+
+**Rosa:** Like this?
+
+**Cal:** Yes. Your melody has a gap at the end of the second bar. That's where my little phrase is supposed to come through.
+
+**Rosa:** I thought you were keeping the rhythm underneath me the whole time.
+
+**Cal:** Mostly, but not in that gap. I answer the melody there.
+
+**Rosa:** Let's try it. I'll leave a little room.
+
+**Cal:** And I'll soften the chords while you're playing.
+
+**Rosa:** That sounded different. I could hear your phrase, and mine didn't have to compete with it.
+
+**Cal:** Your pause makes my phrase sound like a reply. Without it, mine sounds like an interruption.
+
+**Rosa:** And when you hold back under the melody, I don't need to push it so hard.
+
+**Cal:** So neither part has the same job all the way through.
+
+**Rosa:** Right. What I'm doing tells you where to come forward, and what you're doing tells me where to leave space.
+
+**Cal:** Let's keep that balance when we play it from the beginning.
+
+### Structural check
+
+- **Change:** Two parts initially treated as competing lines acquire determinate musical roles through their reciprocal bearing on one another.
+- **Sufficiency:** The melody's gap constitutes the other phrase as an answer, while the accompaniment's restraint constitutes the melody as foreground. These are mutually defining standings across the duet, not independent volume adjustments.
+- **Persistence:** Each part's significance continues through its relation to the other part: reply, accompaniment, foreground, and space are positions constituted within the exchange.
+- **Closest rival cell and decisive difference:** Cell 22, *Sequential link*. The point is not the fixed order of musical passages but the roles that each passage receives through how the two parts continually bear on one another. Cell 24 would additionally require a consequential feedback cycle rather than this established reciprocity of roles.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 24 / Relational cycle
+
+*Relating × Distributed × Efficacy*
+
+### Dialogue
+
+*Two housemates are checking why the heating keeps switching on and off during a chilly afternoon.*
+
+**Niamh:** The radiator's warm again. I thought the heating had just switched itself off.
+
+**Leo:** It did. Listen—the boiler's started up again.
+
+**Niamh:** Is the timer doing that?
+
+**Leo:** The timer's set to stay on until six. I think the thermostat is controlling when the boiler runs.
+
+**Niamh:** But the thermostat doesn't heat the room.
+
+**Leo:** No, it measures the room. Let's watch the display.
+
+**Niamh:** It says nineteen degrees. We've set it to twenty.
+
+**Leo:** And the boiler's running. As the radiators warm the room, the number should rise.
+
+**Niamh:** There—twenty. The flame symbol's gone.
+
+**Leo:** The boiler's stopped now.
+
+**Niamh:** So that's the end of it?
+
+**Leo:** Until the room cools. We've opened the window to clear the cooking smell, remember?
+
+**Niamh:** It's back to nineteen. And the flame symbol's on again.
+
+**Leo:** There you go. The boiler changes the temperature, the temperature changes what the thermostat asks for, and that changes the boiler again.
+
+**Niamh:** So the stopping and starting is how the room keeps near the setting.
+
+**Leo:** Exactly. It's not two unrelated things happening.
+
+### Structural check
+
+- **Change:** Repeated boiler starts and stops become intelligible as one operative pattern of interdependence among the boiler, room temperature, and thermostat.
+- **Sufficiency:** The participants observe the complete return of an effect through the system: heating alters temperature, temperature changes the thermostat's demand, and that demand alters heating again. No one link alone establishes the cycle.
+- **Persistence:** The relation remains as an effective feedback process that governs future heating and cooling, not simply as a diagram of connected parts.
+- **Closest rival cell and decisive difference:** Cell 21, *Responsive return*. Cell 21 has a focal source that calls forth a response. Here no single one-way response is sufficient: the consequential result returns through the distributed connections and alters the conditions of its own continuation.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 25 / Pattern alignment
+
+*Relating × Release × Standing*
+
+### Dialogue
+
+*Two walkers are comparing trail maps from neighbouring villages before a weekend hike.*
+
+**Elsie:** The tourist office gave me the Eastbank trail map, but the walk we want starts in Westmere.
+
+**Rob:** I picked up the Westmere one. They look like separate walking routes.
+
+**Elsie:** Mine finishes at the old stone bridge. Yours starts there, doesn't it?
+
+**Rob:** It starts near the bridge, yes, but the paths are drawn in different colours.
+
+**Elsie:** Let's put the maps edge to edge. Look—the dotted line from my map reaches the bridge at the same angle as yours.
+
+**Rob:** And those three little square symbols are benches. There are three on my side as well, spaced exactly the same way.
+
+**Elsie:** Wait, we're overlapping the bridge. Slide yours to the right.
+
+**Rob:** There. Now the bench symbols line up, and the dotted path carries straight across.
+
+**Elsie:** I assumed each village had mapped its own separate loop.
+
+**Rob:** So did I. But the bridge is part of one route, even though each leaflet stops at the village boundary.
+
+**Elsie:** And the numbered waymarkers continue: seven on your side follows six on mine.
+
+**Rob:** That's the route, then. We can follow the same pattern of markers right across the boundary.
+
+**Elsie:** I'll tape the maps together so we don't lose the alignment.
+
+### Structural check
+
+- **Change:** Two apparently separate village trail arrangements become a determinate cross-boundary correspondence.
+- **Sufficiency:** The village boundary ceases to decide which mapped connections belong together. Aligned paths, bench symbols, and consecutive waymarkers establish the same continuing trail arrangement across both maps.
+- **Persistence:** The cross-boundary correspondence stands as an established route pattern that can be read from the aligned maps, regardless of the separate village labels.
+- **Closest rival cell and decisive difference:** Cell 22, *Sequential link*. That cell establishes an ordering across a field. Here the decisive achievement is an arrangement recognised across a boundary that had prevented its connections from counting as one pattern; the boundary's former classificatory authority no longer governs the relational account.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 26 / Role correspondence. -->
