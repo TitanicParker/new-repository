@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycle 1**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cells 01–30. **Next:** Cell 31 — Cross-position validation.
+**Completed:** Cells 01–35. **Next:** Cell 36 — Disorder released.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -1483,4 +1483,256 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 31 / Cross-position validation. -->
+
+## Cycle 1 / Cell 31 / Cross-position validation
+
+*Repair × Distributed × Standing*
+
+### Dialogue
+
+*Two volunteers are checking the printed schedule for a neighbourhood film night.*
+
+**Cleo:** We need to send this to the printer, but something's wrong with the times.
+
+**Hassan:** Where?
+
+**Cleo:** The first film starts at seven and lasts ninety minutes. The discussion is listed for eight.
+
+**Hassan:** That's impossible. The discussion must be at eight-thirty.
+
+**Cleo:** Maybe, but look at the next line. The short film is supposed to start at eight-forty-five.
+
+**Hassan:** There wouldn't be much time for a discussion.
+
+**Cleo:** Do we have the original plan from the organiser?
+
+**Hassan:** Here's the email. First film at seven, discussion for fifteen minutes, short film afterward.
+
+**Cleo:** So seven to eight-thirty for the film, eight-thirty to eight-forty-five for discussion, then the short film.
+
+**Hassan:** Except the short film is thirty minutes and the refreshments are listed at nine.
+
+**Cleo:** They can't start until nine-fifteen. We should check the closing time too.
+
+**Hassan:** The hall's booked until ten. That's fine.
+
+**Cleo:** Read the whole schedule back, then. I don't want one corrected time making another line wrong.
+
+**Hassan:** Seven: first film. Eight-thirty: discussion. Eight-forty-five: short film. Nine-fifteen: refreshments. Ten: hall closes.
+
+**Cleo:** And the durations add up all the way through.
+
+**Hassan:** I'll replace the four affected times. Now the programme agrees with itself.
+
+### Structural check
+
+- **Change:** A programme containing incompatible times becomes a consistent account of the whole evening.
+- **Sufficiency:** Correctness is checked across the sequence of film durations, discussion, refreshments, and the hall's closing time. Fixing the first obvious contradiction would leave other conflicts; the completed repair requires agreement throughout the implicated schedule.
+- **Persistence:** The corrected schedule stands as a coherent programme that can be printed and consulted without its entries contradicting one another.
+- **Closest rival cell and decisive difference:** Cell 28, *Focal adjustment*. A single corrected time would suffice for a focal misprint; here the error governs several dependent entries, and the repair is achieved only as their full consistency is established.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 32 / Joint-bound repair
+
+*Repair × Distributed × Bearing*
+
+### Dialogue
+
+*Two siblings are assembling a second-hand bookcase whose doors won't close together.*
+
+**Imogen:** The left door looks straight now, but the right one still catches.
+
+**Paul:** I adjusted the right hinge twice. It closes on its own.
+
+**Imogen:** So does the left, if we open the right first. Try shutting them both.
+
+**Paul:** The edges overlap in the middle. That's the problem.
+
+**Imogen:** Could we move the whole right door outwards?
+
+**Paul:** Then there'd be a wide gap at the side. Look at the clearance along the frame.
+
+**Imogen:** So each door can look right by itself and still be wrong with the other.
+
+**Paul:** Exactly. Hold the left one where it is. I'll bring the right hinge in a little at the top.
+
+**Imogen:** Now the bottom edges touch but the tops don't.
+
+**Paul:** Then we need to adjust the lower hinge as well. Could you loosen the left one slightly?
+
+**Imogen:** There. Try closing them again.
+
+**Paul:** Both swing in, but the centre gap is narrower at the bottom.
+
+**Imogen:** A tiny adjustment on my side might even that up.
+
+**Paul:** Yes. Now both edges are parallel, and neither catches.
+
+**Imogen:** Open and close them together once more.
+
+**Paul:** Smooth. They finally fit each other and the frame.
+
+### Structural check
+
+- **Change:** Doors that each seemed locally correct but conflicted when used together acquire proper mutual alignment.
+- **Sufficiency:** The repair is achieved through the doors' matching clearances at the centre and against the shared frame. Adjusting one side in isolation cannot determine correctness because each change alters what counts as the proper position of the other.
+- **Persistence:** The repaired fit exists through the matching relations among hinges, doors, and frame; the assembly remains right insofar as those interfaces continue to agree.
+- **Closest rival cell and decisive difference:** Cell 31, *Cross-position validation*. Cell 31 establishes a corrected account whose entries stand consistently together. Here correctness is not simply an established description; it is constituted by the continuing mutual fit of physical interfaces across the assembly.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 33 / In-course correction
+
+*Repair × Distributed × Efficacy*
+
+### Dialogue
+
+*Two people are running a small café during a busy lunch service.*
+
+**Anya:** Why are these sandwiches sitting here? Table four ordered them ages ago.
+
+**Lewis:** I made them, but the kitchen screen still says “preparing.” I thought the server had to mark them ready.
+
+**Anya:** I thought you did that when you finished the food.
+
+**Lewis:** That explains the pile-up. The server's waiting for the screen to change, and I'm waiting for someone to collect the plates.
+
+**Anya:** Let's test the handoff on this next order. I'll enter it from the till.
+
+**Lewis:** It just appeared on my screen. Two soups and one toasted sandwich.
+
+**Anya:** I'll stay here and watch what it does.
+
+**Lewis:** Soup's ready. There's a button that says “ready for collection.” I never used it.
+
+**Anya:** Press it. Yes, the front screen's just flashed “collect soup.”
+
+**Lewis:** I'll finish the sandwich and press the same button.
+
+**Anya:** There it is. I'll take the whole order to table six. The screen now shows “served.”
+
+**Lewis:** And it's cleared from mine. Good.
+
+**Anya:** But what about table four? We still need to get those sandwiches out.
+
+**Lewis:** I'll mark them ready now. Can you take them and check whether they're still warm enough?
+
+**Anya:** They're fine. Table four has them, and the order's cleared.
+
+**Lewis:** Let's keep using the ready button as each part finishes. Otherwise we lose track between kitchen and floor.
+
+**Anya:** We just got the next two orders through without anything sitting here. That's working.
+
+### Structural check
+
+- **Change:** A failing kitchen-to-service process is corrected so orders move reliably from entry through preparation, collection, and delivery.
+- **Sufficiency:** The participants locate the broken handoff, restore its signal, and confirm the correction along actual orders from start to finish. Correcting only the kitchen display without restoring completed service would leave the operative fault unresolved.
+- **Persistence:** The repair remains as an effective in-course practice: marking food ready now triggers collection and allows each order to proceed through the whole service process.
+- **Closest rival cell and decisive difference:** Cell 32, *Joint-bound repair*. Cell 32 achieves correctness through mutually matching parts. Here the decisive outcome is resumed end-to-end operation across successive stages, not merely their static agreement.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 34 / Limit reset
+
+*Repair × Release × Standing*
+
+### Dialogue
+
+*Two organisers are updating the capacity notice for a neighbourhood craft workshop.*
+
+**Brigid:** The booking form still says ten people maximum.
+
+**Evan:** That was the limit when we were using the little room behind the library.
+
+**Brigid:** We have the main hall now. The fire notice allows forty, but forty people making things at tables would be ridiculous.
+
+**Evan:** Then maybe we should leave it at ten to be safe.
+
+**Brigid:** Last week we turned away six people, while half the hall was empty. The old number isn't describing this room.
+
+**Evan:** Fair point. How many tables can we lay out without blocking the door?
+
+**Brigid:** Six worktables. We need one for tools and one clear space by the sink, so that leaves five for participants.
+
+**Evan:** Four seats at each would give us twenty, but people need elbow room for cutting.
+
+**Brigid:** What about three at a table? That's fifteen places, with a clear path to the exits.
+
+**Evan:** Let's lay the chairs out and check. The passage is still wide enough, and nobody's working across someone else's space.
+
+**Brigid:** Fifteen looks right for the activity and this hall. It's below the fire limit too.
+
+**Evan:** So we should replace ten with fifteen, not just keep carrying the old room's limit with us.
+
+**Brigid:** Yes. I'll change the notice to “Fifteen workshop places.” That's the limit we'll use for this setup.
+
+### Structural check
+
+- **Change:** An unsuitable capacity limit, inherited from a different room, is replaced by a sound determination for the present workshop.
+- **Sufficiency:** The former number loses authority over the decision, while actual table space, working clearance, and safe access establish an appropriate limit. Simply raising the number would not repair the mismatch if the old assumption still controlled what counted as reasonable.
+- **Persistence:** The newly established fifteen-place limit stands as the corrected rule for this hall and workshop arrangement.
+- **Closest rival cell and decisive difference:** Cell 35, *Condition reversal*. Both displace an inherited rule, but Cell 35 achieves adequacy through a determining relation to a particular need. Here the achievement is a corrected standing limit once the old room's number ceases to distort the organisation.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 35 / Condition reversal
+
+*Repair × Release × Bearing*
+
+### Dialogue
+
+*Two people are preparing a printed menu for a community lunch.*
+
+**Dina:** I've put the whole menu into our usual leaflet template, but the ingredients are nearly impossible to read.
+
+**Farah:** The template says all the text should be the same size as the headings on last month's flyer.
+
+**Dina:** That's what I followed. But several guests asked for the ingredients in larger print because of their allergies.
+
+**Farah:** We could make a separate large-print sheet.
+
+**Dina:** Then they'd have to ask for it, and we'd still have tiny ingredient lists on the ordinary menu.
+
+**Farah:** True. What information do they actually need to check at the table?
+
+**Dina:** The dish name, the full ingredient list, and the allergens. The decorative description matters less.
+
+**Farah:** Then why don't we make those three things easier to see on every menu and drop the little decorative paragraph?
+
+**Dina:** The organiser might say it doesn't match the old leaflets.
+
+**Farah:** She asked us to make the lunch menu usable. She didn't say the flyer template was compulsory.
+
+**Dina:** Let me try a larger type size. Here's the soup, with milk and celery clearly shown.
+
+**Farah:** And the nut-free dish? It needs to say what it contains, not just what it doesn't.
+
+**Dina:** I've listed the ingredients underneath. Can you read both without leaning over the page?
+
+**Farah:** Yes. And I can check the allergens straight away.
+
+**Dina:** Then this is the layout we should use. The old template looked tidy, but it was making the important information too hard to use.
+
+**Farah:** Agreed. The menu needs to fit what people are checking, not the design of an unrelated flyer.
+
+### Structural check
+
+- **Change:** A menu that failed its readers' practical information need becomes legible and checkable through a layout no longer dictated by the inherited flyer template.
+- **Sufficiency:** The template's uniform visual rule loses determining force; correctness is established by the menu's fit with the relevant need to inspect ingredients and allergens at the table. The repair would not be complete merely by rejecting the old template if the new layout still failed that need.
+- **Persistence:** The adequacy of the corrected menu exists through its continuing relation to the readers' actual task of finding and checking critical food information.
+- **Closest rival cell and decisive difference:** Cell 34, *Limit reset*. Cell 34 produces a corrected standing limit after a misleading inherited constraint is displaced. Here the completed repair is constitutively need-relative: the design is right in virtue of meeting the use that the old rule obstructed.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 36 / Disorder released. -->
