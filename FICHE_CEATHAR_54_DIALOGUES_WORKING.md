@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycle 1**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cells 01–10. **Next:** Cell 11 — Source-carried divergence.
+**Completed:** Cells 01–15. **Next:** Cell 16 — Released option.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -539,4 +539,240 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 11 / Source-carried divergence. -->
+
+## Cycle 1 / Cell 11 / Source-carried divergence
+
+*Opening × Focal × Bearing*
+
+### Dialogue
+
+*Two neighbours are at the entrance to a local history festival, looking at their booking confirmation.*
+
+**Aisling:** I thought we had to choose between the house tour and the garden talk when we booked.
+
+**Ben:** So did I. The email only gives us one ticket.
+
+**Aisling:** It says “festival admission” at the top. Maybe that's just for the grounds.
+
+**Ben:** The house tour starts here, but the garden talk is through that arch. Are they checking separate tickets?
+
+**Aisling:** Let's ask before we queue. Look, there's a list of what's included on the back of the confirmation.
+
+**Ben:** “House tour or garden talk, subject to space.” I missed that.
+
+**Aisling:** But does the same ticket cover whichever one we choose?
+
+**Ben:** There's a note underneath: “Present your festival admission at either entrance.”
+
+**Aisling:** So we don't have to pick now?
+
+**Ben:** Apparently not. We can use this booking for either event.
+
+**Aisling:** I fancy the garden talk if the weather holds.
+
+**Ben:** And the house if it rains.
+
+**Aisling:** Good. I'll keep the confirmation handy. That's what gets us into whichever one we go to.
+
+### Structural check
+
+- **Change:** Two apparently separate admission routes become accessible as genuine alternatives through a single confirmed entitlement.
+- **Sufficiency:** The festival admission is the decisive enabling source; its validity constitutes access to either event, rather than simply placing two activities on a list of possibilities.
+- **Persistence:** Either option remains open through the continuing validity of the same booking, which must be presented at the chosen entrance.
+- **Closest rival cell and decisive difference:** Cell 13, *Alternate passage*. Cell 13 establishes a range of available routes across a distributed field; here the divergence remains constituted by one focal source of admission that authorizes either choice.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 12 / Branching output
+
+*Opening × Focal × Efficacy*
+
+### Dialogue
+
+*Two staff members are setting up a pop-up market in an old courtyard. Their trolley is outside a narrow service gate.*
+
+**Dara:** The stalls are in there, but this trolley won't fit through the pedestrian turnstile.
+
+**Mina:** Isn't there a wide gate beside it?
+
+**Dara:** There is, but I couldn't get it open. I thought it was bolted from the other side.
+
+**Mina:** The sign says to lift the handle before pulling. Did you try that?
+
+**Dara:** I pulled it straight towards me. Hang on.
+
+**Mina:** Lift first. There, it's moving.
+
+**Dara:** That's a relief. Shall we try the trolley?
+
+**Mina:** I'll steer. You hold the gate.
+
+**Dara:** Through! There's plenty of room.
+
+**Mina:** And we can get to the tables on the left from here.
+
+**Dara:** The loading area is on the right, isn't it? We need to take the boxes there first.
+
+**Mina:** Yes. Both paths start inside this gate.
+
+**Dara:** So once the gate's open we can bring equipment to either side, instead of carrying everything piece by piece through the turnstile.
+
+**Mina:** Exactly. Let's get the heavier boxes in while we've got the trolley.
+
+### Structural check
+
+- **Change:** A decisive entrance changes from an apparent obstruction into a usable passage that enables several continuations of the setup.
+- **Sufficiency:** Successfully opening the wide gate and moving the loaded trolley through it establish the operative capacity at the bottleneck. From that access point, distinct practical routes into the courtyard become executable.
+- **Persistence:** The completion is the acquired ability to bring equipment through the gate and direct it along either internal route, not merely knowledge that an entrance exists.
+- **Closest rival cell and decisive difference:** Cell 11, *Source-carried divergence*. In Cell 11 options obtain through a valid source of entitlement. Here the point of opening is an accomplished practical capacity at a bottleneck, generating different possible continuations.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 13 / Alternate passage
+
+*Opening × Distributed × Standing*
+
+### Dialogue
+
+*Two friends are planning how to reach a concert across town after discovering their usual bus has been cancelled.*
+
+**Nora:** That's the last direct bus gone. I suppose we'll have to get a taxi.
+
+**Ibrahim:** Maybe. Is the concert hall anywhere near the green tram line?
+
+**Nora:** It is, but we're on the other side of the river.
+
+**Ibrahim:** We can cross at the pedestrian bridge and catch the tram at Market Square.
+
+**Nora:** That's one way. What if the tram's crowded?
+
+**Ibrahim:** There should be a second bus from the station. It goes around the north side and stops behind the hall.
+
+**Nora:** Does it run this late?
+
+**Ibrahim:** Let me check. Yes, every twenty minutes until eleven.
+
+**Nora:** We could also walk from here. The map says thirty-five minutes.
+
+**Ibrahim:** We'd have to leave now, but we'd still get there before the support act.
+
+**Nora:** So the cancelled bus doesn't leave us stranded. We've got the tram by the bridge, the station bus, or the walk.
+
+**Ibrahim:** The tram's probably easiest. But if it's delayed, we know the other two are there.
+
+**Nora:** Good. I'll stop looking at taxi prices.
+
+### Structural check
+
+- **Change:** A trip initially experienced as blocked by one cancelled service becomes a determinate range of available passages.
+- **Sufficiency:** Multiple independently available routes across the relevant transport network are established, each capable of reaching the concert hall; the opening is not exhausted by one privileged access point.
+- **Persistence:** The alternative routes stand as an available repertoire from which the travellers may choose as conditions change.
+- **Closest rival cell and decisive difference:** Cell 11, *Source-carried divergence*. No single entitlement or enabling connection constitutes these alternatives. Their availability is established across different routes in the network.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 14 / Span-carried reach
+
+*Opening × Distributed × Bearing*
+
+### Dialogue
+
+*At a community sports centre, two parents are trying to work out which activities their family membership covers.*
+
+**Helen:** I thought the family pass meant we could use everything here.
+
+**Marco:** I thought so too, but the climbing wall page says there's an age rule.
+
+**Helen:** Our youngest is eight. Does that rule her out?
+
+**Marco:** Not necessarily. It says children eight to eleven can climb with an adult in the beginner session.
+
+**Helen:** And swimming?
+
+**Marco:** Family members can use the pool during public swim hours. The early morning lane session is adults only.
+
+**Helen:** What about badminton? I'd booked that for Saturday.
+
+**Marco:** Courts are included, but only when you've reserved a slot. Membership doesn't automatically reserve one.
+
+**Helen:** So it's not one blanket yes or no.
+
+**Marco:** Right. Let me write it down: pool during public hours, climbing in the supervised beginner session for her age, and badminton with a court booking.
+
+**Helen:** And all of those are covered by the family pass once we meet the relevant conditions?
+
+**Marco:** That's how the membership page puts it. We don't need to buy separate admission for them.
+
+**Helen:** Good. I can see what we can actually arrange for the weekend now.
+
+### Structural check
+
+- **Change:** A vague possibility of centre-wide access becomes a determinate spread of accessible activities under their respective qualifying conditions.
+- **Sufficiency:** Reach is established across swimming, climbing, and badminton only through the eligibility rules and bookings constitutive of each opening; neither unrestricted access nor an isolated permission would describe it.
+- **Persistence:** The accessible range remains constituted by the relation of membership, age, supervision, session times, and reservations to each activity.
+- **Closest rival cell and decisive difference:** Cell 13, *Alternate passage*. There the range of alternatives stands as an established set of available routes. Here the achieved range is inseparable from the conditions under which each possibility is available.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 15 / Field distribution
+
+*Opening × Distributed × Efficacy*
+
+### Dialogue
+
+*Two volunteers are testing a new portable sound system before a neighbourhood event in a long community hall.*
+
+**Sam:** Last year people at the back couldn't hear the announcements.
+
+**Priya:** We only had the speaker by the stage then. This time we've added two wireless speakers along the hall.
+
+**Sam:** Does the microphone reach both of them?
+
+**Priya:** It should. Take the microphone and keep talking while you walk towards the doors.
+
+**Sam:** Testing. Can you hear me by the kitchen?
+
+**Priya:** Yes, clearly. Keep going.
+
+**Sam:** What about beside the folding partition?
+
+**Priya:** Still good. I'll go behind it and check.
+
+**Sam:** One, two, three. Anything?
+
+**Priya:** Yes. No drop-out there.
+
+**Sam:** Now I'm by the far doors.
+
+**Priya:** I can hear every word at this end. Can you hear the announcement coming from the speakers near you?
+
+**Sam:** Yes. And the people setting up the chairs halfway down can hear it too.
+
+**Priya:** Let's try one announcement from the stage while I walk the whole length.
+
+**Sam:** “Volunteers, please come to the front desk.”
+
+**Priya:** That carried all the way, including behind the partition.
+
+**Sam:** Good. We can make announcements to the whole hall now, not just the people near the stage.
+
+### Structural check
+
+- **Change:** The practical reach of announcements extends from a limited area near the stage to the relevant span of the hall.
+- **Sufficiency:** The extended possibility is tested along the whole course, including locations where coverage might fail. A working speaker at one spot would not establish distributed reach.
+- **Persistence:** The expanded opening remains as a functioning capacity to make audible announcements throughout the hall using the connected speaker system.
+- **Closest rival cell and decisive difference:** Cell 13, *Alternate passage*. That cell establishes a set of possible routes. Here the achievement is continuous executable reach over a distributed span, verified by actual transmission rather than the listing of options.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 16 / Released option. -->
