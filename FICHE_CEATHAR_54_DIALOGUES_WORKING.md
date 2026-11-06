@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycle 1**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cells 01–40. **Next:** Cell 41 — Mutual-support structure.
+**Completed:** Cells 01–45. **Next:** Cell 46 — Settled alternative.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -1965,4 +1965,234 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 41 / Mutual-support structure. -->
+
+## Cycle 1 / Cell 41 / Mutual-support structure
+
+*Integration × Distributed × Bearing*
+
+### Dialogue
+
+*Two neighbours are assembling a freestanding garden arch from several wooden pieces.*
+
+**Mae:** It leans every time I let go of this side.
+
+**Anton:** I've tightened the left upright. That one's solid.
+
+**Mae:** Solid when you're holding the other side, maybe. Try stepping back.
+
+**Anton:** Oh. The top twists towards me.
+
+**Mae:** The instructions show these two diagonal braces. We haven't fitted them.
+
+**Anton:** I thought they were just decoration.
+
+**Mae:** Look where they join. One runs from the left post to the top of the right, and the other crosses it.
+
+**Anton:** So neither upright is meant to stand on its own.
+
+**Mae:** Let's fit both loosely first. Hold the top level while I put the bolts through.
+
+**Anton:** First brace is in. Still wobbly.
+
+**Mae:** Now the second. Tighten them together.
+
+**Anton:** There. I can let go and it doesn't twist.
+
+**Mae:** Push gently on the left side.
+
+**Anton:** The whole arch holds. And pushing on the right doesn't pull it out of square.
+
+**Mae:** Those pieces aren't just added to a finished frame. They're what lets each side support the other.
+
+**Anton:** I'll put the climbing rose beside it tomorrow.
+
+### Structural check
+
+- **Change:** Separate uprights and crosspieces acquire the coherence of an arch through their interlocking support.
+- **Sufficiency:** The crossing braces distribute stability among the parts; the single tightened post is inadequate because the whole's soundness is constituted by mutual support.
+- **Persistence:** The arch remains coherent through the continuing brace-and-post relations; no independent piece secures the whole.
+- **Closest rival cell and decisive difference:** Cell 40, *Role array*. A distributed role array can stand as an articulated organization; this structure's integrity specifically obtains through its parts supporting one another.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 42 / Role activation
+
+*Integration × Distributed × Efficacy*
+
+### Dialogue
+
+*Two friends are helping run a school jumble sale just before the doors open.*
+
+**Jess:** We have four volunteers, but nobody seems to know what to do when people arrive.
+
+**Ravi:** The boxes are priced, at least. Who's taking money?
+
+**Jess:** I can do that. But if I'm at the till, I can't tell people where everything is.
+
+**Ravi:** I'll meet them at the door and point them towards the right tables. Cian can restock from the boxes behind the curtain.
+
+**Jess:** What about Nola?
+
+**Ravi:** She knows which items have already been reserved. She can check the collection list before anything leaves.
+
+**Jess:** Let's test it with that lamp someone is collecting.
+
+**Ravi:** I'll pretend to be the customer. “I'm here for the blue lamp.”
+
+**Jess:** Nola checks the name first.
+
+**Ravi:** She says it's reserved for Ms Byrne. Good. Then I bring the customer to your table.
+
+**Jess:** I take payment, mark it collected and give the receipt. Meanwhile Cian can refill the empty space on the shelf.
+
+**Ravi:** We just got a collection through without anyone leaving their station.
+
+**Jess:** And each of us knew when to hand something to the next person.
+
+**Ravi:** I'll explain the sequence to Cian and Nola before the doors open.
+
+### Structural check
+
+- **Change:** Four separately available helpers become a coordinated team capable of completing sales and collections.
+- **Sufficiency:** Complementary roles are exercised together in a successful trial, covering greeting, verification, payment and replenishment; a list of assignments alone would not establish operative team competence.
+- **Persistence:** The integration remains as the team's repeatable ability to carry out transactions through its distributed roles.
+- **Closest rival cell and decisive difference:** Cell 40, *Role array*. That cell establishes a differentiated whole as a standing arrangement. Here the whole is achieved as functioning joint performance, not just a stable division of roles.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 43 / Self-maintaining equilibrium
+
+*Integration × Release × Standing*
+
+### Dialogue
+
+*Two parents are looking at a new combined display of pupils' artwork in the school corridor.*
+
+**Farah:** Wasn't this going to be two exhibitions, one for each year group?
+
+**Neil:** That's what the old labels said. But the teachers decided to arrange the work around the river project instead.
+
+**Farah:** I can still tell which drawings the younger children made.
+
+**Neil:** Yes, but they aren't on a separate wall anymore. Look at this section: sketches of the riverbank above, clay models underneath, and poems beside them.
+
+**Farah:** The poems refer to things in the drawings. And those clay bridges are based on the children's measurements.
+
+**Neil:** There's a map running along the whole display too. Each piece is placed where its subject belongs along the river.
+
+**Farah:** So the work isn't just mixed together to be fair to both classes.
+
+**Neil:** No. The map and themes give it an arrangement of its own.
+
+**Farah:** Even if you took the class-year stickers away, you'd still know how the exhibition is organised.
+
+**Neil:** The teachers have already removed them. The title just says “Our River.”
+
+**Farah:** It really is one exhibition now.
+
+### Structural check
+
+- **Change:** Work formerly organized as two separate class exhibitions acquires a determinate integrated structure organized by the river project.
+- **Sufficiency:** The year-group division ceases to determine placement; thematic and mapped relations establish membership and structure of one exhibition, rather than merely placing different classes' work side by side.
+- **Persistence:** The achieved exhibition stands as an established whole whose organization remains intelligible without the former class partitions.
+- **Closest rival cell and decisive difference:** Cell 37, *Focal whole*. Although the river map helps organize the display, what completes this achievement is the loss of the old partition's authority over membership and organization and the emergence of one stable exhibition.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 44 / Sustained equilibrium
+
+*Integration × Release × Bearing*
+
+### Dialogue
+
+*Two members of a shared community allotment are checking how the new growing arrangement has worked.*
+
+**Orla:** I wasn't sure putting the two old groups on the same plot would last.
+
+**Benny:** Because the herb growers and vegetable growers used to argue over every bed?
+
+**Orla:** Yes. They insisted the beds belonged to one group or the other.
+
+**Benny:** Look at the new planting plan. Herbs run along the edges of the vegetable beds now.
+
+**Orla:** The vegetables shade the parsley in summer, and the flowering herbs bring pollinators near the beans.
+
+**Benny:** And when we water the vegetables, those herbs get watered as well.
+
+**Orla:** I thought we'd just split the space down the middle again.
+
+**Benny:** That wouldn't give us this arrangement. Neither group could keep these beds going quite the same way alone.
+
+**Orla:** We still disagree about what to plant sometimes.
+
+**Benny:** Sure, but we decide by what the neighbouring plants need, not by which group owns a strip.
+
+**Orla:** The rosemary's doing well beside the beans. Shall we keep this layout next season?
+
+**Benny:** Definitely. The whole bed is working because the plants and the people support one another.
+
+### Structural check
+
+- **Change:** A plot previously divided by group ownership becomes a shared integrated growing arrangement sustained by actual mutual supports.
+- **Sufficiency:** The former territorial boundary no longer settles who belongs where; water, shade, pollination and coordinated care constitute the bed's coherence instead of merely coexisting alongside the old division.
+- **Persistence:** The whole obtains through continuing ecological and cooperative relations that sustain it, despite differences in preference.
+- **Closest rival cell and decisive difference:** Cell 41, *Mutual-support structure*. Cell 41 also depends on reciprocal supports, but here inherited group divisions specifically lose authority over the relationships that constitute the whole.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 45 / Convergent whole
+
+*Integration × Release × Efficacy*
+
+### Dialogue
+
+*Two staff members are preparing to open a neighbourhood food festival.*
+
+**Ned:** The first stallholder is here, but the setup list says only the events team can move the tables.
+
+**Lila:** And the events team is still unloading the van. We're going to have everyone waiting in the street.
+
+**Ned:** I could carry tables, but I'm on the publicity team. Last year we weren't supposed to touch setup.
+
+**Lila:** The organisers changed that rule for this event. The opening crew can do whatever's needed for the shared setup, as long as we tell each other what's done.
+
+**Ned:** Are you sure the safety checks aren't still assigned separately?
+
+**Lila:** They are. Only the trained person checks the electrical connections. But moving and arranging tables isn't restricted.
+
+**Ned:** Then I'll bring the folding tables from the store. Can you mark where the food stalls go?
+
+**Lila:** Yes. After that I'll help you with the chairs.
+
+**Ned:** The stallholder's asking where to put her boxes.
+
+**Lila:** Tell her to use the labelled unloading area for now. We'll clear her space together.
+
+**Ned:** Tables placed. The events crew's just arrived with the banners.
+
+**Lila:** Good. They can hang the banners while we finish the seating.
+
+**Ned:** We didn't have to wait for each department to finish its own bit before anything else could move.
+
+**Lila:** And now the whole space is ready for the vendors. Let's open the gate.
+
+### Structural check
+
+- **Change:** Departmentally partitioned contributions become a coordinated capacity to complete venue setup as one undertaking.
+- **Sufficiency:** Former departmental ownership no longer dictates which team may execute ordinary shared tasks; work is allocated by actual needs and competencies, allowing the group to open the site together.
+- **Persistence:** The completion is an operative joint capacity that can continue across former departmental lines without being fragmented by territorial claims.
+- **Closest rival cell and decisive difference:** Cell 42, *Role activation*. Both produce team efficacy, but Cell 42 does so through a distributed array of complementary assignments. Here the achieved whole is defined by coordinated action no longer governed by fixed departmental territories.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 46 / Settled alternative. -->
