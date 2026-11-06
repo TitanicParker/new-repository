@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–2**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–25. **Next:** Cycle 2 / Cell 26 — Role correspondence.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–35. **Next:** Cycle 2 / Cell 36 — Disorder released.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -3643,4 +3643,435 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 2 dialogues above this marker. Next target: Cycle 2 / Cell 26 / Role correspondence. -->
+
+## Cycle 2 / Cell 26 / Role correspondence
+
+*Relating × Release × Bearing*
+
+### Dialogue
+
+*Two volunteers are preparing to teach new helpers how to handle the hall's archive collection.*
+
+**Brendan:** I was going to explain the records system to you, but I can't work out why this folder has three numbers.
+
+**Amira:** They're location codes. I helped catalogue the library's donations, and we used something similar.
+
+**Brendan:** I thought the history group had its own system. I've been on that group for years.
+
+**Amira:** You know what the documents mean. I can show you how to make them findable. Look: the first number is the cupboard, the second the shelf, and the third the folder.
+
+**Brendan:** Ah, so this is cupboard two, shelf four, folder six. That helps. But the dates on these programmes are tricky.
+
+**Amira:** They're all stamped 1952, aren't they?
+
+**Brendan:** The stamp is when they were donated. See the old printer's mark? The performances were in the thirties.
+
+**Amira:** I would have filed them under the wrong decade.
+
+**Brendan:** Then we'll need each other's help when we train the new volunteers.
+
+**Amira:** Yes. You show them how to read the historical clues, and I'll show them how to record where things are.
+
+**Brendan:** Being the longest-serving member doesn't make me the expert on every part of this.
+
+### Structural check
+
+- **Change:** The participants' roles as knowledgeable guide and learner become determinate through what each contributes, instead of being fixed by seniority in the history group.
+- **Sufficiency:** The seniority rule loses its power to settle who instructs whom; the participants' actual expertise and dependence on one another constitute their roles in the shared archive work.
+- **Persistence:** Their standings obtain through the particular bearings between historical interpretation and cataloguing knowledge, not through a permanent rank.
+- **Closest rival cell and decisive difference:** Cell 23, *Reciprocal shift*. Reciprocal roles matter in both, but here an inherited ranking specifically ceases to prescribe the relationship and actual contributions determine it.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 27 / Emergent coordination
+
+*Relating × Release × Efficacy*
+
+### Dialogue
+
+*Two volunteers are managing arrivals at a crowded hall event.*
+
+**Imran:** We've got people coming in faster than I can send messages to the event leader. She's still in the kitchen.
+
+**Sylvie:** I'm inside by the coat rail. What do you need to know?
+
+**Imran:** Whether there's somewhere for a buggy. Usually I ask the leader and wait for her to tell you.
+
+**Sylvie:** There's a space beside the coat rail now. Tell the family to come through and I'll meet them.
+
+**Imran:** All right. Another family has arrived with a wheelchair. Is the side aisle clear?
+
+**Sylvie:** I can see it from here. Someone's left a folding chair there. I'll move it and tell you when it's clear.
+
+**Imran:** I can hold the door meanwhile.
+
+**Sylvie:** Clear now.
+
+**Imran:** Thanks. They're coming in. Actually, someone behind them has brought a large parcel for the craft stall.
+
+**Sylvie:** Send them to the unloading door, not through the foyer. I'll tell the stall team to meet them.
+
+**Imran:** That's much quicker than passing every question through the kitchen.
+
+**Sylvie:** We can keep each other informed as things change. The leader doesn't need to relay things we can see and sort out between us.
+
+### Structural check
+
+- **Change:** Information about arrivals becomes directly consequential across the doorway and foyer, instead of passing through the event leader as an obligatory intermediary.
+- **Sufficiency:** Direct responses determine safe entry, buggy space and delivery routing without the former command route deciding how the participants may influence each other.
+- **Persistence:** The achieved relation remains as effective direct responsiveness that can adapt the two volunteers' actions as arriving needs change.
+- **Closest rival cell and decisive difference:** Cell 24, *Relational cycle*. This is not a self-returning feedback process; it is coordination through influence freed from an inherited communication hierarchy.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 28 / Focal adjustment
+
+*Repair × Focal × Standing*
+
+### Dialogue
+
+*Two committee members are checking the hall's printed opening announcement.*
+
+**Celia:** Why does the notice say the first public evening is the twenty-third?
+
+**Tom:** Isn't that the date we agreed?
+
+**Celia:** The twenty-third is when the volunteers finish setting up. The public event is on the twenty-fourth.
+
+**Tom:** Have you got the booking confirmation?
+
+**Celia:** Here. Friday the twenty-fourth, seven o'clock.
+
+**Tom:** The weekday's right on the poster but the date isn't. I must have copied the setup day from my notes.
+
+**Celia:** Everything else looks fine: doors at half past six, talk at seven, tea afterwards.
+
+**Tom:** I'll change “23” to “24” in the master file.
+
+**Celia:** Can you show me the proof before it goes back to the printer?
+
+**Tom:** Here it is: “Friday 24 April.” Does that match the booking?
+
+**Celia:** Exactly. That's the version to use.
+
+**Tom:** I'll mark the earlier proof obsolete so it doesn't get printed by mistake.
+
+### Structural check
+
+- **Change:** The hall's official announcement changes from a faulty date to a definite corrected formulation.
+- **Sufficiency:** The correction at the one decisive passage matches the confirmed public-event date, with the other announcement details checked as unaffected.
+- **Persistence:** The amended master proof stands as the valid announcement rather than the erroneous draft.
+- **Closest rival cell and decisive difference:** Cell 31, *Cross-position validation*. The error is localized to one determinative statement; the achievement is not repair of contradictions spread across a whole account.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 29 / Proportional correction
+
+*Repair × Focal × Bearing*
+
+### Dialogue
+
+*Two volunteers are fitting a replacement shelf inside the hall's kitchen cupboard.*
+
+**Paula:** It's level, but it rattles whenever I touch it.
+
+**Eoin:** I cut it to the width we measured last week.
+
+**Paula:** The width seems fine. Look at these supports: there's a gap above the back ones.
+
+**Eoin:** The front pegs are a different height. Someone must have replaced two with shorter ones.
+
+**Paula:** Could we just wedge cardboard underneath?
+
+**Eoin:** Better to use four matching supports. There's a packet in the toolbox.
+
+**Paula:** Are these all the same height?
+
+**Eoin:** Yes, eight millimetres from the mounting pin to the shelf seat. Let me replace the back two.
+
+**Paula:** Try the shelf again.
+
+**Eoin:** No rocking now.
+
+**Paula:** And the front edge sits level with the cupboard markings.
+
+**Eoin:** Then those supports match what the shelf needs in this cupboard.
+
+**Paula:** Good. We can put the mugs back without it tipping.
+
+### Structural check
+
+- **Change:** A poorly supported shelf acquires proper fit through replacement pegs matched to the shelf's four bearing positions.
+- **Sufficiency:** Correctness is constituted by the focal fit between shelf and supports at the mounting interface; nominally installed parts were insufficient because the heights did not agree.
+- **Persistence:** The repaired condition exists through the continuing dimensional match of the support seats to the shelf.
+- **Closest rival cell and decisive difference:** Cell 28, *Focal adjustment*. A corrected version can stand on its own as the result in Cell 28. Here rightness consists in a fit between counterparts, and changing the support geometry would undo it.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 30 / Load transfer
+
+*Repair × Focal × Efficacy*
+
+### Dialogue
+
+*Two caretakers are trying to open a heavy store-room door that scrapes along the floor.*
+
+**Gus:** Don't push it too hard. I've been lifting the handle while pulling to get it past that spot.
+
+**Nina:** Shouldn't the bottom hinge carry it without all that?
+
+**Gus:** It used to. I think one of the screws has pulled loose.
+
+**Nina:** You're right. The hinge plate is moving away from the frame.
+
+**Gus:** I've got longer fixing screws. Hold the door steady while I replace them.
+
+**Nina:** All right. The plate's tight now.
+
+**Gus:** Let's try it without lifting. It still brushes the floor slightly.
+
+**Nina:** The hinge needs a little adjustment at the top too. Pass me the screwdriver.
+
+**Gus:** There. Now try again.
+
+**Nina:** Opens all the way with one hand. No need to take the weight at the handle.
+
+**Gus:** The hinge is carrying the door properly again.
+
+**Nina:** That's better. Volunteers shouldn't have to know a trick to open a store-room.
+
+### Structural check
+
+- **Change:** A failing hinge regains the ability to carry the door's weight, replacing the improvised practice of lifting it by the handle.
+- **Sufficiency:** The door opens normally under its own hardware after the repair, demonstrating restored load-bearing function at the decisive component.
+- **Persistence:** The result is an accomplished capacity of the hinge-and-door assembly to operate without a person bearing part of the door's weight.
+- **Closest rival cell and decisive difference:** Cell 29, *Proportional correction*. Although fit matters, the decisive completion here is restored weight transfer and function, not fit considered as the constitutive achievement.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 31 / Cross-position validation
+
+*Repair × Distributed × Standing*
+
+### Dialogue
+
+*Two organisers are reviewing the programme for the hall's reopening weekend.*
+
+**Mary:** The printed schedule says the children's workshop ends at twelve, but the room list has it running until half past.
+
+**Hadi:** And the choir is supposed to set up in that room at twelve-fifteen.
+
+**Mary:** We need the actual times from the group leaders, not just change one line.
+
+**Hadi:** Here's the workshop email: ten to eleven forty-five, with fifteen minutes for clearing up.
+
+**Mary:** So the room is free at twelve. That means the room list is wrong.
+
+**Hadi:** What time did the choir say they'd arrive?
+
+**Mary:** Twelve-fifteen for setup, and they start at one.
+
+**Hadi:** The main programme currently puts their performance at twelve forty-five.
+
+**Mary:** Then both documents need updating. Workshop ends eleven forty-five, clear by twelve, choir setup twelve-fifteen, performance one.
+
+**Hadi:** Does the next event overlap?
+
+**Mary:** Tea begins at two in the supper room, so no. Let's read the entire day's programme once more.
+
+**Hadi:** It agrees now across the room list, public programme and emails.
+
+**Mary:** Good. I'll circulate these corrected versions together.
+
+### Structural check
+
+- **Change:** Conflicting accounts of the weekend programme become a consistent set of times and room allocations.
+- **Sufficiency:** The repair holds across the workshop, clearing period, choir setup, performance and associated records; fixing one line alone would leave contradictory information elsewhere.
+- **Persistence:** The corrected programme and room list stand as one reliable account of the day.
+- **Closest rival cell and decisive difference:** Cell 28, *Focal adjustment*. The success here depends on agreement across several implicated positions and documents, not on one decisive text replacement.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 32 / Joint-bound repair
+
+*Repair × Distributed × Bearing*
+
+### Dialogue
+
+*Two volunteers are reassembling the folding screen used to divide the hall's activity room.*
+
+**Vera:** Each panel is straight, but the screen won't fold flat.
+
+**Lewis:** I replaced that damaged hinge yesterday. Maybe I fitted it backwards.
+
+**Vera:** This hinge closes inward, but the next one also closes inward. Shouldn't they alternate?
+
+**Lewis:** Let me open the screen out. You're right—the panels are pushing against one another at the middle joint.
+
+**Vera:** If we turn that hinge around, the second panel will fold towards the first.
+
+**Lewis:** I'll loosen it. Can you hold the middle panel upright?
+
+**Vera:** There. Try folding it now.
+
+**Lewis:** Better, but the last two panels catch at the edge.
+
+**Vera:** That end hinge is set too far forward. Look at the gap along the joint.
+
+**Lewis:** I'll align it with the other hinge plates. Now all four panels fold together.
+
+**Vera:** And they unfold into a straight screen without gaps.
+
+**Lewis:** So none of the hinge positions can be right by itself. They all have to match the direction and spacing of the neighbouring panels.
+
+### Structural check
+
+- **Change:** Individually straight panels with incompatible joints acquire proper mutual alignment as a folding screen.
+- **Sufficiency:** Correctness is established through the interfaces among multiple hinges and panels, where a local adjustment changes what fits the adjoining part.
+- **Persistence:** The repaired screen's correctness obtains through continuing relational agreement among its joints during folding and unfolding.
+- **Closest rival cell and decisive difference:** Cell 31, *Cross-position validation*. Cell 31 results in a corrected standing account; here the achievement remains constituted by mutual fit among connected physical parts.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 33 / In-course correction
+
+*Repair × Distributed × Efficacy*
+
+### Dialogue
+
+*Two volunteers are running a trial of the hall's new tea-service arrangement.*
+
+**Jean:** We've got cups waiting here, but people at the tables say they haven't been served.
+
+**Rafi:** I'm making tea as orders arrive. I thought someone else was collecting the trays.
+
+**Jean:** The runners don't know when a tray is complete. They keep coming back to ask.
+
+**Rafi:** Could we put finished trays on this marked shelf and ring the little bell?
+
+**Jean:** Let's try with table three's order. Two teas, one coffee, no milk.
+
+**Rafi:** Here it is. I'll check the ticket, put the complete tray on the shelf, and ring.
+
+**Jean:** I'll take it to table three. They say it's right. I'll bring the ticket back marked served.
+
+**Rafi:** Then I can see the order's finished rather than making it twice.
+
+**Jean:** Try the next one. Table five, four teas.
+
+**Rafi:** Ready. Bell rung.
+
+**Jean:** Delivered. Nothing left waiting, and the ticket's marked.
+
+**Rafi:** Good. The orders move from request to preparation to delivery now, instead of stalling in the middle.
+
+**Jean:** Let's keep that handover for the actual event.
+
+### Structural check
+
+- **Change:** A tea-service process that stalled between preparation and delivery becomes operable from request to completed service.
+- **Sufficiency:** Two test orders pass through the whole sequence with confirmed handovers and no unclaimed trays, establishing a functional course rather than a corrected isolated station.
+- **Persistence:** The repair remains as a reliable practice for moving orders through all stages of service.
+- **Closest rival cell and decisive difference:** Cell 32, *Joint-bound repair*. Static interface fit is sufficient there; here restored end-to-end throughput is the completed achievement.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 34 / Limit reset
+
+*Repair × Release × Standing*
+
+### Dialogue
+
+*Two organisers are measuring the hall's refurbished supper room.*
+
+**Olive:** The booking sheet still says maximum eighteen diners.
+
+**Seamus:** That was the old number. We used to have a cupboard sticking halfway into the room.
+
+**Olive:** The cupboard's gone, but I don't want to raise the number just because we've got more floor.
+
+**Seamus:** Let's lay out the tables and leave the required clear route to the exit.
+
+**Olive:** Four tables of six would give us twenty-four. Does the serving trolley still fit through?
+
+**Seamus:** I'll try it. Yes, with room to pass behind the chairs.
+
+**Olive:** The fire notice allows more than that, but the serving area would be crowded beyond twenty-four.
+
+**Seamus:** So twenty-four fits the actual setup. Eighteen was based on the cupboard that isn't there anymore.
+
+**Olive:** Let's document the table layout and change the booking sheet to twenty-four diners for this arrangement.
+
+**Seamus:** Good. We're not carrying an obsolete limit into the refurbished room.
+
+### Structural check
+
+- **Change:** An outdated eighteen-person ceiling is replaced by a sound capacity determination for the room's actual arrangement.
+- **Sufficiency:** The previous constraint loses determining force while clearance, service access and seating establish a corrected limit.
+- **Persistence:** The documented twenty-four-place limit stands as the operative determination for this setup.
+- **Closest rival cell and decisive difference:** Cell 35, *Condition reversal*. This cell establishes a corrected standing limit; Cell 35 requires correctness to exist through fit to an actual need freed from an inherited requirement.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 35 / Condition reversal
+
+*Repair × Release × Bearing*
+
+### Dialogue
+
+*Two volunteers are preparing signs for the hall's accessible routes.*
+
+**Tilda:** I've used the same small lettering as the old heritage signs. It looks tidy beside the entrance.
+
+**Niko:** Can someone read it from where the path divides?
+
+**Tilda:** Not really. You have to walk right up to the wall.
+
+**Niko:** That's awkward if you're trying to choose the step-free route before reaching the steps.
+
+**Tilda:** The heritage template says the signs should be discreet.
+
+**Niko:** Is that still a requirement? The new access plan says directions should be visible from the decision point.
+
+**Tilda:** You're right. I treated the old template as though it mattered more than helping people choose the right path.
+
+**Niko:** Let's try a larger arrow and put the words “Step-free entrance” above it.
+
+**Tilda:** I'll hold this printout where the sign will go. Can you read it from the fork?
+
+**Niko:** Clearly. And the arrow points towards the ramp before anyone commits to the steps.
+
+**Tilda:** Then that's the version to use, even if it's larger than the old signs.
+
+**Niko:** It does what this particular sign needs to do.
+
+### Structural check
+
+- **Change:** A visually discreet but functionally inadequate route sign becomes a legible guide suited to the point where visitors must choose a path.
+- **Sufficiency:** The inherited heritage template loses authority over this decision, and the new sign meets the actual need to identify the step-free route before reaching the stairs.
+- **Persistence:** The sign's correctness obtains through its relation to the visitor's decision point, sightline and accessible-route need.
+- **Closest rival cell and decisive difference:** Cell 34, *Limit reset*. Cell 34 establishes a revised standing limit. Here the repair is constitutively conditional on the sign meeting the real navigational need that the old rule displaced.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 2 dialogues above this marker. Next target: Cycle 2 / Cell 36 / Disorder released. -->
