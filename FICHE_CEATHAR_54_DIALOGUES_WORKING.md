@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycle 1**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cells 01–35. **Next:** Cell 36 — Disorder released.
+**Completed:** Cells 01–40. **Next:** Cell 41 — Mutual-support structure.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -1735,4 +1735,234 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 36 / Disorder released. -->
+
+## Cycle 1 / Cell 36 / Disorder released
+
+*Repair × Release × Efficacy*
+
+### Dialogue
+
+*Two housemates are checking their washing machine after a plumber's visit.*
+
+**Sofia:** Did you put the bucket back beside the machine?
+
+**Kit:** I thought we were finished with that.
+
+**Sofia:** We used to need it every wash. Water came out underneath when the machine drained.
+
+**Kit:** That's why I stayed here and mopped the floor halfway through each cycle.
+
+**Sofia:** The plumber replaced the split hose, but I don't want to find a puddle after we've gone out.
+
+**Kit:** Let's run a rinse-and-spin while we're here. I'll lay a dry towel underneath.
+
+**Sofia:** It's filling. Nothing so far.
+
+**Kit:** The leak was always when it emptied. Listen, it's draining now.
+
+**Sofia:** The towel's dry. Check behind it with the torch.
+
+**Kit:** Dry there too. Let's wait for the spin.
+
+**Sofia:** Finished. Still dry.
+
+**Kit:** Then I don't have to stand guard with the bucket every time.
+
+**Sofia:** That's what we needed to know. Not just that the hose looks new, but that it can finish a wash without us catching the water.
+
+**Kit:** I'll put the bucket away.
+
+### Structural check
+
+- **Change:** A machine whose leak dictated a compensating bucket-and-mopping routine regains normal functioning without that routine.
+- **Sufficiency:** A completed filling, draining, and spinning test demonstrates that the leak no longer governs use. Replacing the hose alone would not suffice if the workaround remained necessary.
+- **Persistence:** The repair remains as an operative capacity to wash without someone offsetting the fault.
+- **Closest rival cell and decisive difference:** Cell 33, *In-course correction*. Cell 33 restores functioning throughout a course of stages; here the completion specifically deprives the fault of its power to require compensation.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 37 / Focal whole
+
+*Integration × Focal × Standing*
+
+### Dialogue
+
+*Two neighbours are arranging model buildings for a library display.*
+
+**Ava:** We've put out nearly everything, but it looks like a random collection of little buildings.
+
+**Cormac:** They're from different sets. Maybe that's why.
+
+**Ava:** There's a school, a post office, a bakery and several houses. We could put them in rows.
+
+**Cormac:** Where does this paved piece go? It's got a fountain in the middle.
+
+**Ava:** The volunteer called it the village square. I thought it was just another bit of scenery.
+
+**Cormac:** Look at the paths printed around it. Four streets lead away from the fountain.
+
+**Ava:** The path in front of the school matches this edge. Try putting it there.
+
+**Cormac:** Then the post office fits opposite. The bakery can face the fountain.
+
+**Ava:** And the houses make sense along the two side streets.
+
+**Cormac:** Now it looks like a village instead of a shelf full of unrelated models.
+
+**Ava:** The square is what gives everything its place.
+
+**Cormac:** Shall I move the fountain a little?
+
+**Ava:** No, then the streets won't line up. That's the middle of the whole arrangement.
+
+**Cormac:** Right. I'll put the display label at the front.
+
+### Structural check
+
+- **Change:** Separate buildings acquire membership and positions within one model village organized around its square.
+- **Sufficiency:** The square is the constitutive centre that makes the streets and buildings components of a determinate whole, not merely an attractive object singled out after the arrangement is complete.
+- **Persistence:** The village stands as an established centrally organized configuration.
+- **Closest rival cell and decisive difference:** Cell 38, *Frame-held whole*. Cell 38 obtains unity through indispensable anchoring support. Here the focal square gives the elements their common place and membership in the represented village; the achievement is the articulated whole itself.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 38 / Frame-held whole
+
+*Integration × Focal × Bearing*
+
+### Dialogue
+
+*Two friends are trying to hang a patchwork quilt at a community exhibition.*
+
+**Mara:** I stitched the panels together, but the quilt keeps sagging in the middle when we hang it.
+
+**Jules:** The seams are holding. It's the top edge that's folding under its own weight.
+
+**Mara:** We could put a nail through each corner.
+
+**Jules:** That would pull the corners out, but the rest would still droop.
+
+**Mara:** There's a fabric sleeve along the back. I forgot that was there.
+
+**Jules:** Was it meant for a hanging rod?
+
+**Mara:** Yes, the person who made the backing included it. We've got a wooden dowel in the box.
+
+**Jules:** Slide it through. I'll hold this end.
+
+**Mara:** Now lift it from both ends.
+
+**Jules:** Look. The panels hang flat and the pattern reads as one picture.
+
+**Mara:** The stitching joined the pieces, but it wasn't enough to hold the whole thing in shape on the wall.
+
+**Jules:** And if we take the rod out, it'll fold over again.
+
+**Mara:** Then let's hang the rod on these two hooks, not pin the quilt itself.
+
+**Jules:** There. The whole piece is supported properly.
+
+### Structural check
+
+- **Change:** Joined panels that could not present a coherent hanging composition gain unity through one indispensable supporting anchor.
+- **Sufficiency:** The rod bears the weight across the quilt's upper edge, constituting the panels' coherent presentation together; mere adjacency or stitching did not achieve this displayed whole.
+- **Persistence:** The exhibited unity obtains through the continued support of the rod. Without it, the composition loses the configuration in which it is presented as one piece.
+- **Closest rival cell and decisive difference:** Cell 37, *Focal whole*. The privileged locus in Cell 37 organizes membership and position into an established centre; here the achieved whole exists through a focal support on which its coherence depends.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 39 / Joint capacity
+
+*Integration × Focal × Efficacy*
+
+### Dialogue
+
+*Two volunteers are setting up a temporary book-return station for a school fair.*
+
+**Tariq:** We have someone collecting books at the door and someone sorting them by class, but the piles keep getting mixed up.
+
+**Becky:** Every time I carry a stack across, I have to ask where it goes.
+
+**Tariq:** What if we use this table as the handover point? The intake volunteer puts every book here with its class slip.
+
+**Becky:** And I take the books from the table to the right class box?
+
+**Tariq:** Yes. Let's try it with these returns. I'll take them at the door.
+
+**Becky:** You've put three here, but one has no slip.
+
+**Tariq:** Then I'll ask the family before it reaches you. I'll keep anything uncertain on my side.
+
+**Becky:** Good. This one says Class Two, so it goes straight into their box.
+
+**Tariq:** Here are two more. Both labelled.
+
+**Becky:** Already sorted. Nothing's crossed over.
+
+**Tariq:** And I'm free to receive the next family without following you to the boxes.
+
+**Becky:** The table gives us one place where the handover happens. Now we can work together without losing track.
+
+**Tariq:** Let's keep it in the middle and tell the others.
+
+### Structural check
+
+- **Change:** Separate collection and sorting tasks become a coordinated capacity to process returns through a single operative handover centre.
+- **Sufficiency:** The central station determines how intake and classification contribute to one executable process, as shown by successfully processing test returns without mix-ups.
+- **Persistence:** The achieved whole exists as a usable joint capacity organised through that central handover point.
+- **Closest rival cell and decisive difference:** Cell 37, *Focal whole*. That cell establishes a centrally organized whole as a standing arrangement; here the central coordination is constitutive of successful combined action.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 1 / Cell 40 / Role array
+
+*Integration × Distributed × Standing*
+
+### Dialogue
+
+*Two people are laying out a small museum display about a former local railway.*
+
+**Iona:** We have the old tickets, the station clock, the timetable and the conductor's bag. It looks like a jumble.
+
+**Felix:** We could put the clock in the middle and arrange everything around it.
+
+**Iona:** But it's not really a display about the clock. I want visitors to see how the railway worked.
+
+**Felix:** Then perhaps the tickets go with booking a journey.
+
+**Iona:** Yes. The timetable shows when you could travel, the ticket shows what you bought, and the bag belongs with the person checking it on the train.
+
+**Felix:** The station photograph should go with the clock, then. It shows how passengers knew when to be ready.
+
+**Iona:** What about this luggage label?
+
+**Felix:** That belongs between the booking and the journey. People checked their bags before boarding.
+
+**Iona:** Let's set it out in sections: planning, arriving, buying a ticket, boarding, travelling.
+
+**Felix:** Now each object explains one part of the railway experience.
+
+**Iona:** And none of them has to be the centrepiece.
+
+**Felix:** I'll write the labels to show where each fits in the story.
+
+### Structural check
+
+- **Change:** A collection of railway artifacts becomes an articulated whole whose components acquire distinct roles across the visitor's journey.
+- **Sufficiency:** The display's organization is established across the relevant roles and stages; no single artifact can constitute the whole or substitute for the relations among its sections.
+- **Persistence:** The role array stands as a determinate exhibition structure in which each artifact has its place.
+- **Closest rival cell and decisive difference:** Cell 37, *Focal whole*. Here the whole is constituted across differentiated parts rather than organized by one privileged centre. Cell 42 would require the organized roles to operate as joint competence; here the result is the display's standing articulated structure.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future dialogues above this marker. Next target: Cycle 1 / Cell 41 / Mutual-support structure. -->
