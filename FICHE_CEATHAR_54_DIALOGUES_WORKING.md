@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–2**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–05. **Next:** Cycle 2 / Cell 06 — Field separation.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–15. **Next:** Cycle 2 / Cell 16 — Released option.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -2835,4 +2835,397 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 2 dialogues above this marker. Next target: Cycle 2 / Cell 06 / Field separation. -->
+
+## Cycle 2 / Cell 06 / Field separation
+
+*Differentiation × Distributed × Efficacy*
+
+### Dialogue
+
+*At the hall's front desk, two volunteers are sorting requests for the reopened building.*
+
+**Laila:** I've put all these forms in the booking tray. Is that where they go?
+
+**Owen:** Some aren't bookings. That one reports a broken tap.
+
+**Laila:** And this one asks for a copy of the hall's history.
+
+**Owen:** If they all go to the bookings volunteer, nothing else will get answered. What sorts have arrived?
+
+**Laila:** Room requests, maintenance reports, archive questions, and offers to help.
+
+**Owen:** Who can deal with each?
+
+**Laila:** Marta handles rooms, the caretaker gets repairs, the history group takes archive questions, and volunteers go to Priya.
+
+**Owen:** Let's try the forms we've got. Where does the leaking tap go?
+
+**Laila:** Repairs. The choir's Tuesday request goes to Marta. And this offer to paint the fence goes to Priya.
+
+**Owen:** Good. Shall I make four labelled pockets?
+
+**Laila:** Yes. Then whoever opens the post can send each enquiry to the right person without asking us first.
+
+### Structural check
+
+- **Change:** Requests previously handled as interchangeable paperwork acquire differences that determine their destinations.
+- **Sufficiency:** The distinction is complete across the relevant types because each type now governs a different operative response, not simply a label.
+- **Persistence:** The four-pocket sorting practice continues to direct new requests appropriately.
+- **Closest rival cell and decisive difference:** Cell 04, *Scope standing*. That cell establishes an articulated classification; this one establishes differentiated handling across the field.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 07 / Opposed standing
+
+*Differentiation × Release × Standing*
+
+### Dialogue
+
+*Two volunteers are deciding what to keep from a cupboard marked “junk.”*
+
+**Eddie:** The committee said we could clear out the junk cupboard.
+
+**Ruth:** Then these old ledgers can go?
+
+**Eddie:** I'm not sure. Look at the dates on the first page.
+
+**Ruth:** Nineteen fifty-eight. They're the hall's accounts.
+
+**Eddie:** And this tin contains curtain hooks and loose screws. Those are probably useful for repairs.
+
+**Ruth:** There's also a box of mouldy paper cups. That really can go.
+
+**Eddie:** So the label on the cupboard doesn't tell us what's rubbish.
+
+**Ruth:** No. The ledgers belong with the history records, the hardware with maintenance, and the cups in the bin.
+
+**Eddie:** I'll change the inventory. It currently calls the entire cupboard “disposal items.”
+
+**Ruth:** Good. None of those three things should be given the same description.
+
+### Structural check
+
+- **Change:** Real differences between archive material, repair supplies, and waste become determinate after the blanket “junk” classification loses authority.
+- **Sufficiency:** The inherited cupboard label no longer settles the items' identities; investigation establishes distinctions that stand in their own right.
+- **Persistence:** The separate descriptions remain in the inventory independent of the old label.
+- **Closest rival cell and decisive difference:** Cell 09, *Exclusive cut*. Cell 09 would make the recovered distinctions govern exclusion. Here the completion is first the standing of actual differences previously obscured by one imposed category.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 08 / Graded contrast
+
+*Differentiation × Release × Bearing*
+
+### Dialogue
+
+*Two committee members are comparing the hall's two entrances.*
+
+**Conor:** People keep saying the front entrance is the proper one and the back is the poor substitute.
+
+**Meena:** That's how we've always described them. But the front steps are awkward for a wheelchair.
+
+**Conor:** The rear entrance has a ramp, though it's farther from the bus stop.
+
+**Meena:** And the front door is wider for moving furniture.
+
+**Conor:** So neither entrance is simply better.
+
+**Meena:** For step-free access the rear is easier. For bringing in the stage flats, the front is easier.
+
+**Conor:** What about people arriving after dark?
+
+**Meena:** The front has better lighting at present. We're fixing the rear light next week.
+
+**Conor:** Then let's stop calling one “main” and the other “inferior” in the visitor notes.
+
+**Meena:** We can describe the actual differences. Which is easier depends on what someone needs to do.
+
+### Structural check
+
+- **Change:** The entrances become intelligibly differentiated without the “proper entrance” setting the standard for all comparisons.
+- **Sufficiency:** Each entrance has relative advantages and limitations through comparable needs; neither acts as the imposed norm.
+- **Persistence:** Their distinction obtains through these context-sensitive comparisons, not an inherited ranking.
+- **Closest rival cell and decisive difference:** Cell 05, *Context-bound mark*. Both are comparison-dependent, but here a prior normative ordering must lose its authority before the non-hierarchical contrasts can stand.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 09 / Exclusive cut
+
+*Differentiation × Release × Efficacy*
+
+### Dialogue
+
+*Two people are reviewing donated electrical items for the hall.*
+
+**Mick:** This box says “working equipment.” Can we put it all into the storeroom?
+
+**Tara:** Who wrote that?
+
+**Mick:** The previous caretaker, years ago.
+
+**Tara:** Let's check what's here. This extension lead has a cracked casing.
+
+**Mick:** The old label says it worked when it was packed.
+
+**Tara:** That doesn't make it safe now. And this lamp's plug has been replaced but hasn't been tested.
+
+**Mick:** The portable radio has a current test label, though.
+
+**Tara:** Yes. Let's use the current inspection records, not that old box label.
+
+**Mick:** So the radio can join the approved equipment. The lead is out, and the lamp waits for testing.
+
+**Tara:** Correct. Neither untested nor damaged items go into public use.
+
+**Mick:** I'll mark the shelving so nobody mistakes the quarantine box for approved stock.
+
+### Structural check
+
+- **Change:** Distinctions grounded in present electrical condition displace an inherited “working” label and acquire authority over admission to use.
+- **Sufficiency:** The former category no longer decides; documented condition and testing determine inclusion, exclusion, or quarantine.
+- **Persistence:** These discriminations operate as the rule governing which items may enter public service.
+- **Closest rival cell and decisive difference:** Cell 07, *Opposed standing*. Cell 07 establishes distinctions free of the old label; here they directly govern admission and refusal.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 10 / Source field
+
+*Opening × Focal × Standing*
+
+### Dialogue
+
+*Two new volunteers have arrived to help paint the hall.*
+
+**Amina:** Every outside door seems locked. Did we come on the wrong day?
+
+**Pádraig:** The sign says volunteer work is on today. Maybe they're all upstairs.
+
+**Amina:** There's a small arrow by the side passage. “Volunteer entrance.”
+
+**Pádraig:** I thought that went to the boiler room.
+
+**Amina:** Look, the door at the end has a welcome sign and a table of name badges inside.
+
+**Pádraig:** It's open. That's where everyone checks in.
+
+**Amina:** So we don't have to ring the main door?
+
+**Pádraig:** No. The volunteer entrance is through this passage.
+
+**Amina:** I'll message Noor. She's coming later and might walk around the building like we did.
+
+### Structural check
+
+- **Change:** A seemingly inaccessible volunteer session acquires a determinate point of entry.
+- **Sufficiency:** The marked open side door is established as the relevant avenue of admission at the hall's boundary.
+- **Persistence:** It stands as a known entrance available to subsequent volunteers.
+- **Closest rival cell and decisive difference:** Cell 12, *Branching output*. Here an established entrance is found, not a bottleneck transformed into executable passage.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 11 / Source-carried divergence
+
+*Opening × Focal × Bearing*
+
+### Dialogue
+
+*Two residents are examining their new hall membership cards.*
+
+**Ellen:** Do I need a separate pass for the reading room and the craft workshop?
+
+**Bilal:** I thought we did. The rooms have separate doors.
+
+**Ellen:** The membership leaflet says either room is included on weekday afternoons.
+
+**Bilal:** But only with a current hall card, right?
+
+**Ellen:** Yes. It says to show the card at whichever room you're using.
+
+**Bilal:** Let me check the expiry date. Mine's valid until next spring.
+
+**Ellen:** So our cards give us access to either one, though we still have to reserve a craft table if it's busy.
+
+**Bilal:** That's helpful. I can decide when I arrive whether to read or join the workshop.
+
+**Ellen:** As long as the card's current.
+
+**Bilal:** I'll keep mine in my wallet, then.
+
+### Structural check
+
+- **Change:** Two apparently separate facilities become alternative admissions through one valid membership.
+- **Sufficiency:** The focal membership entitlement is the constitutive source of access to either room, rather than merely one of several possible routes.
+- **Persistence:** The alternatives remain open through the continuing validity of the card and its admission terms.
+- **Closest rival cell and decisive difference:** Cell 13, *Alternate passage*. Cell 13 establishes multiple routes across a field; here a single enabling source constitutes either opening.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 12 / Branching output
+
+*Opening × Focal × Efficacy*
+
+### Dialogue
+
+*Two volunteers are trying to move equipment through an interior doorway.*
+
+**Jin:** The folding tables won't turn through this doorway with the door only opening halfway.
+
+**Molly:** There's a wedge behind it. Is that what's stopping it?
+
+**Jin:** No, the overhead closer catches. Watch.
+
+**Molly:** There's a little hold-open catch near the top. Maybe that lets it swing farther.
+
+**Jin:** Try lifting it while I push.
+
+**Molly:** There! The door's fully back against the wall.
+
+**Jin:** Let's test the table. Yes, it comes through without scraping.
+
+**Molly:** And now we can turn left towards the supper room or right towards the stage.
+
+**Jin:** Before, we couldn't get these tables through at all.
+
+**Molly:** I'll show the setup team how to open the catch properly.
+
+### Structural check
+
+- **Change:** A critical doorway becomes traversable for equipment, enabling distinct continuations to two working areas.
+- **Sufficiency:** The successful loaded passage demonstrates operative access through the bottleneck, not merely recognition of the doorway.
+- **Persistence:** The hall team acquires a repeatable capacity to carry tables through that point and onward to either area.
+- **Closest rival cell and decisive difference:** Cell 10, *Source field*. Cell 10 establishes where entry is available; here completion is the effective overcoming of a passage constraint.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 13 / Alternate passage
+
+*Opening × Distributed × Standing*
+
+### Dialogue
+
+*Two residents are planning how people can reach the hall during roadworks.*
+
+**Rosie:** The road outside the main gate will be closed on Saturday. Won't that keep visitors away?
+
+**Khalid:** Not necessarily. Pedestrians can still come along Church Lane.
+
+**Rosie:** The notice says that lane stays open. What about the bus stop?
+
+**Khalid:** The bus is being diverted to Market Street. There's a footpath from there through the park.
+
+**Rosie:** And drivers?
+
+**Khalid:** The temporary car park behind the school is open, with a path to the hall's rear gate.
+
+**Rosie:** Let's put those on the visitor notice: Church Lane on foot, the park path from the bus, and the school car park for drivers.
+
+**Khalid:** Good. They're quite different ways in, but all three are available.
+
+**Rosie:** So the closed road doesn't leave us with only one awkward workaround.
+
+### Structural check
+
+- **Change:** Access apparently reduced to a blocked road becomes an established repertoire of alternative passages.
+- **Sufficiency:** Availability is demonstrated across independent routes for walkers, bus users and drivers; no single privileged entrance or entitlement establishes the full range.
+- **Persistence:** The alternative passages stand as a determinate set of routes for visitors.
+- **Closest rival cell and decisive difference:** Cell 11, *Source-carried divergence*. These options do not originate from one constitutive access right; they are available across a distributed transport field.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 14 / Span-carried reach
+
+*Opening × Distributed × Bearing*
+
+### Dialogue
+
+*Two organisers are checking which hall rooms different community groups may book.*
+
+**Freya:** I told the pottery group they could use any room, but the booking rules look more complicated.
+
+**Dessie:** The small kitchen is only available with someone who's completed the food-safety induction.
+
+**Freya:** The activity room doesn't need that. What about the upstairs room?
+
+**Dessie:** It can be booked by groups with an access plan for anyone who can't use the stairs.
+
+**Freya:** And the stage?
+
+**Dessie:** That's available when the trained lighting volunteer is present.
+
+**Freya:** So it isn't a simple yes-or-no permission for the whole building.
+
+**Dessie:** No. Each space is reachable under a different condition. Pottery can book the activity room now, use the kitchen after induction, and use the stage with a qualified helper.
+
+**Freya:** I'll amend the form so people can see what qualifies them for each room.
+
+### Structural check
+
+- **Change:** Vague building-wide permission becomes a determinate spread of possible bookings under distinct qualifying conditions.
+- **Sufficiency:** Access is established across the available rooms specifically through their respective eligibility, safety and support conditions.
+- **Persistence:** The openings remain constituted by the relation between each room and its qualifying requirements.
+- **Closest rival cell and decisive difference:** Cell 13, *Alternate passage*. That form establishes a repertoire of passages; this form's reach exists only through the conditions that constitute each option.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 15 / Field distribution
+
+*Opening × Distributed × Efficacy*
+
+### Dialogue
+
+*Two volunteers are testing the hall's new Wi-Fi network before a public computer class.*
+
+**Nessa:** The old router worked by the office, but people lost the connection in the far rooms.
+
+**Hugo:** We've added two access points. Shall we walk the route with the laptop?
+
+**Nessa:** The office is fine. I'll open the course website in the library.
+
+**Hugo:** Loaded. Now the back classroom.
+
+**Nessa:** Still connected. Let me play the short tutorial video.
+
+**Hugo:** No buffering. Try the corridor by the old kitchen—that was the dead spot.
+
+**Nessa:** The signal's holding. The page refreshes normally.
+
+**Hugo:** What about the upstairs meeting room?
+
+**Nessa:** Let's check. Yes, the video starts there too.
+
+**Hugo:** So the course isn't tied to the office anymore.
+
+**Nessa:** We can run it in any of the four teaching spaces we've tested.
+
+**Hugo:** I'll write down the results, so the tutor knows where the connection works.
+
+### Structural check
+
+- **Change:** Usable online access extends from a local office connection across the hall's teaching spaces.
+- **Sufficiency:** Actual page and video tests establish executable connectivity throughout the relevant span, including a previous dead spot.
+- **Persistence:** The opening remains as a distributed practical capacity to use network-dependent teaching in those rooms.
+- **Closest rival cell and decisive difference:** Cell 13, *Alternate passage*. That cell establishes multiple options as available; here continuous functioning across a spatial field is the achievement.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 2 dialogues above this marker. Next target: Cycle 2 / Cell 16 / Released option. -->
