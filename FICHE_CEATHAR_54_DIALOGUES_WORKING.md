@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–2**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–35. **Next:** Cycle 2 / Cell 36 — Disorder released.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–45. **Next:** Cycle 2 / Cell 46 — Settled alternative.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -4074,4 +4074,431 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 2 dialogues above this marker. Next target: Cycle 2 / Cell 36 / Disorder released. -->
+
+## Cycle 2 / Cell 36 / Disorder released
+
+*Repair × Release × Efficacy*
+
+### Dialogue
+
+*During a trial afternoon at the hall, two volunteers are checking the kitchen sink.*
+
+**Ruth:** Where's the old washing-up bowl? We used to put it under the pipe whenever we emptied the sink.
+
+**Malik:** I moved it to the cupboard after the plumber came.
+
+**Ruth:** Did she actually find the leak? We were still emptying the bowl twice a day last month.
+
+**Malik:** The waste pipe had a split joint. She replaced it, but I haven't tried a full sink yet.
+
+**Ruth:** Let's do that before the supper club starts. I'll fill it while you watch underneath.
+
+**Malik:** It's full. Pull the plug.
+
+**Ruth:** There goes all the water. Anything dripping?
+
+**Malik:** Nothing so far. Give it another minute.
+
+**Ruth:** The floor's still dry. I'll run the tap again and empty another basinful.
+
+**Malik:** Dry again. The new joint's holding.
+
+**Ruth:** Then nobody needs to stand here catching water when the kitchen gets busy.
+
+**Malik:** Exactly. I'll remove the instruction about putting a bowl underneath from the kitchen checklist.
+
+**Ruth:** Keep the bowl for washing brushes. It doesn't have to be part of using the sink anymore.
+
+### Structural check
+
+- **Change:** The sink's draining fault no longer requires an improvised water-catching routine.
+- **Sufficiency:** Two full drains demonstrate proper function without the bowl that previously compensated for the leak. Replacing the joint would not itself establish this achievement if water still needed catching.
+- **Persistence:** The repair remains as normal drainage independent of the compensating routine; the kitchen can use the sink without that fault governing its operation.
+- **Closest rival cell and decisive difference:** Cell 33, *In-course correction*. Cell 33 restores the working sequence across multiple service stages. Here the specific completion is release from the faulty condition's demand for a workaround.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 37 / Focal whole
+
+*Integration × Focal × Standing*
+
+### Dialogue
+
+*Two members of the hall's history group are arranging objects for a display about the building's first years.*
+
+**Eileen:** We've got the opening programme, the builders' photograph, the first bookings book and that little brass plaque. I can't make them look like one display.
+
+**Jon:** Would it help to put them in date order?
+
+**Eileen:** Perhaps, but the plaque isn't dated. It's from the opening, though.
+
+**Jon:** The programme says the hall was dedicated to Mrs Reilly, who paid for the original land. Is that the same name on the plaque?
+
+**Eileen:** Yes. And she's mentioned in the first page of the bookings book.
+
+**Jon:** What if the plaque goes in the centre, with the other things placed around the opening of the hall?
+
+**Eileen:** Let's see. The builders' photograph explains how it came to be here; the programme is the ceremony; the bookings book shows what started afterward.
+
+**Jon:** And the plaque identifies the dedication they all refer to.
+
+**Eileen:** That's a proper display now. They're not just four old things in a case.
+
+**Jon:** I'll write one heading above it: “The hall's beginning.”
+
+**Eileen:** Keep the plaque where it is. The rest of the story gathers around it.
+
+### Structural check
+
+- **Change:** Separate historical objects acquire positions within one determinate exhibition whole about the hall's beginning.
+- **Sufficiency:** The dedication plaque supplies the constitutive centre around which the other objects become related parts of the same historical arrangement, rather than a highlighted item within a pre-existing completed display.
+- **Persistence:** The centred configuration stands as an intelligible exhibition whole, with each object holding its place in that organisation.
+- **Closest rival cell and decisive difference:** Cell 38, *Frame-held whole*. Cell 38 depends on an indispensable anchoring support for unity. Here the focal centre establishes the objects' common membership and arrangement as one historical whole.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 38 / Frame-held whole
+
+*Integration × Focal × Bearing*
+
+### Dialogue
+
+*Two volunteers are putting together a large patchwork curtain made from fabric donated by local families.*
+
+**Maya:** The panels are all stitched together, but when we hang it from those two corner hooks the middle folds in on itself.
+
+**Finn:** I thought the stitching would be enough.
+
+**Maya:** It's strong enough to join them. It just doesn't hold the shape of the curtain across the stage.
+
+**Finn:** There's a sleeve along the top. Didn't the sewing group leave that for a rail?
+
+**Maya:** They did. We found an old stage rod in the store. Can you help me feed it through?
+
+**Finn:** It goes all the way across. Shall we lift it onto the brackets?
+
+**Maya:** Yes. Hold your end level.
+
+**Finn:** There. Now you can see the picture the pieces make together.
+
+**Maya:** Especially the river running through the different patches. It was disappearing into the folds before.
+
+**Finn:** So it's not enough for the pieces to be sewn together; the rail holds them as the curtain they're meant to be.
+
+**Maya:** And if we take the rail out, they'll fall back into folds.
+
+**Finn:** Let's make sure the stage crew knows to keep it in the sleeve.
+
+### Structural check
+
+- **Change:** Joined fabric panels become a coherent displayed curtain through a common supporting anchor.
+- **Sufficiency:** The stage rod bears the composition across its width and constitutes the visible unity of the donated panels; the panels' stitching alone had not achieved that whole in its hanging form.
+- **Persistence:** The achieved wholeness obtains through continued support from the rod, without which the composition ceases to hang coherently.
+- **Closest rival cell and decisive difference:** Cell 37, *Focal whole*. Cell 37 establishes an organised whole centred on a defining locus. Here the whole's coherent standing is specifically borne by an indispensable focal support.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 39 / Joint capacity
+
+*Integration × Focal × Efficacy*
+
+### Dialogue
+
+*Two helpers are testing how the hall will handle equipment requests during its reopening events.*
+
+**Priya:** Everyone's willing to help move things, but this morning three people carried chairs to the wrong rooms.
+
+**Cal:** Nobody knew which request had already been dealt with.
+
+**Priya:** What if we put the equipment board here at the store-room desk? Event leaders could leave requests with a room name and time.
+
+**Cal:** And whoever's on equipment duty could tick off what they've taken. But how does the person delivering it know what's ready?
+
+**Priya:** Let's make two columns: waiting and in progress. The person collecting a request moves the card.
+
+**Cal:** I'll test it. The craft room needs two tables and six chairs.
+
+**Priya:** I'll put that card under waiting. You take it, move it to in progress, and fetch the equipment.
+
+**Cal:** Done. What happens when I deliver it?
+
+**Priya:** Return the card and mark it complete. Then everyone at the desk can see it.
+
+**Cal:** That's much clearer. I can do the delivery without you following me, and you can take the next request without wondering where I am.
+
+**Priya:** Exactly. This desk is where all the separate jobs come together.
+
+**Cal:** Let's tell the afternoon crew. The request we just tried worked from start to finish.
+
+### Structural check
+
+- **Change:** Separate requests, movers and room deliveries acquire a coordinated capacity through one central dispatch point.
+- **Sufficiency:** The focal board-and-desk handover organizes otherwise independent contributions into a working service, demonstrated by a request processed through collection and completion.
+- **Persistence:** The whole remains as an actionable capacity to coordinate equipment movements through the dispatch centre, rather than merely an established display of tasks.
+- **Closest rival cell and decisive difference:** Cell 42, *Role activation*. Cell 42's capacity emerges through a distributed array of complementary roles. Here one focal coordination point is constitutive of the joint action.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 40 / Role array
+
+*Integration × Distributed × Standing*
+
+### Dialogue
+
+*Two volunteers are preparing a wall display explaining how the hall is run.*
+
+**Nora:** I've put up the names of the committee members, but it doesn't really explain what happens here.
+
+**Ishaq:** Visitors probably don't need everyone's name. They might want to know how the different parts fit together.
+
+**Nora:** We have the bookings desk, maintenance volunteers, the history group and event organisers. But they don't all report to one person for everything.
+
+**Ishaq:** What about the caretaker?
+
+**Nora:** Building issues go to the caretaker. Bookings go to the desk. The history group looks after the archive, and organisers are responsible for their own events within the hall rules.
+
+**Ishaq:** Then we could arrange the display by responsibilities instead of by seniority.
+
+**Nora:** Let's lay out four sections and put the relevant contact under each one.
+
+**Ishaq:** Where do the committee's safety decisions belong?
+
+**Nora:** In a separate box explaining the rules all the groups work within, not above one person's photograph.
+
+**Ishaq:** That makes it clearer. Someone can see both what each group contributes and how the building is organised.
+
+**Nora:** Yes. We were missing the shape of the whole by just listing people.
+
+### Structural check
+
+- **Change:** An undifferentiated roll of names becomes an articulated organisation of the hall's distinct working roles.
+- **Sufficiency:** The whole is made determinate across bookings, care, archives, events and governing rules; no one office or person by itself constitutes the array.
+- **Persistence:** The differentiated organisational structure stands as an available account of how the hall's functions fit together.
+- **Closest rival cell and decisive difference:** Cell 37, *Focal whole*. Rather than gathering completion around one centre, this result is constituted across the several roles making up the hall's organisation. Cell 42 would additionally require demonstrated coordinated performance.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 41 / Mutual-support structure
+
+*Integration × Distributed × Bearing*
+
+### Dialogue
+
+*Two volunteers are assembling a freestanding display screen to hold drawings made by local children.*
+
+**Helen:** The three panels stand up when we're holding them, but the whole screen folds over as soon as we step away.
+
+**Tomas:** The hinges are tight. I don't think one of the panels is broken.
+
+**Helen:** What are these short connecting bars for? They came in the same box.
+
+**Tomas:** Look at the brackets near the bottom of each panel. One bar links the first two, and another links the second and third.
+
+**Helen:** So the panels aren't supposed to be independently upright?
+
+**Tomas:** Not in this arrangement. Let's attach both bars and set the panels at a slight angle.
+
+**Helen:** First bar on. The far panel still swings.
+
+**Tomas:** Now the second. Can you let go?
+
+**Helen:** It's holding. Push gently on the first panel.
+
+**Tomas:** The others take the movement without the screen folding.
+
+**Helen:** And if we open it too straight, it starts to wobble again.
+
+**Tomas:** Then we'll mark the proper angle on the floor. Each panel needs the others and those bars to keep the whole display standing.
+
+**Helen:** Good. The drawings won't end up on the floor halfway through the exhibition.
+
+### Structural check
+
+- **Change:** Separate panels acquire the coherence of a stable display screen through interlocking supports and angles.
+- **Sufficiency:** The structure is completed by support relations distributed across all panels; neither a firm single panel nor a single connecting bar is enough.
+- **Persistence:** The whole stands through its continuing mutual-support configuration, including the links and angles that bear its stability.
+- **Closest rival cell and decisive difference:** Cell 40, *Role array*. Cell 40 establishes determinate roles as a standing organisation. Here the whole exists specifically through reciprocal supports that none of the parts independently possesses.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 42 / Role activation
+
+*Integration × Distributed × Efficacy*
+
+### Dialogue
+
+*Two organisers are rehearsing the hall's new check-in process for the weekly community lunch.*
+
+**Dee:** People queued for ages last time, even though four of us were here to help.
+
+**Owen:** We were all answering the same questions while the meals got cold.
+
+**Dee:** What if one person checks bookings at the door, another gives out meal tickets, one guides people to seats, and one takes special-diet questions to the kitchen?
+
+**Owen:** That sounds sensible, but what if someone hasn't booked?
+
+**Dee:** Door check passes them to the ticket desk to see if there's a spare place. Let's try a few pretend arrivals.
+
+**Owen:** I'll arrive as someone with a booking and a nut allergy.
+
+**Dee:** I find your name and send you to the ticket volunteer. They issue the ticket and pass your diet note to the kitchen volunteer.
+
+**Owen:** Then the seating volunteer shows me a table, knowing the kitchen has the note?
+
+**Dee:** Exactly. Let's try an unbooked arrival too.
+
+**Owen:** No booking, but two seats are still free.
+
+**Dee:** Ticket desk confirms the places, issues the tickets, and seating takes over. Nobody needs to send the person back through the queue.
+
+**Owen:** That's the first time we've handled both sorts of arrival without everyone crowding round one clipboard.
+
+**Dee:** Good. Now the four jobs actually work together.
+
+### Structural check
+
+- **Change:** Helpers with overlapping, poorly coordinated activity become a team competent to process different arrival cases.
+- **Sufficiency:** The tested handoffs among checking, ticketing, dietary handling and seating accomplish joint service across complementary roles; assignments alone would not suffice.
+- **Persistence:** The integration remains as a repeatable distributed capacity to welcome and serve lunch guests.
+- **Closest rival cell and decisive difference:** Cell 39, *Joint capacity*. Both concern joint efficacy, but this one depends on a plurality of complementary roles performing across the whole course, not one constitutive dispatch centre.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 43 / Self-maintaining equilibrium
+
+*Integration × Release × Standing*
+
+### Dialogue
+
+*Two members of the history group are looking at the completed exhibition for the reopening weekend.*
+
+**Una:** I remember when we planned one display for the old village residents and another for the newer housing estate.
+
+**Marcus:** We couldn't agree whose photographs went where. The labels were “old families” and “new arrivals.”
+
+**Una:** But the exhibition doesn't use those sections now.
+
+**Marcus:** No. We followed the building's uses instead: work, celebration, learning and helping neighbours.
+
+**Una:** There's a photograph of the old harvest supper beside one from last year's community meal.
+
+**Marcus:** And the after-school classes from different decades are together. They tell the same part of the hall's story.
+
+**Una:** It doesn't feel as though we simply mixed two collections for appearances.
+
+**Marcus:** We didn't. Every picture has a place in the subject of its section, regardless of which family gave it.
+
+**Una:** If someone came in without knowing who'd lived here longest, the exhibition would still make sense.
+
+**Marcus:** That's what I like about it. It's one history of a hall used by different people.
+
+### Structural check
+
+- **Change:** Material once partitioned by inherited resident categories acquires an established integrated exhibition organised by the hall's uses.
+- **Sufficiency:** The old resident distinction loses authority over inclusion and placement, while the shared themes establish a coherent structure of their own; mere mixing would not suffice.
+- **Persistence:** The exhibition stands as a determinate whole whose organisation remains intelligible without the former social categories.
+- **Closest rival cell and decisive difference:** Cell 37, *Focal whole*. Here completion is not simply achieved around one privileged object, but as a stable whole no longer governed by the inherited divisions that had structured its parts.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 44 / Sustained equilibrium
+
+*Integration × Release × Bearing*
+
+### Dialogue
+
+*Two neighbours are checking the volunteer rota after the hall's first month back in use.*
+
+**Siobhán:** I thought the kitchen volunteers and event volunteers would end up arguing over who cleaned which room.
+
+**Farid:** They did when we first reopened. Each group was only willing to look after its own area.
+
+**Siobhán:** But the rota looks different now. The event team resets the tables, and the kitchen team handles the crockery after every supper.
+
+**Farid:** And on workshop days, the craft volunteers wipe the shared tables before the kitchen group lays them for lunch.
+
+**Siobhán:** So everyone's relying on the previous group leaving the space ready.
+
+**Farid:** Yes. We also agreed that anyone finishing early helps with the shared entrance, whichever group they belong to.
+
+**Siobhán:** Does that actually happen?
+
+**Farid:** Yesterday the kitchen group cleared the foyer while the event volunteers were still packing chairs. On Thursday it was the other way around.
+
+**Siobhán:** Then it isn't just that the old territorial rules have disappeared.
+
+**Farid:** No. The handovers and help are what keep the place ready for the next users.
+
+**Siobhán:** Let's leave those commitments written into the rota, not just assume people will remember.
+
+### Structural check
+
+- **Change:** Previously territorial volunteer groups form a shared organisation sustained by practical bonds of handover and reciprocal help.
+- **Sufficiency:** Inherited group ownership no longer decides responsibilities, while actual interdependent commitments constitute the coherence of continued hall use.
+- **Persistence:** The unity obtains through those ongoing supports: the hall's readiness for each group depends on what other groups do and recognise.
+- **Closest rival cell and decisive difference:** Cell 41, *Mutual-support structure*. Both involve reciprocal support, but here inherited divisions lose their determining authority and the resulting unity is borne by commitments across those former divisions.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 45 / Convergent whole
+
+*Integration × Release × Efficacy*
+
+### Dialogue
+
+*Two volunteers are preparing for a sudden change in the reopening day's programme.*
+
+**Callum:** The outdoor musicians have just come in. Rain's starting and their instruments can't stay outside.
+
+**Nadiya:** The indoor stage is ready, but we need to move the chairs before they can set up.
+
+**Callum:** I'm on the archives team. I thought only the events crew were allowed to rearrange seating.
+
+**Nadiya:** That was the old arrangement. For the reopening we've agreed anyone available can help with general setup. The stage electrician still handles the power.
+
+**Callum:** Good. I'll clear the first two rows. Could you find the musicians and tell them where to wait?
+
+**Nadiya:** Yes. Then I'll bring the trolley for their cases.
+
+**Callum:** The craft volunteers have finished hanging their display. Could they shift the spare chairs into the supper room?
+
+**Nadiya:** I'll ask. They know where the trolley goes, and I'll show the musicians the side entrance.
+
+**Callum:** Chairs are moved. The electrician says the stage sockets are ready.
+
+**Nadiya:** The musicians are coming in now. The craft team has cleared the route for them.
+
+**Callum:** That worked. We didn't have to wait for each committee group to hand the job back to its own people.
+
+**Nadiya:** Everyone contributed where they could, and the music can still go ahead.
+
+### Structural check
+
+- **Change:** Contributions formerly restricted by volunteer-group territory become a unified capacity to relocate a performance on short notice.
+- **Sufficiency:** The old allocation rule loses its authority over general tasks; people from different groups execute the necessary movements together while retaining the genuinely required electrical qualification.
+- **Persistence:** The completion is an operative whole capable of coordinated action across former boundaries, rather than a newly drawn organisation chart.
+- **Closest rival cell and decisive difference:** Cell 42, *Role activation*. Cell 42 achieves joint competence through an established distributed division of tasks. Here the achievement specifically depends on cooperation no longer being fragmented by inherited departmental control.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 2 dialogues above this marker. Next target: Cycle 2 / Cell 46 / Settled alternative. -->
