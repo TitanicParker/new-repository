@@ -19,10 +19,12 @@ form{display:grid;gap:17px}.field{display:grid;gap:7px}.field label{font-size:.8
 footer{border-top:1px solid var(--line);padding:30px 0 50px;color:var(--muted);font-size:.86rem}footer .wrap{display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
 @media(max-width:790px){.hero{padding:55px 0}.three,.explorer,.generator{grid-template-columns:1fr}.detail{position:static}.controls{grid-template-columns:1fr}section{padding:45px 0}.nav{padding:16px 0}.cells{gap:4px}.cell{min-height:39px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.archive-tools{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:27px 0 15px}.archive-tools input{background:#111e29;color:var(--ink);border:1px solid var(--line);border-radius:9px;padding:11px 12px;min-width:250px;flex:1}.dialogue-list{display:grid;gap:14px}.dialogue-card{background:var(--panel);border:1px solid var(--line);border-radius:14px;overflow:hidden}.dialogue-card summary{cursor:pointer;padding:19px 23px;display:flex;align-items:center;justify-content:space-between;gap:20px;list-style:none}.dialogue-card summary::-webkit-details-marker{display:none}.dialogue-card summary strong{font-family:Georgia,serif;font-size:1.2rem}.dialogue-card summary span{color:var(--muted);font-size:.82rem}.dialogue-card[open] summary{border-bottom:1px solid var(--line)}.dialogue-body{padding:22px;display:grid;gap:10px}.dialogue-scene{font-style:italic;color:var(--muted);margin:0 0 5px}.dialogue-turn{display:grid;grid-template-columns:90px minmax(0,1fr);gap:12px;margin:0}.dialogue-speaker{font-weight:700;color:var(--teal)}.dialogue-line{margin:0}.dialogue-check{border-top:1px solid var(--line);padding-top:15px;margin-top:12px}.dialogue-check ul{padding-left:19px}.dialogue-check li{margin:4px 0}.archive-empty{color:var(--muted);padding:20px;border:1px dashed var(--line);border-radius:12px}@media(max-width:600px){.dialogue-turn{grid-template-columns:1fr;gap:0}}
 </style>
 </head>
 <body>
-<header><div class="wrap nav"><a class="brand" href="#top">Fiche Ceathar <span style="color:var(--gold)">/ The 54</span></a><nav class="navlinks" aria-label="Main navigation"><a href="#questions">The questions</a><a href="#atlas">54 forms</a><a href="#generator">Dialogue prompt</a><a href="README.md">Read manuscript</a></nav></div></header>
+<header><div class="wrap nav"><a class="brand" href="#top">Fiche Ceathar <span style="color:var(--gold)">/ The 54</span></a><nav class="navlinks" aria-label="Main navigation"><a href="#questions">The questions</a><a href="#atlas">54 forms</a><a href="#archive">Dialogues</a><a href="#generator">Dialogue prompt</a><a href="README.md">Read manuscript</a></nav></div></header>
 <main id="top">
 <div class="wrap hero"><div class="eyebrow">An investigation of ordinary understanding</div><h1>Everyone understands in the same language.</h1><p>What if the innumerable things we think, say and discover share a finite grammar of <strong>completed intelligibility</strong>? Explore the 54 and build prompts that invite two people to arrive at their forms through ordinary dialogue.</p><div class="quote">How could it be any other way?</div><div class="actions"><a class="btn" href="#atlas">Explore the 54</a><a class="btn secondary" href="#generator">Build a dialogue prompt</a></div></div>
 <section id="questions"><div class="wrap"><div class="eyebrow">The generative structure</div><h2>Three questions. One achievement.</h2><p class="sub">A completed form is not three labels stuck together. Transformation, sufficiency and persistence jointly constitute one particular intelligible achievement.</p><div class="three">
@@ -31,6 +33,7 @@ footer{border-top:1px solid var(--line);padding:30px 0 50px;color:var(--muted);f
 <div class="tile"><div class="num">3</div><h3>How does it remain achieved?</h3><p>Standing · Bearing · Efficacy</p></div>
 </div><p class="quote">6 × 3 × 3 = 54</p><p class="sub">These are proposed invariant forms of completed intelligibility—not 54 kinds of sentence, not 54 topics, and not an inventory of things in the world.</p></div></section>
 <section id="atlas"><div class="wrap"><div class="eyebrow">The canonical coordinates</div><h2>Explore the 54</h2><p class="sub">Select a cell. Its coordinate, canonical name and companion utterance appear alongside the grid. The full governing definitions are maintained in the <a href="https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md" target="_blank" rel="noopener">original control reference</a>.</p><div class="explorer"><div id="groups" aria-label="The 54 cell selector"></div><aside class="panel detail" aria-live="polite"><div class="id" id="cellId">Cell 23 / 54</div><h3 id="cellName">Reciprocal shift</h3><div class="pills" id="cellAxes"></div><p id="cellForm"></p><p class="small" id="cellUtterance"></p><button class="btn secondary" id="targetCell" type="button">Use this cell in generator</button></aside></div></div></section>
+<section id="archive"><div class="wrap"><div class="eyebrow">Living work · Published from Markdown</div><h2>The dialogue archive</h2><p class="sub">Ordinary two-person conversations, written into <a href="./dialogues.md">dialogues.md</a> and presented here as the working archive grows. A target assessment belongs to its generator unless independently reviewed.</p><div class="actions"><a class="btn secondary" href="./dialogues.md">Open working Markdown</a><a class="btn secondary" href="https://github.com/TitanicParker/new-repository/edit/main/dialogues.md" target="_blank" rel="noopener">Edit on GitHub</a></div><div class="archive-tools"><label for="archiveSearch" class="small">Search dialogues</label><input id="archiveSearch" type="search" placeholder="Find a cell, speaker, or topic…" aria-label="Search published dialogues"><span id="archiveCount" class="small" aria-live="polite">Loading published conversations…</span></div><div id="dialogueList" class="dialogue-list" aria-live="polite"></div><p id="archiveError" class="note" role="status"></p></div></section>
 <section id="generator"><div class="wrap"><div class="eyebrow">Ordinary dialogue elicitation</div><h2>The dialogue machine prompt</h2><p class="sub">Target an intended completion, then ask a GPT to create fresh, reciprocal, ordinary conversations that genuinely arrive there. This page prepares the prompt; it does not claim to run an AI model itself.</p><div class="generator"><form id="promptForm" class="panel"><div class="field"><label for="mode">Run mode</label><select id="mode"><option value="one">One selected cell, repeated</option><option value="all">All 54 cells, sequential cycles</option></select></div><div class="field"><label for="target">Starting / target cell</label><select id="target"></select></div><div class="controls"><div class="field"><label for="count">Number of dialogues per batch</label><input id="count" type="number" min="1" max="54" value="5"></div><div class="field"><label for="detail">Reference detail</label><select id="detail"><option value="compact">Selected target and definitions</option><option value="full">All 54 canonical coordinates</option></select></div></div><div class="field"><label for="flavour">Optional ordinary-life focus</label><input id="flavour" placeholder="Leave blank for varied everyday situations"></div><button class="btn" type="submit">Prepare prompt</button><p class="note">The three questions guide construction privately. No philosophical vocabulary should appear in the characters' speech unless it belongs naturally to the situation.</p></form><div class="panel"><label for="prompt" class="micro">Copy into a GPT conversation</label><textarea id="prompt" readonly spellcheck="false" aria-label="Generated GPT prompt"></textarea><div class="actions"><button class="btn" type="button" id="copy">Copy prompt</button><a class="btn secondary" target="_blank" rel="noopener" href="https://chatgpt.com/">Open ChatGPT</a></div><p class="status" id="status" role="status"></p><p class="note">For the strongest version, also supply <a target="_blank" rel="noopener" href="https://github.com/TitanicParker/fiche-ceathar/blob/main/THE_54_CONTROL.md">THE_54_CONTROL.md</a> to the GPT. Prompt preparation here is deterministic; generation and independent assessment happen in the model conversation.</p></div></div></div></section>
 <section><div class="wrap"><div class="eyebrow">The Pythagorean gateway</div><h2>What remains through translation?</h2><p class="sub">The square on the hypotenuse equals the sum of the squares on the other two sides of a right triangle. Its particular geometrical relationship can be recognised across changing languages, proofs and generations. The Fiche Ceathar investigation asks what is common to the intelligible achievements through which it is understood.</p><p><a href="README.md">Read <em>What Makes a World Understandable?</em></a></p></div></section>
 </main>
@@ -93,6 +96,50 @@ el('promptForm').addEventListener('submit',ev=>{ev.preventDefault();build()});
 el('targetCell').addEventListener('click',()=>{el('target').value=String(selected);build();el('generator').scrollIntoView({behavior:'smooth'})});
 el('copy').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(el('prompt').value);el('status').textContent='Prompt copied.';}catch(e){el('prompt').focus();el('prompt').select();el('status').textContent='Select and copy the highlighted prompt.';}});
 show(23);build();
+
+async function loadDialogues(){
+ const list=el('dialogueList'),count=el('archiveCount'),error=el('archiveError');
+ try{
+ const resp=await fetch('./dialogues.md?updated='+Date.now(),{cache:'no-store'});
+ if(!resp.ok)throw new Error('HTTP '+resp.status);
+ const source=await resp.text();
+ const items=[...source.matchAll(/^### Cycle\s+(\d+)\s*\/\s*Cell\s+(\d+)\s*\/\s*(.+)$/gm)];
+ const dialogues=[];
+ for(let j=0;j<items.length;j++){
+  const start=items[j].index+items[j][0].length,end=j+1<items.length?items[j+1].index:source.length;
+  const lines=source.slice(start,end).trim().split(/\r?\n/);
+  let stage='intro';const scene=[],turns=[],checks=[];let assessment='';
+  for(const raw of lines){const line=raw.trim();if(!line)continue;
+   if(/^Dialogue\s*$/i.test(line)){stage='dialogue';continue}
+   if(/^Structural check\s*$/i.test(line)){stage='check';continue}
+   if(/^Assessment:/i.test(line)){assessment=line;stage='end';continue}
+   if(stage==='intro'){scene.push(line);continue}
+   if(stage==='dialogue'){
+    const speaker=line.match(/^([\p{L}][\p{L}' -]{0,32}):\s*(.+)$/u);
+    if(speaker)turns.push({who:speaker[1],text:speaker[2]});else scene.push(line);
+   }else if(stage==='check'&&line.startsWith('- '))checks.push(line.slice(2));
+  }
+  dialogues.push({cycle:Number(items[j][1]),cell:Number(items[j][2]),name:items[j][3].trim(),scene,turns,checks,assessment});
+ }
+ function render(){
+  const q=el('archiveSearch').value.toLowerCase().trim();list.replaceChildren();
+  const shown=dialogues.filter(d=>([d.name,d.cell,d.cycle,...d.scene,...d.turns.map(t=>t.who+' '+t.text),...d.checks].join(' ').toLowerCase().includes(q)));
+  count.textContent=shown.length+' of '+dialogues.length+' published dialogues';
+  for(const d of shown){
+   const card=document.createElement('details');card.className='dialogue-card';
+   const summary=document.createElement('summary');const heading=document.createElement('strong');heading.textContent='Cell '+String(d.cell).padStart(2,'0')+' · '+d.name;const cycle=document.createElement('span');cycle.textContent='Cycle '+d.cycle+' · Expand';summary.append(heading,cycle);card.append(summary);
+   const body=document.createElement('div');body.className='dialogue-body';
+   for(const line of d.scene){if(/^Cycle \d+ · Batch/.test(line)||/^Use ref_id/.test(line))continue;const p=document.createElement('p');p.className='dialogue-scene';p.textContent=line;body.append(p)}
+   for(const t of d.turns){const turn=document.createElement('div');turn.className='dialogue-turn';const a=document.createElement('span');a.className='dialogue-speaker';a.textContent=t.who;const b=document.createElement('p');b.className='dialogue-line';b.textContent=t.text;turn.append(a,b);body.append(turn)}
+   if(d.checks.length||d.assessment){const check=document.createElement('div');check.className='dialogue-check';const label=document.createElement('span');label.className='micro';label.textContent='Generator’s structural check';check.append(label);const ul=document.createElement('ul');for(const x of d.checks){const li=document.createElement('li');li.textContent=x;ul.append(li)}check.append(ul);if(d.assessment){const p=document.createElement('p');p.className='small';p.textContent=d.assessment;check.append(p)}body.append(check)}
+   card.append(body);list.append(card);
+  }
+  if(!shown.length){const p=document.createElement('p');p.className='archive-empty';p.textContent='No dialogues match this search.';list.append(p)}
+ }
+ el('archiveSearch').addEventListener('input',render);render();
+ }catch(e){count.textContent='Archive unavailable';error.textContent='Could not load dialogues.md from this publication. Read the working Markdown directly using the link above.';}
+}
+loadDialogues();
 </script>
 </body>
 </html>
