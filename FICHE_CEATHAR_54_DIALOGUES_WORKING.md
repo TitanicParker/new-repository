@@ -1,9 +1,9 @@
 # Fiche Ceathar — The 54 Dialogue Generator
 
-**Working dialogue corpus · Cycle 1**  
+**Working dialogue corpus · Cycles 1–2**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cells 01–54. **Next:** Cycle 2 / Cell 01 — Focal mark.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–05. **Next:** Cycle 2 / Cell 06 — Field separation.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -2613,4 +2613,226 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Cycle 1 complete. Next target: Cycle 2 / Cell 01 / Focal mark. -->
+
+# Cycle 2 — One World, Fifty-Four Achievements
+
+*Shared world: a small community preparing to reopen its old hall for public use. The dialogues take place during the work and events around that reopening; their order follows the canonical cells, not the project's chronology.*
+
+---
+
+## Cycle 2 / Cell 01 / Focal mark
+
+*Differentiation × Focal × Standing*
+
+### Dialogue
+
+*In the hall's upstairs cupboard, two volunteers are identifying objects for a small display about the building.*
+
+**Nell:** What should I put on the label for this brass thing? Everyone's been calling it a bell.
+
+**Idris:** I called it that too. But where would you hang it? There's no loop.
+
+**Nell:** Maybe the loop broke off. It's got a handle underneath, though.
+
+**Idris:** Turn it over. Is there anything stamped on the base?
+
+**Nell:** Just some letters. Wait—the dust is packed into them.
+
+**Idris:** Here's a soft brush. Can you make them out now?
+
+**Nell:** “H. Mills, bell founder.” So it is a bell?
+
+**Idris:** Look above that. There's another word, much smaller.
+
+**Nell:** “Handbell.” Oh, I see. You hold it by the wooden handle, not hang it up.
+
+**Idris:** Is the handle still attached?
+
+**Nell:** Yes. It was hidden in the packing straw. I'll write “handbell” on the inventory card.
+
+**Idris:** Good. We can stop describing it as the old hanging bell from the roof.
+
+### Structural check
+
+- **Change:** A cupboard object vaguely identified as a bell becomes determinately identified as a handbell.
+- **Sufficiency:** The small stamped identification at the object itself establishes what this particular item is; neither guesses about its use nor the general resemblance to bells settles it.
+- **Persistence:** The handbell stands as an identified object in the inventory, available under that determinate description.
+- **Closest rival cell and decisive difference:** Cell 02, *Binary bearing*. This identification does not depend on the object's status as an exception against other bells. Its completed identity is established at the focal mark.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 02 / Binary bearing
+
+*Differentiation × Focal × Bearing*
+
+### Dialogue
+
+*Two neighbours are checking the windows before the hall's reopening.*
+
+**Mae:** The glazing company asked whether all four windows on this wall were replaced at the same time.
+
+**Colm:** I thought they were. They look much the same from here.
+
+**Mae:** Three have these metal catches. That one by the noticeboard doesn't.
+
+**Colm:** Maybe its catch just fell off.
+
+**Mae:** The frame's different too. See how the other three have a flat strip across the middle?
+
+**Colm:** And that one has a curved strip. I hadn't noticed.
+
+**Mae:** There's a note in the repairs folder. “Three replacement windows installed along east wall.” No mention of the fourth.
+
+**Colm:** So the one by the noticeboard is the odd one out.
+
+**Mae:** Yes. I wouldn't call it original without checking, but it wasn't part of that replacement set.
+
+**Colm:** I'll tell the glazier three match and one needs measuring separately.
+
+**Mae:** Exactly. Otherwise they'll assume the same fittings on all four.
+
+### Structural check
+
+- **Change:** One window previously treated as another member of a uniform group acquires the standing of an exception to the three-window replacement set.
+- **Sufficiency:** Its distinctiveness is established at the noticeboard window precisely against the matching catches, frames and documented replacement history of the other three.
+- **Persistence:** Its status as the unmatched window continues through that contrast with the replacement set, not through the curved strip considered alone.
+- **Closest rival cell and decisive difference:** Cell 01, *Focal mark*. Identifying a window by its shape would establish which window it is. Here the completed determination is that this one does not belong to the otherwise matching replacement set.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 03 / Boundary act
+
+*Differentiation × Focal × Efficacy*
+
+### Dialogue
+
+*Two helpers are arranging seats for the hall's first public talk.*
+
+**Eve:** Can we squeeze one more chair onto the end of this row?
+
+**Ronan:** Possibly, but the caretaker said to keep the side passage clear.
+
+**Eve:** How far does the passage extend? It's hard to tell where the seats should stop.
+
+**Ronan:** There's a taped line on the floor. It's mostly hidden under that stack of chairs.
+
+**Eve:** Let me move the stack. There. The line runs straight from the door to the back wall.
+
+**Ronan:** Is the rule that no chair legs go beyond it?
+
+**Eve:** Here's the approved layout beside the light switch. “All seating to remain on the room side of the aisle marking.”
+
+**Ronan:** Then this end chair is over the line. I'll pull it in.
+
+**Eve:** Try the spare chair beside it.
+
+**Ronan:** Its front leg would cross the tape.
+
+**Eve:** So that one can't join the row. We can put it in the next row instead.
+
+**Ronan:** Right. The tape isn't just telling us where the aisle is. It tells us whether a seat can be placed here.
+
+**Eve:** I'll check the other rows against it before people arrive.
+
+### Structural check
+
+- **Change:** A barely noticed floor marking becomes the operative threshold determining where seating is permitted.
+- **Sufficiency:** At the marked line, a chair's position triggers a different handling decision: inside the seating area it may remain; across the boundary it must be moved. The line governs an actual placement choice.
+- **Persistence:** The distinction operates as a seating rule for this layout and for subsequent checks, rather than merely as a description of a stripe on the floor.
+- **Closest rival cell and decisive difference:** Cell 01, *Focal mark*. Simply identifying the line would settle what it is. Here the achieved distinction is the operative boundary at which the disposition of a chair changes.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 04 / Scope standing
+
+*Differentiation × Distributed × Standing*
+
+### Dialogue
+
+*Two volunteers are sorting through photographs of events held in the hall over several decades.*
+
+**Hana:** I've put all the photographs into one box marked “old events,” but it's getting difficult to find anything.
+
+**Peter:** Could we separate them by year?
+
+**Hana:** Most don't have dates. I can recognise a few people, but not enough to date the lot.
+
+**Peter:** What actually happens in them? This pile looks like dances.
+
+**Hana:** Some are dances. That one is the annual ceilidh. But look at these: the tables are set up for fundraising suppers.
+
+**Peter:** And these are performances. I can see the little stage curtain in the background.
+
+**Hana:** What about the pictures of people with certificates?
+
+**Peter:** Prize nights, perhaps. There's a handwritten card with one of them: “Garden competition awards.”
+
+**Hana:** Let's look through the rest before deciding on labels. There may be other sorts.
+
+**Peter:** Here are the jumble sales. And this looks like a meeting, not a performance—everyone's sitting around one long table.
+
+**Hana:** So we've got dances, suppers, performances, awards, sales and meetings.
+
+**Peter:** That seems to cover them. The handful we can't place can stay in an “unidentified event” sleeve for now.
+
+**Hana:** That's better. We're not pretending we know their years, but we can see what different uses of the hall the photographs show.
+
+### Structural check
+
+- **Change:** A flattened box of “old events” becomes a determinate differentiation of the hall's documented activities.
+- **Sufficiency:** The distinctions are established across the relevant photograph collection, including mixed and unidentified cases. No single photograph or one contrasting pair establishes the completed account.
+- **Persistence:** The differentiated archive stands as a usable account of the kinds of events represented without falsely assigning dates.
+- **Closest rival cell and decisive difference:** Cell 05, *Context-bound mark*. The achievement here is an established classification across the collection, not identifying how an individual photograph changes its distinctiveness with different comparison groups.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 2 / Cell 05 / Context-bound mark
+
+*Differentiation × Distributed × Bearing*
+
+### Dialogue
+
+*Two committee members are selecting chairs from the hall's mixed stock for a meeting.*
+
+**Sorcha:** I thought these wooden chairs were narrow. We might fit more of them along the table.
+
+**Declan:** Narrow compared with the big padded armchairs, certainly.
+
+**Sorcha:** Let's put one beside an armchair. Yes, there's quite a difference.
+
+**Declan:** But look at the little metal chairs from the children's activity room. The wooden chair seems wide beside those.
+
+**Sorcha:** You're right. If I called it our narrow chair, someone might bring the wrong kind.
+
+**Declan:** And these folding chairs are almost the same width as the wooden ones, but their backs are taller.
+
+**Sorcha:** So when we're talking about width, the wooden chairs are the small option among the armchairs, but not among the children's chairs.
+
+**Declan:** Exactly. Which group are we actually choosing from for this meeting?
+
+**Sorcha:** The adult seating. Nobody suggested using the children's ones.
+
+**Declan:** Then among those, the wooden chairs are the relatively narrow option.
+
+**Sorcha:** I'll make that clear when I send the seating plan: narrow *of the adult chairs*.
+
+### Structural check
+
+- **Change:** A chair's initially unqualified standing as “narrow” becomes determinately contextual: the same chair is narrow among the adult armchairs but wide among the children's chairs.
+- **Sufficiency:** The relevant comparison group establishes which item is distinctive, and changing that group changes the standing. Neither absolute measurement nor an isolated chair could settle what “narrow” means here.
+- **Persistence:** The difference remains constituted by the comparison field; the seating plan's description holds because it specifies the adult chairs as its context.
+- **Closest rival cell and decisive difference:** Cell 04, *Scope standing*. Cell 04 establishes classes across a collection. Here the achieved distinction is inseparable from which surrounding set is in view, and the same item changes relative standing across those sets.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 2 dialogues above this marker. Next target: Cycle 2 / Cell 06 / Field separation. -->
