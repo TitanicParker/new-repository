@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–3**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–20. **Next:** Cycle 3 / Cell 21 — Responsive return.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–25. **Next:** Cycle 3 / Cell 26 — Role correspondence.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -5733,4 +5733,215 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 21 / Responsive return. -->
+
+## Cycle 3 / Cell 21 / Responsive return
+
+*Relating × Focal × Efficacy*
+
+### Dialogue
+
+*Two volunteers are testing the call button at the entrance to a community clinic.*
+
+**Aileen:** The button lights up when I press it, but I don't know whether anyone at reception actually hears it.
+
+**Mo:** I'll go inside. Wait until I'm at the desk.
+
+**Aileen:** Ready?
+
+**Mo:** Yes. Press it now.
+
+**Aileen:** The light's blinking. Is anything happening your end?
+
+**Mo:** A chime sounded, and the screen says “Front entrance.” There's a button here marked “Speak.”
+
+**Aileen:** Try it.
+
+**Mo:** Can you hear me? It's Mo at reception.
+
+**Aileen:** Clearly. And the light has stopped blinking. It says “Reception answering.”
+
+**Mo:** I can hear you too. I'll open the door from here.
+
+**Aileen:** There it goes. That's different from the button merely lighting up.
+
+**Mo:** Yes. The call reached this desk, I could answer you, and I could release the door.
+
+**Aileen:** I'll put the test in the access log. Someone arriving alone needs to know a person can respond.
+
+### Structural check
+
+- **Change:** The entrance call button becomes an established effective connection between a visitor at that point and a responding person at reception.
+- **Sufficiency:** A call from the particular entrance produces a located alert, two-way communication and door release. The illuminated button alone would have shown only local activation.
+- **Persistence:** The tested arrangement remains a usable capacity for someone at that entrance to elicit and receive a reception response.
+- **Closest rival cell and decisive difference:** Cell 24, *Relational cycle*. The answer and door release complete a response to one focal call; the participants do not establish a distributed process whose returning effects continually alter the conditions producing the next response.
+- **Decisive evidence:** “The call reached this desk, I could answer you, and I could release the door.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 22 / Sequential link
+
+*Relating × Distributed × Standing*
+
+### Dialogue
+
+*Two neighbours are preparing captions for photographs of a demolished seaside pier.*
+
+**Seth:** I know this one shows the pier before the storm, but where does the photograph with the new railings go?
+
+**Orla:** The new railings might have been installed after the storm. Look at the kiosk behind them.
+
+**Seth:** That's the old kiosk, though. The council replaced it in 1988.
+
+**Orla:** Let me find the maintenance records. The railings were replaced in 1985. The storm damaged the far end in 1987.
+
+**Seth:** Then the railing photograph is before the storm, even though the pier looks newer in it.
+
+**Orla:** And this one with the temporary fence must be after the storm but before the new kiosk.
+
+**Seth:** The kiosk opening is dated 1988 on the back of this print.
+
+**Orla:** So we have the old railings, replacement railings, storm damage, temporary fence, and then the new kiosk.
+
+**Seth:** Wait—the old-railing picture has a 1983 stamp. Yes, that fits.
+
+**Orla:** I'll number the captions in that order. The visitors can follow what happened without us guessing from how new the pier looks.
+
+### Structural check
+
+- **Change:** Photographs and records that were only loosely associated with the pier acquire determinate positions in one historical sequence.
+- **Sufficiency:** Dated repairs, the storm and the kiosk opening jointly fix the order across the set, including the photograph whose newer appearance initially misled the participants.
+- **Persistence:** The chronology stands in the numbered captions as an intelligible sequence of events.
+- **Closest rival cell and decisive difference:** Cell 23, *Reciprocal shift*. The records help locate the photographs in time, but the completed result is a settled ordering, not a set of roles constituted by what the other parts reciprocally contribute.
+- **Decisive evidence:** “Old railings, replacement railings, storm damage, temporary fence, and then the new kiosk.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 23 / Reciprocal shift
+
+*Relating × Distributed × Bearing*
+
+### Dialogue
+
+*Two volunteers are preparing food parcels from a pantry's donations.*
+
+**Lena:** I've made a list of what we've got: rice, tins of beans, pasta, tomatoes and a few vegetables. I'll give the packing team the list.
+
+**Hugo:** They also need to know what meals those ingredients can make. A tin of tomatoes by itself isn't much help to someone collecting a parcel.
+
+**Lena:** I could write three simple meal cards. But I don't want to promise ingredients we don't have enough of.
+
+**Hugo:** Let's try a pasta-and-tomato card first. We have enough pasta for twelve parcels, but tomatoes for only eight.
+
+**Lena:** Then eight parcels can have that card. What can the other four make?
+
+**Hugo:** Rice and beans, if we keep enough beans back. That changes how I should divide the tins.
+
+**Lena:** And I need to change the cards to match the portions you can actually pack. Here's the rice-and-beans card with quantities for four.
+
+**Hugo:** Now the stock sheet isn't just a list of donations. It tells us how many complete meals we can support.
+
+**Lena:** And the meal cards aren't just recipes. They specify what each parcel must contain.
+
+**Hugo:** I'll put the eight pasta packs and four rice packs on separate tables with their matching cards.
+
+**Lena:** Good. Neither sheet would tell the packing team enough on its own.
+
+### Structural check
+
+- **Change:** An inventory and a set of recipe cards acquire mutually defining roles within one parcel plan.
+- **Sufficiency:** Available quantities determine which meal cards are viable and for how many parcels; the cards in turn determine how inventory must be allocated and what counts as a complete pack.
+- **Persistence:** The two documents remain intelligible through their cross-reference: the stock sheet supports the specified packs, and the cards state the obligations of each pack.
+- **Closest rival cell and decisive difference:** Cell 22, *Sequential link*. It would be possible merely to order “check stock, then write recipes, then pack.” The achievement here is the reciprocal bearing of stock and meal specifications on what each document means and requires.
+- **Decisive evidence:** “The stock sheet ... tells us how many complete meals we can support,” paired with “the meal cards ... specify what each parcel must contain.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 24 / Relational cycle
+
+*Relating × Distributed × Efficacy*
+
+### Dialogue
+
+*Two allotment holders are watching a newly installed rainwater irrigation system.*
+
+**Beth:** The pump keeps switching off. I thought it was supposed to water the beds for fifteen minutes.
+
+**Kamal:** The timer starts the watering period, but there's also a low-water sensor in the tank.
+
+**Beth:** So the tank level can stop the pump?
+
+**Kamal:** Yes. Look—the level has dropped to the sensor mark and the pump's stopped. That keeps it from running dry.
+
+**Beth:** But the rainwater collector is still feeding water into the tank from the greenhouse roof.
+
+**Kamal:** Let's wait a moment. The level's rising again.
+
+**Beth:** The sensor light has changed. And now the pump's started, even though we haven't touched the timer.
+
+**Kamal:** The pump lowers the level again as it waters the beds. The incoming water raises it. The sensor keeps changing what the pump does.
+
+**Beth:** There it stops again. So it's not a faulty timer interrupting the watering?
+
+**Kamal:** No. While the watering period is active, the tank, inflow, sensor and pump keep determining the next change.
+
+**Beth:** I'll write that on the instructions. Otherwise someone will keep resetting the timer when the pump pauses.
+
+### Structural check
+
+- **Change:** Repeated pump starts and stops become intelligible as an operative cycle among tank level, incoming water, sensor and irrigation pump.
+- **Sufficiency:** The participants observe both directions of the loop: pumping lowers the level and stops itself through the sensor; incoming water restores the level and enables pumping again.
+- **Persistence:** The relation continues as an effective distributed feedback process during an active watering period, not as a one-time signal.
+- **Closest rival cell and decisive difference:** Cell 21, *Responsive return*. A low-water signal causing the pump to stop would establish a response. Here the pump's own operation alters the water level that governs its next operation, and replenishment closes the loop.
+- **Decisive evidence:** “The pump lowers the level again as it waters the beds. The incoming water raises it. The sensor keeps changing what the pump does,” confirmed by a second stop.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 25 / Pattern alignment
+
+*Relating × Release × Standing*
+
+### Dialogue
+
+*Two volunteers are combining walking-route maps for a charity trail that crosses two parish boundaries.*
+
+**Ewan:** The northern parish map ends at the old mill. The southern one starts at a bridge, but there's no obvious connection between them.
+
+**Fiona:** They were drawn by different walking groups. The northern map is oriented with west at the top.
+
+**Ewan:** That explains why the river looks as if it's running in the wrong direction. Turn it ninety degrees.
+
+**Fiona:** Now the mill is on the same bank as the footbridge. Is that stone wall on both maps?
+
+**Ewan:** Yes, and the little fork beside it. One map calls the path “Mill Walk”; the other calls it “Riverside Way.”
+
+**Fiona:** The parish boundary runs through the middle of that stretch. They treated it as the end of one route and the beginning of another.
+
+**Ewan:** But the path itself doesn't stop there. Look, the wall, fork and bridge line up as one continuous route.
+
+**Fiona:** Then we can draw the charity trail straight across the boundary and note both local names.
+
+**Ewan:** I'll keep the parish boundary as a dotted line. It matters for the maps' history, but it isn't a break in the walk.
+
+**Fiona:** Good. People won't think they have to find a new starting point at the mill.
+
+### Structural check
+
+- **Change:** Two separately framed route descriptions become one determinate cross-boundary path arrangement.
+- **Sufficiency:** Reorientation and matching landmarks establish the continuity of the same path; the parish division ceases to decide where the route itself begins or ends.
+- **Persistence:** The combined map preserves the path's alignment while retaining the administrative boundary as historical information rather than a barrier in the route.
+- **Closest rival cell and decisive difference:** Cell 22, *Sequential link*. A list of landmarks in walking order would establish sequence. The distinctive completion here is recognition of one relational pattern across an inherited boundary that had falsely separated its parts.
+- **Decisive evidence:** “The path itself doesn't stop there,” followed by the matching wall, fork and bridge and the decision to draw one continuous route.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 26 / Role correspondence. -->
