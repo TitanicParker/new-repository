@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–3**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–15. **Next:** Cycle 3 / Cell 16 — Released option.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–20. **Next:** Cycle 3 / Cell 21 — Responsive return.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -5526,4 +5526,211 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 16 / Released option. -->
+
+## Cycle 3 / Cell 16 / Released option
+
+*Opening × Release × Standing*
+
+### Dialogue
+
+*Two neighbours are planning a small seed swap in a public library.*
+
+**Maeve:** Could we use the courtyard? Last year they said no events there.
+
+**Peter:** That was because the paving was being repaired. I don't know if the restriction is still in place.
+
+**Maeve:** The repairs are finished, but that doesn't necessarily mean events are allowed.
+
+**Peter:** Let's check the room-hire notice. Here: “Courtyard available for community activities from May, subject to booking.”
+
+**Maeve:** Is that a new rule or just a one-off for the summer fair?
+
+**Peter:** It says “general facilities policy,” revised in April. And the booking form lists the courtyard as a location.
+
+**Maeve:** So we can propose the seed swap there without asking for an exception to last year's ban.
+
+**Peter:** Yes. We still need to book it, of course.
+
+**Maeve:** That's fine. I wanted to know whether it was an option at all. I'll ask the others which Saturday suits them.
+
+### Structural check
+
+- **Change:** The courtyard becomes an established possible venue for community activity, where the old restriction had ruled it out.
+- **Sufficiency:** A revised general policy and ordinary booking form displace the former ban; the opening is not merely an informal hope based on completed repairs.
+- **Persistence:** The courtyard remains an available booking option under the current policy, even before this particular seed swap is scheduled.
+- **Closest rival cell and decisive difference:** Cell 17, *Continual passage*. No personal entitlement to enter or use the courtyard has been established. The completed achievement is the standing availability of a formerly excluded option.
+- **Decisive evidence:** “We can propose the seed swap there without asking for an exception to last year's ban.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 17 / Continual passage
+
+*Opening × Release × Bearing*
+
+### Dialogue
+
+*Two members of a community print studio are checking the new entry arrangements.*
+
+**Nessa:** The manager isn't here on Wednesdays anymore. Does that mean I can't get into the studio after work?
+
+**Omar:** It used to. She had the only key. But members who've completed the press induction now get a door card.
+
+**Nessa:** I did the induction last month. I thought the card was only for the Saturday sessions.
+
+**Omar:** Let's read your membership email. It says inducted members can enter during any listed self-service hours.
+
+**Nessa:** Wednesdays are listed until eight. Do I have to ask someone to approve each visit?
+
+**Omar:** No. The card is tied to your current membership and induction. If either lapses, access stops.
+
+**Nessa:** Then it isn't just that Wednesday entry has become possible. My membership is what gives me access.
+
+**Omar:** Exactly. The manager doesn't have to be present or decide each time.
+
+**Nessa:** I'll come after work next Wednesday. I can check the self-service calendar before I leave.
+
+### Structural check
+
+- **Change:** Entry ceases to depend on the manager's discretionary presence and becomes a continuing access relation borne by membership and induction.
+- **Sufficiency:** The written rule establishes who may enter, when, and under what ongoing qualifications. The possibility of Wednesday use alone would not establish the member's standing.
+- **Persistence:** Access remains valid while membership, induction and published self-service hours obtain, without a new individual approval each visit.
+- **Closest rival cell and decisive difference:** Cell 16, *Released option*. Wednesday use is now an option for some people, but the decisive achievement is this member's continuing entitlement grounded in a qualifying relation.
+- **Decisive evidence:** “The card is tied to your current membership and induction,” followed by confirmation that no fresh approval is needed.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 18 / Edge opening
+
+*Opening × Release × Efficacy*
+
+### Dialogue
+
+*Two volunteers are preparing a neighbourhood newsletter for publication.*
+
+**Dara:** The article about the playground is finished. Should I send it to the former editor for approval?
+
+**Lina:** We used to have to, but she handed over the newsletter account in June.
+
+**Dara:** Does that mean we can actually publish, or just that we can prepare the articles?
+
+**Lina:** The handover says the current volunteer editors can publish routine community notices after checking names and dates. Let's check this one.
+
+**Dara:** The opening time matches the council notice. The organiser confirmed the contact number this morning.
+
+**Lina:** The photograph's credited, too. I think it meets the checks.
+
+**Dara:** I'll open the publishing screen. It still has a button marked “Submit for review.”
+
+**Lina:** Is there a separate “Publish” button for our editor account?
+
+**Dara:** Yes, underneath. I wasn't seeing it. Shall I use it?
+
+**Lina:** Go ahead.
+
+**Dara:** It's live. I can see the article on the public page.
+
+**Lina:** Then the old editor isn't a required stop in the process anymore.
+
+**Dara:** Good. We didn't just receive permission in principle; we got the notice out ourselves.
+
+### Structural check
+
+- **Change:** The volunteers move from an approval-dependent publication practice to independently carrying a verified notice into public circulation.
+- **Sufficiency:** The handover removes the old editor's gatekeeping role, and the current editors exercise the resulting capacity by publishing the checked article. Merely finding an enabled button would not prove the publication had occurred.
+- **Persistence:** Routine publication is now an operative capacity of the volunteer editors, not a one-off favour from the former editor.
+- **Closest rival cell and decisive difference:** Cell 17, *Continual passage*. An editor account could establish an ongoing entitlement to use a system. Here the decisive completion is effective action across the former approval boundary: the notice is actually published.
+- **Decisive evidence:** “It's live. I can see the article on the public page.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 19 / Direct bearing
+
+*Relating × Focal × Standing*
+
+### Dialogue
+
+*Two museum volunteers are cataloguing a handwritten note found behind a framed photograph.*
+
+**Cian:** The note says, “Taken on the day the bridge reopened.” Could it describe this photograph?
+
+**Ruth:** Maybe, but it was loose behind the frame. Someone could have put it there later.
+
+**Cian:** The photograph shows a crowd beside a bridge, but we have several bridge photographs in the collection.
+
+**Ruth:** Turn the note over. There's a number: 1846-B.
+
+**Cian:** The photograph has 1846-B pencilled on its backing board.
+
+**Ruth:** Let's check the old catalogue before we attach them.
+
+**Cian:** Here it is: “1846-B, reopening of East Bridge, photographer's handwritten caption stored with print.”
+
+**Ruth:** Then the note belongs to this photograph. We shouldn't treat it as a general comment about the bridge collection.
+
+**Cian:** I'll record it as the caption associated with print 1846-B, and keep it in a separate protective sleeve.
+
+**Ruth:** Good. The link is documented even if the paper isn't stored directly against the photograph.
+
+### Structural check
+
+- **Change:** A loose note acquires a determinate relation to one particular photograph rather than to the collection generally.
+- **Sufficiency:** Matching identifiers and the historical catalogue entry anchor the note to the specific print. Proximity behind the frame alone was not enough.
+- **Persistence:** The association stands in the catalogue and remains valid even when the two objects are physically separated for conservation.
+- **Closest rival cell and decisive difference:** Cell 20, *Pivoted balance*. The note and photograph are not assigned counterbalancing roles around a point. The completed relation is a definite focal connection: this note is the caption for this print.
+- **Decisive evidence:** “1846-B, reopening of East Bridge, photographer's handwritten caption stored with print.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 20 / Pivoted balance
+
+*Relating × Focal × Bearing*
+
+### Dialogue
+
+*Two volunteers are setting a hanging mobile above the children's reading corner.*
+
+**Elva:** The wooden bird on the left keeps dropping lower than the paper stars on the right.
+
+**Jon:** Maybe the string on the left is longer.
+
+**Elva:** Both strings are the same length. The bird is much heavier, though.
+
+**Jon:** Could we hang the crossbar from its centre and add another star?
+
+**Elva:** We could, but I'd rather not change what the children made. What happens if we move the hanging loop towards the bird?
+
+**Jon:** Let's try. Hold the bar while I slide the loop along.
+
+**Elva:** Now the bird's side has risen too far.
+
+**Jon:** Back a little. There—both ends are level.
+
+**Elva:** So the bird can hang closer to the loop while the lighter stars extend farther out.
+
+**Jon:** Yes. If we move the stars inward now, the bird's side will drop again.
+
+**Elva:** I'll mark the loop's position so we can put it back after painting the bar.
+
+**Jon:** Good. It only balances because of where both sides sit relative to that point.
+
+### Structural check
+
+- **Change:** Two unequal sides of a mobile acquire stable, opposed bearings around one suspension point.
+- **Sufficiency:** The loop is adjusted until the heavier, shorter reach and lighter, longer reach counterbalance; matching string lengths or finding the bar's geometric centre would not accomplish this.
+- **Persistence:** The mobile remains level through the ongoing relation of weight and distance on both sides of the pivot.
+- **Closest rival cell and decisive difference:** Cell 19, *Direct bearing*. Merely identifying the correct suspension loop would establish a focal connection. Here the loop's effective position is constituted by the opposing contributions of the two sides.
+- **Decisive evidence:** “It only balances because of where both sides sit relative to that point.”
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 21 / Responsive return. -->
