@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–3 complete**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–54. **Next:** Review Cycle 3 discrimination outcomes.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–54. **Status:** All 162 dialogues complete; ten Cycle 3 entries repaired.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -5044,19 +5044,25 @@ The structural checks and assessments are working judgments, not modifications o
 
 **Jonah:** And a family with small children might call thirty minutes long, while the chess group might call it short.
 
-**Clare:** Let's leave the coloured stickers off for today. We can put the manufacturers' time ranges on the shelf labels and ask borrowers what would be useful.
+**Clare:** Let's use the printed time ranges to make the sections instead. Up to thirty minutes here, thirty to ninety there, and over ninety on the bottom shelf.
 
-**Jonah:** That'll at least give them something definite while we decide how to group the games.
+**Jonah:** This game says sixty to a hundred and twenty. It could be in either section.
+
+**Clare:** Let's have a fourth shelf for variable-length games, with the exact ranges printed. The one without a stated time can go there too with an “ask at desk” label.
+
+**Jonah:** I've checked the rest of the box. Every game has a place now.
+
+**Clare:** Good. I'll put the four section labels up. People can see the different kinds of playing time across the collection, not just what either of us happens to call quick.
 
 ### Structural check
 
-- **Change:** The librarians move from a proposed quick/slow classification to displaying stated time ranges, but do not establish a completed differentiated classification across the collection.
-- **Sufficiency:** A distributed set of candidate distinctions is investigated, yet the participants explicitly defer choosing the categories. The target's sufficient completion does not occur.
-- **Persistence:** The printed time ranges remain available; no standing system of short, medium and long categories persists.
-- **Closest rival cell and decisive difference:** Cell 05, *Context-bound mark*. The dialogue does demonstrate that “quick” changes with the group of games or borrowers used for comparison. It does not complete the intended Cell 04 classification.
-- **Decisive evidence:** “A family with small children might call thirty minutes long, while the chess group might call it short,” followed by the decision to leave the category stickers off.
- 
-**Assessment:** Rival achieved.
+- **Change:** The mixed collection becomes an articulated set of four time-based sections.
+- **Sufficiency:** The librarians choose criteria and apply them across the entire collection, accounting for overlapping and unknown times.
+- **Persistence:** The arranged and labelled shelves maintain the differentiation.
+- **Closest rival cell and decisive difference:** Cell 05, *Context-bound mark*. The variation in what counts as quick prompts the discussion, but the completed result is a classification across the collection.
+- **Decisive evidence:** Every game is assigned a labelled section.
+
+**Assessment:** Target achieved.
 
 ---
 
@@ -5460,23 +5466,27 @@ The structural checks and assessments are working judgments, not modifications o
 
 **Ivo:** What about the roof terrace? Their leader mentioned a photography session there.
 
-**Claudia:** The booking sheet says it requires a staff escort. I don't know whether anyone is available on Friday.
+**Claudia:** It needs a staff escort. The rota has someone free at eleven on Friday; I've reserved that hour.
 
-**Ivo:** Then we shouldn't tell them it's included.
+**Ivo:** Can we also arrange the technician for the recording booth?
 
-**Claudia:** Agreed. We can confirm rehearsal-room use and print-studio access, explain the recording-booth condition, and leave the terrace pending.
+**Claudia:** Yes, from two until four. I've booked that as well. And the gallery is for visiting, not putting up their own exhibition.
 
-**Ivo:** I'll send exactly that. It's not one blanket permission, and not every requested space is settled yet.
+**Ivo:** So they have the rehearsal room, the print studio after their completed induction, the booth with a technician, and the terrace with an escort. They can visit the gallery too.
+
+**Claudia:** Right. I'll send the confirmed schedule and put the condition beside each space.
+
+**Ivo:** Good. Now the leader knows the full range of places they can use and what each one requires.
 
 ### Structural check
 
-- **Change:** A vague assumption of building-wide access becomes a differentiated account of which spaces are reachable under which conditions.
-- **Sufficiency:** The participants establish several condition-dependent openings, but one requested space remains unresolved because escort availability is unknown.
-- **Persistence:** The confirmed permissions and qualifications remain intelligible in the reply, while terrace access is expressly left pending.
-- **Closest rival cell and decisive difference:** Cell 13, *Alternate passage*. Cell 13 establishes independent available options across a field. This conversation instead makes access to each space depend on a distinct qualification, though it does not complete the requested full-span determination.
-- **Decisive evidence:** “We can confirm rehearsal-room use and print-studio access, explain the recording-booth condition, and leave the terrace pending.”
+- **Change:** An assumed whole-building permission becomes a definite range of accessible spaces under distinct conditions.
+- **Sufficiency:** The induction, technician and escort are accounted for, and visiting the gallery is distinguished from exhibition use.
+- **Persistence:** The confirmed schedule carries the range and its respective qualifications.
+- **Closest rival cell and decisive difference:** Cell 13, *Alternate passage*. The result depends on conditions attaching to each opening, not a free-standing set of alternatives.
+- **Decisive evidence:** The complete schedule records the confirmed access and qualifications for every space discussed.
 
-**Assessment:** Ambiguous.
+**Assessment:** Target achieved.
 
 ---
 
@@ -6278,21 +6288,27 @@ The structural checks and assessments are working judgments, not modifications o
 
 **Amir:** Has the driver's list changed?
 
-**Lotte:** I can't see that screen from here. He's on the road now.
+**Lotte:** He's back at the loading door. Let me ask him to check. Yes, the new bag is showing on his screen.
 
-**Amir:** Then we've repaired at least the kitchen end. I'll ask him to confirm what he sees when he gets back.
+**Amir:** Put it on the shelf. He's collected it. Our ready count has gone down again.
 
-**Lotte:** And until then, let's phone him whenever a batch is ready. I don't want another set of meals waiting unseen.
+**Lotte:** Let's try the next bag without phoning him. Scanned and shelved.
+
+**Amir:** He can see that one too. He's picked it up, and both screens have updated.
+
+**Lotte:** Then the handoff works all the way through. I'll add the scan-and-shelf step to the packers' routine.
+
+**Amir:** Good. The next batch is moving without meals being left unseen.
 
 ### Structural check
 
-- **Change:** The volunteers identify a broken handoff, restore the scanner's local connection and introduce a temporary phone notification.
-- **Sufficiency:** The ready count changes in the kitchen, but no one verifies that the driver's list updates or that a subsequent batch moves through the entire process. A complete distributed repair remains unproven.
-- **Persistence:** A provisional workaround is operating, while the intended end-to-end handoff awaits confirmation.
-- **Closest rival cell and decisive difference:** Cell 28, *Focal adjustment*. The visible repair may amount only to correcting one local device state. Cell 33 requires the correction to function through the distributed kitchen-to-driver course.
-- **Decisive evidence:** “Has the driver's list changed?” — “I can't see that screen from here.”
+- **Change:** A stalled handoff becomes an operative sequence from packing through driver collection.
+- **Sufficiency:** Two bags are seen on the driver's list, collected and cleared from the kitchen display.
+- **Persistence:** The scan-and-shelf practice maintains the corrected process through further batches.
+- **Closest rival cell and decisive difference:** Cell 28, *Focal adjustment*. The local scanner repair is only one part; the full distributed handoff is now demonstrated.
+- **Decisive evidence:** The driver collects two scanned bags, and both ends register their collection.
 
-**Assessment:** Ambiguous.
+**Assessment:** Target achieved.
 
 ---
 
@@ -6320,23 +6336,27 @@ The structural checks and assessments are working judgments, not modifications o
 
 **Malik:** But it wouldn't work for pottery. The drying boards take up two tables.
 
-**Tessa:** Then perhaps the booking page shouldn't have one number at all. We can give each workshop a limit based on its setup.
+**Tessa:** Eighteen works for this drawing layout. Could we fit twenty?
 
-**Malik:** Agreed. I'll remove the inherited twelve and ask each organiser for a room plan before we confirm numbers.
+**Malik:** Two more chairs would obstruct the materials table. Eighteen keeps the aisle clear and gives everyone a work surface.
 
-**Tessa:** So we haven't replaced twelve with a new universal cap.
+**Tessa:** I'll attach the table plan and replace the old twelve-place booking limit with eighteen for this drawing workshop.
 
-**Malik:** No. We've established eighteen for this drawing session, and we'll check other activities against what they need.
+**Malik:** Good. We have a justified limit for this arrangement, rather than one inherited from the sewing machines.
+
+**Tessa:** Pottery can be assessed separately when its layout is ready. Eighteen is the number we'll use for this workshop.
+
+**Malik:** Then the six people on the waiting list can have places.
 
 ### Structural check
 
-- **Change:** The inherited twelve-person cap loses authority, and the drawing session receives a justified eighteen-person capacity.
-- **Sufficiency:** The conversation explicitly rejects establishing one corrected standing limit for the room. Capacity is instead determined by each activity's spatial requirements, with other sessions still to be assessed.
-- **Persistence:** The new procedure preserves a need-relative test for future bookings rather than one room-wide number.
-- **Closest rival cell and decisive difference:** Cell 35, *Condition reversal*. The target, Cell 34, would require the former limit to give way to a newly established standing limit for the relevant arrangement. The participants instead make correctness depend on the varying practical conditions of each workshop. The drawing-session number is settled, but the broader repair is explicitly conditional.
-- **Decisive evidence:** “We haven't replaced twelve with a new universal cap” — “No ... we'll check other activities against what they need.”
+- **Change:** An inherited ceiling is displaced by a new eighteen-place limit for the drawing workshop.
+- **Sufficiency:** The layout is tested and supports eighteen, while the extra two chairs would obstruct work.
+- **Persistence:** The revised booking and room plan establish eighteen as the standing limit for this arrangement.
+- **Closest rival cell and decisive difference:** Cell 35, *Condition reversal*. The practical need informs the judgment, but the result is a corrected standing limit rather than an ongoing conditional decision for this workshop.
+- **Decisive evidence:** The old twelve-place listing is replaced and the waiting-list places are admitted.
 
-**Assessment:** Rival achieved.
+**Assessment:** Target achieved.
 
 ---
 
@@ -6409,25 +6429,31 @@ The structural checks and assessments are working judgments, not modifications o
 
 **Lydia:** It's back to minus sixteen, but the door has popped open a fraction.
 
-**Pavel:** The catch isn't holding. I can put the old strap around the handle.
+**Pavel:** The catch still isn't holding. We'd have to use that old strap again.
 
-**Lydia:** That's what we were doing before the repair. It keeps the door shut, but someone has to remember to fasten it.
+**Lydia:** Let's ask the repairer to replace the catch too. We want to stop needing the strap, not keep it as part of ordinary use.
 
-**Pavel:** We could still use the freezer with the strap until the catch is fixed.
+**Pavel:** The repairer's back and the new catch is fitted. Shall we repeat the tray test?
 
-**Lydia:** For empty trays, perhaps. Not for donated food. We haven't stopped depending on the workaround.
+**Lydia:** Open, load, close. It clicked shut. Now let's watch it cool without fastening anything around the handle.
 
-**Pavel:** I'll call the repairer and leave the freezer marked out of service.
+**Pavel:** Back to minus eighteen. The door has stayed closed. Let's check it after the afternoon session too.
+
+**Lydia:** Four hours later and it's still shut, with the temperature steady. We've opened it twice without the catch coming loose.
+
+**Pavel:** Then I'll take the strap off the handle and put it away.
+
+**Lydia:** Good. We can start loading the donated food under the usual temperature checks, without that extra routine.
 
 ### Structural check
 
-- **Change:** The new seal improves the freezer's ability to cool, but the door still fails to stay closed without a strap.
-- **Sufficiency:** A temperature reading and partial recovery do not establish release from the disorder because the compensating routine remains necessary. The participants refuse to treat the repair as complete.
-- **Persistence:** The fault continues to govern safe use; the freezer remains out of service pending further work.
-- **Closest rival cell and decisive difference:** Cell 33, *In-course correction*. The seal may have improved one stage of operation, but the conversation does not verify a complete, dependable cooling-and-closure process either. Neither the distributed course nor release from the workaround is achieved.
-- **Decisive evidence:** “We haven't stopped depending on the workaround,” followed by the decision not to return food to the freezer.
+- **Change:** The freezer resumes use free of the compensating strap-and-watch routine.
+- **Sufficiency:** The catch is replaced and repeated closure and temperature tests, including an unattended interval, succeed without the strap.
+- **Persistence:** Normal temperature checks and food loading replace the old workaround.
+- **Closest rival cell and decisive difference:** Cell 33, *In-course correction*. The functioning sequence is restored, but the distinctive outcome is release from the disorder's demand for compensating action.
+- **Decisive evidence:** The strap is removed and ordinary use resumes.
 
-**Assessment:** Neither achieved.
+**Assessment:** Target achieved.
 
 ---
 
@@ -6587,21 +6613,29 @@ The structural checks and assessments are working judgments, not modifications o
 
 **Conor:** None of those objects tells the whole story on its own.
 
-**Leah:** We should check whether we're missing the editor's part. We don't have an object for it.
+**Leah:** We should check whether we're missing the editor's part. We don't have a proof sheet here.
 
-**Conor:** We could add a caption about editing, but I don't want to pretend the notebook covers it.
+**Conor:** There's a photograph of the editor marking a page in the archive. We can make that the editing section.
 
-**Leah:** Agreed. Let's mark editing as a sixth section and look for a proof sheet before the exhibition opens.
+**Leah:** So the six roles are reporting, editing, typesetting, printing, delivery and subscriptions. Let's give each its own caption.
+
+**Conor:** And draw the connections. Reporting passes material to editing and type; deliveries feed changes of address back to subscriptions.
+
+**Leah:** Subscriptions tell the printer how many copies are needed, too. It's more than a simple beginning-to-end line.
+
+**Conor:** There. Six sections with their jobs and connections. I'll mount these labels beside the objects.
+
+**Leah:** Now the display shows how the newspaper worked as a whole.
 
 ### Structural check
 
-- **Change:** The objects acquire distinct functional positions within a proposed account of newspaper production, and the volunteers recognise an unrepresented editorial role.
-- **Sufficiency:** The five established sections form a plausible distributed structure, but the participants explicitly leave a sixth necessary role without an exhibit or settled treatment. The intended whole is therefore not yet fully established.
-- **Persistence:** A provisional role arrangement stands, with an acknowledged gap that must be filled before the exhibition opens.
-- **Closest rival cell and decisive difference:** Cell 22, *Sequential link*. The discussion rejects a mere chronological chain because subscriptions and delivery feed back into earlier work. The target, however, requires a complete articulated role array, and the editorial gap remains.
-- **Decisive evidence:** “Let's mark editing as a sixth section and look for a proof sheet before the exhibition opens.”
+- **Change:** The objects become an articulated account of differentiated newspaper roles.
+- **Sufficiency:** Six relevant functions, including editing, are represented along with their relationships.
+- **Persistence:** The six-section display plan stands as an intelligible role array.
+- **Closest rival cell and decisive difference:** Cell 22, *Sequential link*. The result is a set of distinct roles in a whole, with feedback connections beyond a simple chronology.
+- **Decisive evidence:** All six roles and their relationships are placed in the display.
 
-**Assessment:** Ambiguous.
+**Assessment:** Target achieved.
 
 ---
 
@@ -6672,25 +6706,29 @@ The structural checks and assessments are working judgments, not modifications o
 
 **Miriam:** The checkout sheet says every cordless drill must go with a charger.
 
-**Dev:** The returns volunteer may have put it on the inspection shelf. I'll look.
+**Dev:** The returns volunteer has brought the charger's case over from the inspection shelf. Let's check its number.
 
-**Miriam:** Wait, there's a second drill in the cupboard. It has a charger in its case.
+**Miriam:** It matches the drill, and the inspection tag is signed. Pass the full kit to checkout.
 
-**Dev:** That one's marked “awaiting electrical check.” We can't lend it.
+**Dev:** The checkout volunteer has scanned both parts against your membership and printed a due-date slip.
 
-**Miriam:** Then the membership check works, and the tool record is clear, but we can't complete this loan.
+**Miriam:** The loan shows as active on my card. I'll bring the drill back to test the return part as well.
 
-**Dev:** Right. I'll ask the inspection volunteer to locate the approved charger's case before we open. We shouldn't count a successful check-in as a successful borrowing service.
+**Dev:** The return volunteer has inspected both parts, recorded their condition and marked the kit available again.
+
+**Miriam:** Membership, checkout and inventory all agree. The loan and return worked because each person did their job.
+
+**Dev:** Good. We'll use those same handoffs when the doors open.
 
 ### Structural check
 
-- **Change:** The team demonstrates a valid membership check and identifies the required checkout roles, but fails to complete the trial loan.
-- **Sufficiency:** The rota and records articulate the functions, yet the missing charger prevents those functions from yielding a completed transaction. The participants explicitly refuse to treat the rehearsal as proof of joint competence.
-- **Persistence:** The distributed assignments stand, but operative borrowing capacity for this requested item remains unverified.
-- **Closest rival cell and decisive difference:** Cell 40, *Role array*. The participants have a coherent set of differentiated duties and rules; they have not shown those roles functioning together through a successful loan.
-- **Decisive evidence:** “We shouldn't count a successful check-in as a successful borrowing service.”
+- **Change:** Separate assigned roles become a working joint lending service.
+- **Sufficiency:** The volunteers verify the kit, complete checkout and return, and reconcile the relevant records.
+- **Persistence:** The tested handoffs establish a repeatable coordinated capacity.
+- **Closest rival cell and decisive difference:** Cell 40, *Role array*. A standing rota merely assigns roles; the roles here act together to complete a transaction.
+- **Decisive evidence:** A loan and return are successfully completed and recorded.
 
-**Assessment:** Rival achieved.
+**Assessment:** Target achieved.
 
 ---
 
@@ -6746,33 +6784,33 @@ The structural checks and assessments are working judgments, not modifications o
 
 *Two neighbours are reviewing a shared growing bed that used to be divided between a gardening club and a school.*
 
-**Faye:** The club's herbs are shading the school's lettuce. We used to keep everything on our own sides, so this wasn't a problem.
+**Faye:** Remember how the club's herbs used to shade the school's lettuce? We kept everything on our own sides instead of working out what the plants needed.
 
-**Oisin:** The old boundary's gone, but that doesn't mean the plants suit each other. Could we move the lettuce towards the morning sun?
+**Oisin:** We moved the lettuce into the morning sun at the start of the season. How did it do?
 
-**Faye:** Maybe. The herbs also attract the bees that visit the beans, and the school children have been watering the whole bed when the club can't come.
+**Faye:** The lettuce filled out, and the herbs along the beans drew in bees. Look at the pods.
 
-**Oisin:** So the mixed planting is helping in some ways. But the lettuce is still struggling.
+**Oisin:** And the school children watered the whole bed on weekdays while the club covered weekends and holidays.
 
-**Faye:** Let's move two lettuce plants as a trial, not the entire row.
+**Faye:** Both groups kept it going through the dry spell. The watering sheet shows every turn was covered.
 
-**Oisin:** And keep the herbs where they are until we see whether the beans set pods.
+**Oisin:** Did anyone want the old dividing rope back when the seedlings needed moving?
 
-**Faye:** The children can record how much sun each patch gets this week.
+**Faye:** No. We moved them for light, not because they belonged to one group. The mixed bed has worked all season.
 
-**Oisin:** Then we'll know whether this arrangement can actually sustain itself through both groups' care.
+**Oisin:** Let's keep the shared planting and care plan next year. The plants and the two groups support one another.
 
-**Faye:** Agreed. I don't want to declare the new shared bed a success just because we took down the dividing rope.
+**Faye:** Agreed. That's what keeps the whole bed healthy.
 
 ### Structural check
 
-- **Change:** The old ownership boundary has been removed and the participants identify several possible mutual supports, but an important planting conflict remains unresolved.
-- **Sufficiency:** Shared watering and pollination may support an integrated bed; shading may undermine it. The trial relocation has not yet demonstrated a sustainable balance among the relevant relationships.
-- **Persistence:** A provisional shared arrangement exists, with its long-term fit explicitly under investigation.
-- **Closest rival cell and decisive difference:** Cell 43, *Self-maintaining equilibrium*. The former group partition has ceased to govern where members may plant or water, which supports a standing integrated arrangement. The stronger Cell 44 claim—that the whole is sustained by mutually adequate relations despite that released division—has not been shown.
-- **Decisive evidence:** “I don't want to declare the new shared bed a success just because we took down the dividing rope.”
+- **Change:** The formerly divided bed becomes a sustained shared growing arrangement.
+- **Sufficiency:** Healthy crops, pollination and reciprocal care through a season establish the relationships that support the whole.
+- **Persistence:** The ecological and cooperative supports continue without territorial divisions.
+- **Closest rival cell and decisive difference:** Cell 43, *Self-maintaining equilibrium*. Removing the old boundary alone establishes standing unity; here mutually adequate relationships actually sustain it.
+- **Decisive evidence:** The bed thrives across the season and the old boundary remains irrelevant to care.
 
-**Assessment:** Ambiguous.
+**Assessment:** Target achieved.
 
 ---
 
@@ -6979,23 +7017,23 @@ The structural checks and assessments are working judgments, not modifications o
 
 **Sorcha:** We should also include where the public toilets are. That question came up twice.
 
-**Eli:** The building manager hasn't confirmed whether the courtyard toilets will be open. The indoor ones definitely will be.
+**Eli:** The building manager's message is here. The indoor toilets will be open throughout the market, and the courtyard toilets will be closed for repairs.
 
-**Sorcha:** Then let's send the parking and delivery answers now, and say the toilet information is still being checked.
+**Sorcha:** Then our answer is complete: south car park for visitors, deliveries at the east gate before nine, a steward keeping the accessible route clear from eight, indoor toilets open and courtyard toilets closed.
 
-**Eli:** Shall I file this as the final response to all the recurring questions?
+**Eli:** That answers every recurring question, including how deliveries and access fit together.
 
-**Sorcha:** Not yet. It's a useful reply, but the complete account still has a gap.
+**Sorcha:** I'll send the full response with the plan and file it with the minutes. We can use the same account when those questions come up again.
 
 ### Structural check
 
-- **Change:** The committee resolves an interaction between parking, unloading and accessible entry, but one recurring facilities question remains open.
-- **Sufficiency:** The participants produce consistent answers to several questions, yet expressly withhold final status because the toilet information is incomplete. The target requires closure of the relevant distributed question set, not merely a sound partial reply.
-- **Persistence:** A partial record can be reused, but the full answering account is not yet settled.
-- **Closest rival cell and decisive difference:** Cell 31, *Cross-position validation*. The parking and access claims are checked for mutual consistency, and that validation is achieved locally. Cell 49 would additionally require the outstanding range of questions to be discharged as a complete reusable account.
-- **Decisive evidence:** “Shall I file this as the final response to all the recurring questions?” — “Not yet.”
+- **Change:** A set of recurring market questions becomes a complete consistent answering account.
+- **Sufficiency:** Parking, unloading, accessible access and both toilet locations are covered together.
+- **Persistence:** The response and site plan stand as a reusable record.
+- **Closest rival cell and decisive difference:** Cell 31, *Cross-position validation*. The compatibility of access and deliveries is one check; here the whole range of recurring questions is settled.
+- **Decisive evidence:** All recurring questions are answered, sent and filed.
 
-**Assessment:** Ambiguous.
+**Assessment:** Target achieved.
 
 ---
 
@@ -7027,25 +7065,25 @@ The structural checks and assessments are working judgments, not modifications o
 
 **Duncan:** The choir's response just came in: they agree if the cancellation deadline is noon, as written.
 
-**Leila:** Then I'll send the same final rota and conditions to all three.
+**Leila:** Then I'll send the same final rota and conditions to all three for acknowledgement.
 
-**Duncan:** And ask them to acknowledge that version, so there's no uncertainty about later edits.
+**Duncan:** The youth club and gardening group have confirmed. The choir's reply has just arrived: “Wednesday confirmed, with the noon cancellation deadline and swaps as in the attached rota.”
 
-**Leila:** Two acknowledgements are back. The choir hasn't answered the final version yet.
+**Leila:** So all three have accepted the same dates and the conditions governing cancellation fees and swaps.
 
-**Duncan:** So we have agreement on the terms in principle, but not confirmation that all three are working from the same final record.
+**Duncan:** Yes. I'll keep those replies with the final rota and tell the transport provider the arrangement is agreed.
 
-**Leila:** Leave it marked “awaiting final acknowledgement.” We'll close it when that last reply comes.
+**Leila:** Good. Everyone knows what each group owes the others if a booking changes.
 
 ### Structural check
 
-- **Change:** Three groups converge on cancellation and swap conditions, but their common recognition of the final recorded arrangement remains incomplete.
-- **Sufficiency:** The choir accepts the proposed condition, yet has not acknowledged the final circulated rota. The participants explicitly distinguish assent to terms from closure of the same shared arrangement across all parties.
-- **Persistence:** The draft conditions are provisionally stable, while the binding common record awaits the final acknowledgement.
-- **Closest rival cell and decisive difference:** Cell 49, *Recurrence settlement*. A complete written account of dates and rules may already exist. The target is stronger in a different way: the settlement must obtain through the parties' mutually acknowledged conditions, not the mere completeness of the document.
-- **Decisive evidence:** “We have agreement on the terms in principle, but not confirmation that all three are working from the same final record.”
+- **Change:** Three different expectations become one mutually acknowledged conditional arrangement.
+- **Sufficiency:** All groups agree to the same rota and rules for cancellation responsibility and swaps.
+- **Persistence:** The accepted version and recorded replies preserve the reciprocal conditions.
+- **Closest rival cell and decisive difference:** Cell 49, *Recurrence settlement*. A complete written answer is different from the participating parties mutually accepting the conditions governing their obligations.
+- **Decisive evidence:** All three groups acknowledge the same final conditions.
 
-**Assessment:** Ambiguous.
+**Assessment:** Target achieved.
 
 ---
 
@@ -7244,4 +7282,4 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Cycle 3 complete: 54 of 54 cells. Next: review discrimination outcomes and nearest-rival assignments. -->
+<!-- Cycles 1–3 complete: 162 target-achieved dialogues. Cycle 3 Cells 04, 14, 33, 34, 36, 40, 42, 44, 49 and 50 repaired. -->
