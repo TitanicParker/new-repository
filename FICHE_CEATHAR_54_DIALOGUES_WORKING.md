@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–3**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–40. **Next:** Cycle 3 / Cell 41 — Mutual-support structure.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–45. **Next:** Cycle 3 / Cell 46 — Settled alternative.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -6605,4 +6605,221 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 41 / Mutual-support structure. -->
+
+## Cycle 3 / Cell 41 / Mutual-support structure
+
+*Integration × Distributed × Bearing*
+
+### Dialogue
+
+*Two volunteers are assembling a portable exhibition stand from numbered pieces.*
+
+**Sana:** The two side frames stand upright on their own. Do we really need these crossbars?
+
+**Gareth:** The instructions show one at the top and another diagonally across the back. Perhaps they're just to hang the banner.
+
+**Sana:** The banner clips to the front rail. Try moving the left frame a little.
+
+**Gareth:** The right frame comes with it, but the whole thing twists. I'd rather not put the display panels on yet.
+
+**Sana:** Let's fit the top bar. Hold that corner.
+
+**Gareth:** It's straighter, but if I push gently from the side it still folds towards me.
+
+**Sana:** Now the diagonal brace. It connects the bottom of your frame to the top of mine.
+
+**Gareth:** Tightened. Try the same push.
+
+**Sana:** No twist. And when I push your side, mine doesn't lean away.
+
+**Gareth:** So the frames aren't each supporting themselves with a decorative bar between them. The brace lets them hold one another in position.
+
+**Sana:** Exactly. Let's check the feet are level before we hang anything heavy.
+
+**Gareth:** All four are flat. We can put the panels up.
+
+### Structural check
+
+- **Change:** Two individually standing frames become one stable exhibition support through their reciprocal bracing.
+- **Sufficiency:** The top bar alone improves appearance without preventing twist. The diagonal brace makes displacement of either side answerable to the other, and the volunteers test stability from both directions.
+- **Persistence:** The assembled stand remains coherent through its ongoing interdependent support relations, not through either frame alone.
+- **Closest rival cell and decisive difference:** Cell 40, *Role array*. The side frames, rail and brace could merely have assigned places in an assembly. Their decisive achievement is that their reciprocal bearing produces stability that no separate part possesses.
+- **Decisive evidence:** “When I push your side, mine doesn't lean away,” after the diagonal brace has been secured.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 42 / Role activation
+
+*Integration × Distributed × Efficacy*
+
+### Dialogue
+
+*Two volunteers are preparing the first public borrowing session at a newly organised tool library.*
+
+**Miriam:** The rota looks complete: someone checks membership, someone finds tools, someone checks them out, and someone inspects returns.
+
+**Dev:** It looks complete on paper. Can we try a loan before the doors open?
+
+**Miriam:** I'll pretend to be a borrower. Here's my membership card. I'd like the cordless drill.
+
+**Dev:** The membership number is valid. I'll send you to the tool desk.
+
+**Miriam:** You're also at the tool desk today. Can you find the drill?
+
+**Dev:** Here it is. The battery's attached, but I don't see the charger.
+
+**Miriam:** The checkout sheet says every cordless drill must go with a charger.
+
+**Dev:** The returns volunteer may have put it on the inspection shelf. I'll look.
+
+**Miriam:** Wait, there's a second drill in the cupboard. It has a charger in its case.
+
+**Dev:** That one's marked “awaiting electrical check.” We can't lend it.
+
+**Miriam:** Then the membership check works, and the tool record is clear, but we can't complete this loan.
+
+**Dev:** Right. I'll ask the inspection volunteer to locate the approved charger's case before we open. We shouldn't count a successful check-in as a successful borrowing service.
+
+### Structural check
+
+- **Change:** The team demonstrates a valid membership check and identifies the required checkout roles, but fails to complete the trial loan.
+- **Sufficiency:** The rota and records articulate the functions, yet the missing charger prevents those functions from yielding a completed transaction. The participants explicitly refuse to treat the rehearsal as proof of joint competence.
+- **Persistence:** The distributed assignments stand, but operative borrowing capacity for this requested item remains unverified.
+- **Closest rival cell and decisive difference:** Cell 40, *Role array*. The participants have a coherent set of differentiated duties and rules; they have not shown those roles functioning together through a successful loan.
+- **Decisive evidence:** “We shouldn't count a successful check-in as a successful borrowing service.”
+
+**Assessment:** Rival achieved.
+
+---
+
+## Cycle 3 / Cell 43 / Self-maintaining equilibrium
+
+*Integration × Release × Standing*
+
+### Dialogue
+
+*Two volunteers are reorganising a local-history display assembled from material donated by two neighbouring villages.*
+
+**Eimear:** The exhibition still has a green half for Brookfield and a blue half for Milltown. People keep asking why the river photographs are on opposite walls.
+
+**Colm:** Each village committee supplied its own pictures. They wanted them kept together.
+
+**Eimear:** But the bridge photographs show both banks. This one was taken from Brookfield; that one shows the same bridge from Milltown.
+
+**Colm:** And the flood diary from Milltown explains the repairs shown in Brookfield's photographs.
+
+**Eimear:** Could we arrange the exhibition by the bridge, the flood and the rebuilding instead of by donor?
+
+**Colm:** The committees have agreed that we can change the arrangement as long as each object keeps its credit.
+
+**Eimear:** Then let's put both bridge views together, the flood records beside them, and the rebuilding material at the end.
+
+**Colm:** Where does the school map go?
+
+**Eimear:** At the beginning. It shows the whole river crossing before the flood.
+
+**Colm:** We've taken the coloured village headings down. Do we need a new label saying “joint exhibition”?
+
+**Eimear:** Just “The River Crossing.” The sections explain themselves without dividing the objects back into two villages.
+
+**Colm:** Yes. Even if someone forgot who donated which photograph, the exhibition would still make sense.
+
+### Structural check
+
+- **Change:** Material previously governed by two donor territories becomes one settled exhibition with an internally intelligible structure.
+- **Sufficiency:** The donors' division no longer decides placement; cross-bank evidence is organised by the crossing's history, while provenance remains recorded without controlling membership.
+- **Persistence:** The exhibition's identity and sections remain intelligible independently of the old village headings.
+- **Closest rival cell and decisive difference:** Cell 37, *Focal whole*. The river crossing is a unifying subject, but the distinctive test is whether the former partition has actually lost its authority over how the whole stands. The agreed reorganisation and removal of donor headings establish that release.
+- **Decisive evidence:** “Even if someone forgot who donated which photograph, the exhibition would still make sense.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 44 / Sustained equilibrium
+
+*Integration × Release × Bearing*
+
+### Dialogue
+
+*Two neighbours are reviewing a shared growing bed that used to be divided between a gardening club and a school.*
+
+**Faye:** The club's herbs are shading the school's lettuce. We used to keep everything on our own sides, so this wasn't a problem.
+
+**Oisin:** The old boundary's gone, but that doesn't mean the plants suit each other. Could we move the lettuce towards the morning sun?
+
+**Faye:** Maybe. The herbs also attract the bees that visit the beans, and the school children have been watering the whole bed when the club can't come.
+
+**Oisin:** So the mixed planting is helping in some ways. But the lettuce is still struggling.
+
+**Faye:** Let's move two lettuce plants as a trial, not the entire row.
+
+**Oisin:** And keep the herbs where they are until we see whether the beans set pods.
+
+**Faye:** The children can record how much sun each patch gets this week.
+
+**Oisin:** Then we'll know whether this arrangement can actually sustain itself through both groups' care.
+
+**Faye:** Agreed. I don't want to declare the new shared bed a success just because we took down the dividing rope.
+
+### Structural check
+
+- **Change:** The old ownership boundary has been removed and the participants identify several possible mutual supports, but an important planting conflict remains unresolved.
+- **Sufficiency:** Shared watering and pollination may support an integrated bed; shading may undermine it. The trial relocation has not yet demonstrated a sustainable balance among the relevant relationships.
+- **Persistence:** A provisional shared arrangement exists, with its long-term fit explicitly under investigation.
+- **Closest rival cell and decisive difference:** Cell 43, *Self-maintaining equilibrium*. The former group partition has ceased to govern where members may plant or water, which supports a standing integrated arrangement. The stronger Cell 44 claim—that the whole is sustained by mutually adequate relations despite that released division—has not been shown.
+- **Decisive evidence:** “I don't want to declare the new shared bed a success just because we took down the dividing rope.”
+
+**Assessment:** Ambiguous.
+
+---
+
+## Cycle 3 / Cell 45 / Convergent whole
+
+*Integration × Release × Efficacy*
+
+### Dialogue
+
+*Two organisers are trying to open a neighbourhood repair fair on time.*
+
+**Priya:** The repair volunteers have finished their benches, but the welcome team says they can't start until the signs team hands over the entrance.
+
+**Niall:** And the signs team is waiting for the furniture crew to move the spare tables. Everyone's treating their own section as someone else's boundary.
+
+**Priya:** We have fifteen minutes. Can the welcome volunteers carry the spare tables while the furniture crew puts up the signs?
+
+**Niall:** They can, but the furniture crew doesn't know which signs go where.
+
+**Priya:** I'll walk the entrance with them. You take two welcome volunteers to clear the passage and put the registration table by the door.
+
+**Niall:** What about the repairers? They're ready but nobody's directing visitors to them.
+
+**Priya:** Once the entrance is clear, ask one repairer to help with the station labels. They know which bench handles which jobs.
+
+**Niall:** Done. The passage is open, the signs are up, and the registration table is taking names.
+
+**Priya:** Can visitors actually get from registration to the repair benches?
+
+**Niall:** Let's try the first arrival. They've checked in, found the lamp-repair bench and handed over their lamp.
+
+**Priya:** And the welcome volunteers aren't waiting for a formal handover from the signs team?
+
+**Niall:** No. They're filling the next gap as it appears. The repairers are doing the same when their benches are free.
+
+**Priya:** Then open the gate. We're running one fair, not four separate departments.
+
+### Structural check
+
+- **Change:** Four territorially separated teams become an effective common undertaking that admits and directs visitors through the fair.
+- **Sufficiency:** Tasks are reassigned across former team boundaries in response to what the event needs; a real visitor completes registration and reaches a repair bench. The result is more than a shared plan or the nominal presence of all teams.
+- **Persistence:** The participants establish a continuing practice of responding to gaps across departmental lines as the fair operates.
+- **Closest rival cell and decisive difference:** Cell 42, *Role activation*. Cell 42 would be achieved if fixed complementary assignments simply operated successfully. Here success depends on releasing those assignments' exclusive control of who may do each task, while preserving the necessary expertise.
+- **Decisive evidence:** “They're filling the next gap as it appears,” after the first visitor has moved from registration to the repair bench.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 46 / Settled alternative. -->
