@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–3**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–10. **Next:** Cycle 3 / Cell 11 — Source-carried divergence.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–15. **Next:** Cycle 3 / Cell 16 — Released option.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -5315,4 +5315,215 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 11 / Source-carried divergence. -->
+
+## Cycle 3 / Cell 11 / Source-carried divergence
+
+*Opening × Focal × Bearing*
+
+### Dialogue
+
+*Two volunteers are helping a new member understand a community workshop's access card.*
+
+**Mabel:** The ceramics room and the sewing room both have card readers. Do I need to register separately for each?
+
+**Tariq:** I thought so. They used to have separate sign-up sheets.
+
+**Mabel:** The welcome email says my membership covers the shared workshop spaces, but it doesn't name the doors.
+
+**Tariq:** Let's check the membership guide. Here: “A current general membership card permits entry to either studio during staffed hours.” The kiln room has a separate induction.
+
+**Mabel:** So the same card covers ceramics and sewing, but not the kiln room?
+
+**Tariq:** That's how I read it. Let's ask at the desk before we promise anything.
+
+**Mabel:** The desk volunteer says the readers use the same membership record. She can see both studios enabled on my card.
+
+**Tariq:** Then the two studio options come with that one membership, not two independent registrations.
+
+**Mabel:** I can decide which one to use when I come on Thursday.
+
+**Tariq:** Yes, while your membership's current and staff are here.
+
+### Structural check
+
+- **Change:** Two apparently separate studio admissions become recognised as alternatives carried by one membership entitlement.
+- **Sufficiency:** The guide and membership record establish that the same qualifying card constitutes access to either studio. The kiln room's separate induction also clarifies the entitlement's limit.
+- **Persistence:** The two openings remain available through the card's continuing validity and staffed-hours condition.
+- **Closest rival cell and decisive difference:** Cell 13, *Alternate passage*. Two accessible rooms alone could amount to a distributed set of options. Here their common availability specifically depends on one focal membership source.
+- **Decisive evidence:** “The readers use the same membership record. She can see both studios enabled on my card.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 12 / Branching output
+
+*Opening × Focal × Efficacy*
+
+### Dialogue
+
+*Two stagehands are trying to move scenery through a theatre's narrow workshop exit.*
+
+**Rina:** The flat won't pass through with that door stopping halfway. We'll have to take the frame apart.
+
+**Sol:** Before we do, is the door meant to open farther? There's a bolt near the top.
+
+**Rina:** That might hold the door against the wall. I can't reach it while I'm holding the flat.
+
+**Sol:** Put the scenery down. I'll support the door while you release the catch.
+
+**Rina:** There. It's swung right back. Let's try the frame.
+
+**Sol:** Straight through. I thought the width of the opening was the problem.
+
+**Rina:** It was the door leaf taking up the space. Now the flat's through, where does it go?
+
+**Sol:** This one goes to the rehearsal stage. The painted backdrop behind it goes to the loading bay.
+
+**Rina:** Can both turn from here?
+
+**Sol:** Yes. I'll take the flat left. You can wheel the backdrop right; the corridor's clear.
+
+**Rina:** Good. We can move both without dismantling them.
+
+### Structural check
+
+- **Change:** An obstructed workshop exit becomes a usable transfer point from which scenery can proceed along two distinct courses.
+- **Sufficiency:** The participants release the door, pass a full-sized item through and verify both onward directions. Finding an unlocked door would not by itself demonstrate this practical opening.
+- **Persistence:** The door can be set back again to enable repeated movement to the rehearsal stage or loading bay.
+- **Closest rival cell and decisive difference:** Cell 10, *Source field*. Cell 10 would be achieved by identifying an available exit. Here the completed achievement is successful passage through the focal bottleneck with usable branching continuations.
+- **Decisive evidence:** “Straight through,” followed by the confirmed left and right movements for different pieces of scenery.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 13 / Alternate passage
+
+*Opening × Distributed × Standing*
+
+### Dialogue
+
+*Two friends are arranging how visitors will reach a village book fair while the bridge is closed.*
+
+**Nell:** The main road is shut all weekend. Should we tell everyone to come by the footbridge?
+
+**Harun:** That's one way, but it won't help people bringing boxes of books.
+
+**Nell:** There's a road around the mill, isn't there?
+
+**Harun:** Yes. The council notice says it's open to cars. And the bus is stopping by the school instead of the square.
+
+**Nell:** Is there a walking route from the school?
+
+**Harun:** Along the riverside path. It comes out behind the library.
+
+**Nell:** So we have the footbridge for people walking from town, the mill road for drivers, and the school path for bus passengers.
+
+**Harun:** Three approaches, none dependent on the closed bridge.
+
+**Nell:** I'll put all three on the fair notice, with a warning that the riverside path is gravel.
+
+**Harun:** Good. People can choose whichever approach suits their journey.
+
+### Structural check
+
+- **Change:** The fair, apparently cut off by a bridge closure, acquires a determinate set of available approaches across the surrounding area.
+- **Sufficiency:** The footbridge, mill road and school path are separately verified as usable approaches for different modes of arrival; the achievement is not concentrated in one entrance or permission.
+- **Persistence:** The alternatives stand as a published repertoire of routes for visitors.
+- **Closest rival cell and decisive difference:** Cell 11, *Source-carried divergence*. There is no single credential or focal source constituting the routes. Their availability is distributed across independent passages.
+- **Decisive evidence:** “Three approaches, none dependent on the closed bridge.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 14 / Span-carried reach
+
+*Opening × Distributed × Bearing*
+
+### Dialogue
+
+*Two coordinators are checking which parts of a municipal arts centre a youth group may use.*
+
+**Ivo:** The group leader asked whether their booking gives them the whole building.
+
+**Claudia:** It doesn't. They can use the rehearsal room, but the recording booth needs a technician present.
+
+**Ivo:** And the print studio?
+
+**Claudia:** Only after the safety induction. They've completed that, according to the register.
+
+**Ivo:** The gallery is open to the public during the afternoon, so they can visit it anyway.
+
+**Claudia:** Yes, but visiting isn't the same as booking it for their own exhibition.
+
+**Ivo:** What about the roof terrace? Their leader mentioned a photography session there.
+
+**Claudia:** The booking sheet says it requires a staff escort. I don't know whether anyone is available on Friday.
+
+**Ivo:** Then we shouldn't tell them it's included.
+
+**Claudia:** Agreed. We can confirm rehearsal-room use and print-studio access, explain the recording-booth condition, and leave the terrace pending.
+
+**Ivo:** I'll send exactly that. It's not one blanket permission, and not every requested space is settled yet.
+
+### Structural check
+
+- **Change:** A vague assumption of building-wide access becomes a differentiated account of which spaces are reachable under which conditions.
+- **Sufficiency:** The participants establish several condition-dependent openings, but one requested space remains unresolved because escort availability is unknown.
+- **Persistence:** The confirmed permissions and qualifications remain intelligible in the reply, while terrace access is expressly left pending.
+- **Closest rival cell and decisive difference:** Cell 13, *Alternate passage*. Cell 13 establishes independent available options across a field. This conversation instead makes access to each space depend on a distinct qualification, though it does not complete the requested full-span determination.
+- **Decisive evidence:** “We can confirm rehearsal-room use and print-studio access, explain the recording-booth condition, and leave the terrace pending.”
+
+**Assessment:** Ambiguous.
+
+---
+
+## Cycle 3 / Cell 15 / Field distribution
+
+*Opening × Distributed × Efficacy*
+
+### Dialogue
+
+*Two volunteers are checking the new public-address system in a sports centre.*
+
+**Kara:** The microphone works at reception. Does that mean the announcements will reach the whole building?
+
+**Emil:** Not necessarily. There are speakers in the gym, pool corridor and upstairs meeting rooms. Let's test them.
+
+**Kara:** I'll speak from reception. Can you call me from the gym?
+
+**Emil:** I hear you clearly here. Try the pool corridor next; I'll walk over.
+
+**Kara:** “Testing, one, two.” How is it?
+
+**Emil:** Clear. I'm going upstairs now.
+
+**Kara:** I'll keep the microphone on. Tell me when you're in the meeting room.
+
+**Emil:** I'm here. I can't hear anything.
+
+**Kara:** There's a zone switch marked “upstairs.” It's off. I'll turn it on and repeat the announcement.
+
+**Emil:** That's working now. Check the second upstairs room too.
+
+**Kara:** Same announcement.
+
+**Emil:** Heard in both. We've tested reception, gym, corridor and both meeting rooms.
+
+**Kara:** I'll leave the required zones enabled and note the settings for the duty staff.
+
+### Structural check
+
+- **Change:** A system known to work only at its source becomes demonstrably capable of carrying announcements throughout the relevant building zones.
+- **Sufficiency:** The volunteers test actual reception across the full intended span, find a silent zone and correct it. A successful microphone test at reception alone would not establish distributed efficacy.
+- **Persistence:** The recorded zone settings preserve the operational capacity for future announcements throughout the tested spaces.
+- **Closest rival cell and decisive difference:** Cell 12, *Branching output*. Cell 12 opens a focal bottleneck to distinct continuations. Here completion depends on demonstrated functioning across a distributed field, including the formerly silent rooms.
+- **Decisive evidence:** “Heard in both. We've tested reception, gym, corridor and both meeting rooms.”
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 16 / Released option. -->
