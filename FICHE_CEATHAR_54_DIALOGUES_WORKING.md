@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–3**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–05. **Next:** Cycle 3 / Cell 06 — Field separation.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–10. **Next:** Cycle 3 / Cell 11 — Source-carried divergence.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -5098,4 +5098,221 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 06 / Field separation. -->
+
+## Cycle 3 / Cell 06 / Field separation
+
+*Differentiation × Distributed × Efficacy*
+
+### Dialogue
+
+*Two volunteers are sorting messages received by a neighbourhood advice centre.*
+
+**Asha:** I made four folders: appointments, questions, complaints and everything else.
+
+**Tom:** That will make the inbox tidier. But who's meant to answer the messages in each folder?
+
+**Asha:** I hadn't got that far. The coordinator normally reads them all.
+
+**Tom:** She's away until Thursday. Look at this one: a caller needs to cancel tomorrow's appointment.
+
+**Asha:** The reception volunteer can do that. And this one is about a broken heater in the waiting room—that should go to the building manager.
+
+**Tom:** Here's a question about benefit forms. Reception shouldn't try to answer it.
+
+**Asha:** No, the trained advisers handle those. What about someone saying they were treated rudely?
+
+**Tom:** The complaints contact is named on our notice. We shouldn't send it to whoever happens to be on reception.
+
+**Asha:** Then the folders need to match where the messages go, not just what they sound like.
+
+**Tom:** Let's try today's inbox against that. Cancellation to reception, heater to maintenance, benefits question to an adviser, complaint to the named contact.
+
+**Asha:** And the message offering spare chairs?
+
+**Tom:** General enquiries. Reception can pass it to whoever handles donations.
+
+**Asha:** I'll write the routing instructions above the folders. The volunteers can work through the inbox without waiting for the coordinator.
+
+### Structural check
+
+- **Change:** Messages that were merely grouped by subject become differentiated cases with determinate destinations and handling actions across the inbox.
+- **Sufficiency:** The participants test the scheme against several kinds of live messages, including a case that does not fit the original four headings. Each distinction now changes what a volunteer does.
+- **Persistence:** The routing instructions remain usable for subsequent messages and volunteers, rather than depending on the coordinator to interpret each case anew.
+- **Closest rival cell and decisive difference:** Cell 04, *Scope standing*. Four labelled folders could have achieved only a standing classification. The achieved difference is operative: cancellations, maintenance, advice and complaints are sent to different responsible people.
+- **Decisive evidence:** “The folders need to match where the messages go, not just what they sound like,” followed by the successful routing of the day's messages.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 07 / Opposed standing
+
+*Differentiation × Release × Standing*
+
+### Dialogue
+
+*Two people are unpacking books donated to a small second-hand shop.*
+
+**Elliot:** The previous manager marked this whole crate “unsaleable.” Should we take it straight to recycling?
+
+**Mina:** Let's look before we do. This cookbook has a torn cover, but all the pages are here.
+
+**Elliot:** And this travel guide is fifteen years out of date.
+
+**Mina:** Someone might still want the photographs, though. The maps shouldn't be sold as current information.
+
+**Elliot:** This novel has mould along the spine. That one really can't go on the shelves.
+
+**Mina:** Here's a local-history booklet with someone's notes in the margins. The historical society might be interested.
+
+**Elliot:** So “unsaleable” isn't telling us what these things are. It was one decision made about a mixed crate.
+
+**Mina:** Exactly. Let's record the cookbook as usable, the guide as dated, the novel as damaged and the booklet as a possible archive donation.
+
+**Elliot:** Are we deciding where all of them go now?
+
+**Mina:** Not yet. I'd like the manager to check the guide and the historical society to see the booklet.
+
+**Elliot:** Fair enough. At least we won't discard them all under that old label.
+
+### Structural check
+
+- **Change:** The books recover distinct, determinate descriptions after the blanket “unsaleable” judgment ceases to settle their identities.
+- **Sufficiency:** Examination establishes genuinely different conditions and possible significance; the inherited disposal label no longer has authority to erase them.
+- **Persistence:** The item-level descriptions stand in the new record even while final destinations remain undecided.
+- **Closest rival cell and decisive difference:** Cell 09, *Exclusive cut*. The dialogue deliberately stops short of a completed admission-or-exclusion rule for all the books. What is achieved is the standing of differences freed from a single imposed category.
+- **Decisive evidence:** “Are we deciding where all of them go now?” — “Not yet,” after the separate descriptions have been recorded.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 08 / Graded contrast
+
+*Differentiation × Release × Bearing*
+
+### Dialogue
+
+*Two people are choosing rooms for a community music programme.*
+
+**Grace:** Everyone says the upstairs room is the good one and the basement is the poor one. Should we put the singing class upstairs?
+
+**Noel:** Maybe. The upstairs room has better daylight, but it's quite echoey.
+
+**Grace:** The basement's duller, though.
+
+**Noel:** Listen to the piano down there. The notes are much clearer than they are upstairs.
+
+**Grace:** True. But the basement has those low beams. Would it suit the movement workshop?
+
+**Noel:** Probably not. The upstairs room has more clear floor space.
+
+**Grace:** What about the small room off the foyer?
+
+**Noel:** Quiet enough for one-to-one lessons, but too cramped for a group.
+
+**Grace:** So “good room” isn't a useful ranking. For singing, the basement might be better acoustically; for movement, upstairs is better; for individual lessons, the foyer room works.
+
+**Noel:** We should also check step-free access before assigning anything.
+
+**Grace:** Yes. Let's write down what each room offers rather than rank them from best to worst.
+
+### Structural check
+
+- **Change:** A fixed good-room/bad-room ranking loses its authority, and the rooms acquire different relative advantages depending on the activity.
+- **Sufficiency:** The participants compare acoustics, space and scale across several rooms, without allowing the old ranking to decide every case. The access check remains outstanding, so no final programme allocation is claimed.
+- **Persistence:** The distinctions stand as need-relative bearings that will inform later assignments; none of the rooms is simply “the good one” for all purposes.
+- **Closest rival cell and decisive difference:** Cell 07, *Opposed standing*. That form would suffice if the rooms merely recovered independent descriptions after the old ranking was dropped. Here the accomplishment is the comparative pattern itself: each room's advantage changes with what it is compared for.
+- **Decisive evidence:** “For singing, the basement might be better acoustically; for movement, upstairs is better; for individual lessons, the foyer room works.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 09 / Exclusive cut
+
+*Differentiation × Release × Efficacy*
+
+### Dialogue
+
+*Two volunteers are deciding which donated plants can go into a school garden.*
+
+**Rosa:** The box says “approved seedlings.” Can I put all of these on the planting trolley?
+
+**Dylan:** That label's from the spring sale. We still need to check them.
+
+**Rosa:** The tomatoes look healthy. These basil plants have spotted leaves, though.
+
+**Dylan:** Could be harmless damage. Let's ask the gardening teacher what she wants us to check.
+
+**Rosa:** She's left the intake sheet here: roots sound, no visible pest infestation, no suspect leaf disease.
+
+**Dylan:** Then we can't use the old “approved” sticker as our test.
+
+**Rosa:** Look under this basil leaf. There are insects clustered along the stem.
+
+**Dylan:** That tray should stay away from the garden. Put it in the inspection area.
+
+**Rosa:** The tomatoes have clean leaves and firm roots. They can go on the planting trolley.
+
+**Dylan:** This mint has no pests, but its roots are badly rotted.
+
+**Rosa:** Inspection area too, then. We shouldn't plant it just because the box says approved.
+
+**Dylan:** I'll cross out the old label and mark the trays individually.
+
+**Rosa:** Good. Only the ones that pass today's checks go into the beds.
+
+### Structural check
+
+- **Change:** The inherited blanket approval is displaced by present-condition distinctions that determine which plants may be planted and which must be withheld.
+- **Sufficiency:** Inspection criteria actually govern the tomatoes' admission and the basil and mint trays' exclusion from planting. The difference is not merely recorded; it changes what happens to the plants.
+- **Persistence:** The planting trolley and inspection area embody a continuing separation under the current intake rule, independent of the old box label.
+- **Closest rival cell and decisive difference:** Cell 07, *Opposed standing*. That cell would be achieved by recognising the plants' different conditions without settling their handling. Here those distinctions have operative force in allowing or preventing planting.
+- **Decisive evidence:** “Only the ones that pass today's checks go into the beds,” after the participants have separated the inspected trays accordingly.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 10 / Source field
+
+*Opening × Focal × Standing*
+
+### Dialogue
+
+*Two walkers arrive at a nature reserve where the old main gate is shut.*
+
+**Jules:** The map shows a path into the reserve here, but the gate's chained.
+
+**Owen:** There's a small sign saying “Visitor access moved.” The arrow points towards the car park.
+
+**Jules:** Maybe that's just where they want people to park.
+
+**Owen:** Let's see. There's another sign at the far end: “Reserve entrance — footpath.”
+
+**Jules:** And a gate in the fence. Is it locked too?
+
+**Owen:** No, it has a pedestrian latch. There's a board inside with the trail map.
+
+**Jules:** So this is the entrance now, not the chained gate by the road.
+
+**Owen:** Looks like it. We can tell the others where to come.
+
+**Jules:** Wait, the board says the marsh trail is closed for repairs.
+
+**Owen:** That's all right. We were only trying to find the entrance. We'll choose a walk once everyone's here.
+
+### Structural check
+
+- **Change:** The reserve, initially inaccessible at the familiar gate, acquires a determinate visitor point of entry.
+- **Sufficiency:** The official sign, pedestrian gate and trail board establish this particular entrance as available; the participants do not need to complete a trail to settle where entry is provided.
+- **Persistence:** The entrance remains identifiable for the rest of their group even though a separate route within the reserve is closed.
+- **Closest rival cell and decisive difference:** Cell 12, *Branching output*. The dialogue stops before overcoming a route bottleneck and demonstrating several executable onward paths. The achievement is the standing availability of one entry point.
+- **Decisive evidence:** “So this is the entrance now, not the chained gate by the road,” followed by the explicit deferral of choosing a walk.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 11 / Source-carried divergence. -->
