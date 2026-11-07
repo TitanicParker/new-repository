@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–3**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–25. **Next:** Cycle 3 / Cell 26 — Role correspondence.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–30. **Next:** Cycle 3 / Cell 31 — Cross-position validation.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -5944,4 +5944,215 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 26 / Role correspondence. -->
+
+## Cycle 3 / Cell 26 / Role correspondence
+
+*Relating × Release × Bearing*
+
+### Dialogue
+
+*Two volunteers are arranging a joint exhibition of objects lent by a fishing club and a local school.*
+
+**Iris:** The club has given us a boat hook, a net needle and an old tide book. The school has drawings of a landing stage, a repaired net and a harbour chart.
+
+**Fergus:** Shall we put the old objects on one wall and the drawings on the other?
+
+**Iris:** We could, but then the children might not see why the drawings were made.
+
+**Fergus:** The landing-stage drawing shows someone using a hook to pull a boat close. That belongs beside the boat hook.
+
+**Iris:** And the net-repair drawing goes with the needle. What about the harbour chart?
+
+**Fergus:** It has the same sandbank marked as the tide book. The book gives the times; the chart shows where the water matters.
+
+**Iris:** So each school piece has a partner in the club's collection, but they don't just look alike.
+
+**Fergus:** Right. One shows a task or place, and the other supplies the tool or information used there.
+
+**Iris:** Let's put the pairs together, with captions saying what each contributes.
+
+**Fergus:** Good. We won't have an “old” side and a “new” side after all.
+
+### Structural check
+
+- **Change:** Two collections, initially divided by lender and age, acquire corresponding positions in three cross-collection pairs.
+- **Sufficiency:** Each match rests on a distinct functional relation—hook to landing, needle to repair, tide book to harbour chart—rather than resemblance or mere sequence.
+- **Persistence:** The paired display and captions preserve the complementary bearings of each item across the former collection divide.
+- **Closest rival cell and decisive difference:** Cell 25, *Pattern alignment*. A single repeated motif across the collections could establish one continuous pattern. Here the completed achievement is a set of differentiated correspondences: each object occupies a role relative to a particular counterpart.
+- **Decisive evidence:** “One shows a task or place, and the other supplies the tool or information used there.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 27 / Emergent coordination
+
+*Relating × Release × Efficacy*
+
+### Dialogue
+
+*Two volunteers are watching a crowded charity-book-sale table just after the doors open.*
+
+**Nora:** There's a queue at the payment box and people can't get past the history shelves.
+
+**Ben:** I'll move the payment box to the end of the table. Could you stand by the books while I do it?
+
+**Nora:** Yes. I'll ask people who are only browsing to come around this side.
+
+**Ben:** That's better, but the people buying books are still stopping to count their coins in the walkway.
+
+**Nora:** I've got an empty tray. They can put their books there while you take payment.
+
+**Ben:** And once I've given them change, I'll hand the books back from the far end.
+
+**Nora:** I'll bring the next person over only when that end is clear.
+
+**Ben:** Try it with these three customers.
+
+**Nora:** First one through. Second one's ready. Third one's still choosing, so I'll let the person behind them browse past.
+
+**Ben:** No one is blocking the shelves now.
+
+**Nora:** We didn't have a plan for this before the doors opened.
+
+**Ben:** We do now. You can keep the browsing side moving, and I'll handle payment at the end.
+
+### Structural check
+
+- **Change:** Separate improvised actions develop into a working division of activity that keeps browsing, payment and collection from obstructing one another.
+- **Sufficiency:** The volunteers alter their conduct in response to each other's actions and test the resulting arrangement with actual customers. Neither a pre-existing rota nor a simple pairing of roles supplies the result.
+- **Persistence:** The arrangement continues through successive customers as a jointly maintained practice.
+- **Closest rival cell and decisive difference:** Cell 26, *Role correspondence*. Merely assigning Nora to browsing and Ben to payment would establish complementary roles. Here those roles become effective through reciprocal timing and adjustment under live pressure.
+- **Decisive evidence:** “I'll bring the next person over only when that end is clear,” followed by three customers passing without blocking the shelves.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 28 / Focal adjustment
+
+*Repair × Focal × Standing*
+
+### Dialogue
+
+*Two people are checking a newly printed notice for a community garden.*
+
+**Alma:** The notice says the gate closes at six. That's what the old sign said.
+
+**Declan:** The committee changed it last week, didn't they?
+
+**Alma:** I remember a discussion, but I don't want to alter the sign on a guess.
+
+**Declan:** Here's the approved minutes: “From 1 June, garden gate closes at seven in the evening.”
+
+**Alma:** And today's the third of June. Then this notice is wrong.
+
+**Declan:** Shall I cross out the six and write seven?
+
+**Alma:** Better to print a clean copy. People may think a handwritten change is unofficial.
+
+**Declan:** I've changed only that line. Can you check it against the minutes?
+
+**Alma:** “Gate closes at 7 p.m.” Yes. The date and contact number are unchanged.
+
+**Declan:** I'll replace the notice at the entrance and take the incorrect one down.
+
+**Alma:** Good. There's now one clear, authorised closing time on display.
+
+### Structural check
+
+- **Change:** One incorrect statement on a public notice is replaced with the correct, authorised closing time.
+- **Sufficiency:** The approved minutes establish the specific correction; the replacement notice is checked and the obsolete version removed. No wider reorganisation of opening hours is needed.
+- **Persistence:** The corrected time stands publicly in a single current notice.
+- **Closest rival cell and decisive difference:** Cell 29, *Proportional correction*. Nothing is recalibrated by degree or relative amount. The achievement is a definite correction of one focal standing claim—six becomes seven.
+- **Decisive evidence:** “I've changed only that line,” followed by the verified replacement and removal of the wrong notice.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 29 / Proportional correction
+
+*Repair × Focal × Bearing*
+
+### Dialogue
+
+*Two volunteers are preparing a fruit drink for a children's sports afternoon.*
+
+**Maya:** The concentrate tastes much too strong. Did we follow the bottle?
+
+**Luke:** It says one part concentrate to four parts water. I used two cups of concentrate and four cups of water.
+
+**Maya:** So the amount of concentrate is right for a larger batch, but the water hasn't increased with it.
+
+**Luke:** We need eight cups of water altogether, then. There are four in already.
+
+**Maya:** Let's add the other four and stir before tasting.
+
+**Luke:** There. Try it now.
+
+**Maya:** That's much closer. But are we sure the measuring cup is the same size we used for the concentrate?
+
+**Luke:** Yes, this is the one I used for both. Two cups concentrate, eight cups water.
+
+**Maya:** Then the proportions match the instructions. I'll label the jug so nobody tops it up with more concentrate.
+
+**Luke:** Good catch. Adding a random splash of water wouldn't have told us whether we'd fixed it.
+
+### Structural check
+
+- **Change:** An overstrong mixture is corrected by restoring the specified relation between concentrate and water.
+- **Sufficiency:** The participants identify the error in relative quantities, calculate the missing water and verify that both components were measured with the same cup.
+- **Persistence:** The corrected mixture retains the intended proportion, recorded on the jug to prevent the imbalance being reintroduced.
+- **Closest rival cell and decisive difference:** Cell 28, *Focal adjustment*. Merely changing the recipe label from four to eight would correct a statement. Here the achievement is the actual restoration of a quantitative relation in the drink.
+- **Decisive evidence:** “Two cups concentrate, eight cups water,” after the missing water has been added.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 30 / Load transfer
+
+*Repair × Focal × Efficacy*
+
+### Dialogue
+
+*Two volunteers are preparing to reopen a small hall after finding a sagging display shelf.*
+
+**Saoirse:** The shelf is dipping in the middle. I'll take the framed photographs off before anything falls.
+
+**Finn:** Good idea. The centre bracket has come away from the wall.
+
+**Saoirse:** Can we screw it back in?
+
+**Finn:** Not into that hole. The fixing has pulled out and the plaster around it is loose.
+
+**Saoirse:** We have a freestanding display rack in the storeroom. Could it hold the frames instead?
+
+**Finn:** It's rated for more than these weigh, and its feet sit flat. Let's bring it over.
+
+**Saoirse:** I've moved the frames onto it. The shelf is empty now.
+
+**Finn:** I'll put a notice on the damaged shelf so no one loads it again. We shouldn't refix it until the wall has been checked.
+
+**Saoirse:** Is the rack stable with the frames spread across it?
+
+**Finn:** Yes. Give it a gentle check at the corners. No rocking.
+
+**Saoirse:** Then the display can stay up, but the damaged wall bracket isn't carrying it anymore.
+
+**Finn:** Exactly. The repair to the wall can wait; the weight can't.
+
+### Structural check
+
+- **Change:** The weight of a display is removed from a failed wall-supported shelf and successfully carried by a verified freestanding rack.
+- **Sufficiency:** The volunteers do not merely identify the damaged bracket or promise a later fix. They move the frames, check the substitute support and prevent renewed loading of the unsafe shelf.
+- **Persistence:** The display remains supported independently of the damaged wall fixing while a separate structural repair is pending.
+- **Closest rival cell and decisive difference:** Cell 28, *Focal adjustment*. Replacing a faulty bracket in place could correct one component. The achieved repair here is effective redistribution of the burden to a different support.
+- **Decisive evidence:** “The display can stay up, but the damaged wall bracket isn't carrying it anymore.”
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 31 / Cross-position validation. -->
