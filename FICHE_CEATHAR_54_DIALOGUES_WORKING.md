@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–3**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–35. **Next:** Cycle 3 / Cell 36 — Disorder released.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–40. **Next:** Cycle 3 / Cell 41 — Mutual-support structure.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -6386,4 +6386,223 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 36 / Disorder released. -->
+
+## Cycle 3 / Cell 36 / Disorder released
+
+*Repair × Release × Efficacy*
+
+### Dialogue
+
+*Two volunteers are checking a community hall's old freezer after its door seal has been replaced.*
+
+**Lydia:** The repairer says the new seal is fitted. Can we move the donated food back in?
+
+**Pavel:** The thermometer's reading minus eighteen. That's what we want.
+
+**Lydia:** It read that yesterday too, until someone opened the door. Then it took ages to cool again.
+
+**Pavel:** Let's open it to load these empty trays and see how it recovers.
+
+**Lydia:** Door shut. The temperature's climbing to minus twelve.
+
+**Pavel:** Give it a few minutes. The compressor's running.
+
+**Lydia:** It's back to minus sixteen, but the door has popped open a fraction.
+
+**Pavel:** The catch isn't holding. I can put the old strap around the handle.
+
+**Lydia:** That's what we were doing before the repair. It keeps the door shut, but someone has to remember to fasten it.
+
+**Pavel:** We could still use the freezer with the strap until the catch is fixed.
+
+**Lydia:** For empty trays, perhaps. Not for donated food. We haven't stopped depending on the workaround.
+
+**Pavel:** I'll call the repairer and leave the freezer marked out of service.
+
+### Structural check
+
+- **Change:** The new seal improves the freezer's ability to cool, but the door still fails to stay closed without a strap.
+- **Sufficiency:** A temperature reading and partial recovery do not establish release from the disorder because the compensating routine remains necessary. The participants refuse to treat the repair as complete.
+- **Persistence:** The fault continues to govern safe use; the freezer remains out of service pending further work.
+- **Closest rival cell and decisive difference:** Cell 33, *In-course correction*. The seal may have improved one stage of operation, but the conversation does not verify a complete, dependable cooling-and-closure process either. Neither the distributed course nor release from the workaround is achieved.
+- **Decisive evidence:** “We haven't stopped depending on the workaround,” followed by the decision not to return food to the freezer.
+
+**Assessment:** Neither achieved.
+
+---
+
+## Cycle 3 / Cell 37 / Focal whole
+
+*Integration × Focal × Standing*
+
+### Dialogue
+
+*Two volunteers are assembling a display about the old market district from photographs, street names and shop receipts.*
+
+**Holly:** We've got the bakery photographs here, the tram tickets over there and the shop receipts in a third case. It looks like three separate exhibitions.
+
+**Isaac:** We could arrange everything by date.
+
+**Holly:** That would give us a timeline, but visitors still wouldn't know how these places related to one another.
+
+**Isaac:** Here's the large street map from 1936. The market square is in the middle, with the tram stop on its east side.
+
+**Holly:** And the bakery was on the north side. That's why the bread-delivery receipt names Market Square even though the shop address says North Lane.
+
+**Isaac:** The tram photograph was taken looking across the same square. You can see the bakery awning in the background.
+
+**Holly:** So the receipts, photographs and tickets all belong to the life of this one place.
+
+**Isaac:** Let's put the square map in the middle and arrange the other material by where it belongs around it.
+
+**Holly:** Keep the dates on the captions, but don't make them the main sections.
+
+**Isaac:** Now someone can see where the bakery, tram stop and shops stood in relation to the square.
+
+**Holly:** That's the exhibition we were trying to make: the market district as one place, not three collections of things.
+
+### Structural check
+
+- **Change:** Separate documentary groups acquire positions and membership within one intelligible representation of the market district.
+- **Sufficiency:** The market square is not just a conspicuous exhibit. Its mapped location makes the otherwise separated objects parts of one spatially organized subject, including the receipt whose two addresses initially seem unrelated.
+- **Persistence:** The display retains its unity through the central map and the locations assigned to each group of materials.
+- **Closest rival cell and decisive difference:** Cell 40, *Role array*. A date-ordered exhibition with separate sections could organize distributed roles. Here the square is the constitutive centre through which all three groups become elements of one represented place.
+- **Decisive evidence:** “The market district as one place, not three collections of things,” after the exhibits have been placed around the square map.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 38 / Frame-held whole
+
+*Integration × Focal × Bearing*
+
+### Dialogue
+
+*Two volunteers are hanging a large community-made paper mosaic in a school corridor.*
+
+**Rae:** All the pieces are glued together now. Can we put it straight onto the wall?
+
+**Noah:** We tried lifting it earlier. The paper bowed and two joins started to pull apart.
+
+**Rae:** What if we add more glue along the joins?
+
+**Noah:** It might help, but the whole sheet still has to carry its own weight. The backing board arrived this morning.
+
+**Rae:** It's heavier than I expected. Are we sure the wall hooks can take it?
+
+**Noah:** The caretaker approved these fixings for the board. Let's attach the mosaic to it while it's flat.
+
+**Rae:** Start from the middle? I don't want the edges to bunch.
+
+**Noah:** Yes. Smooth it outward. The pieces are staying in place.
+
+**Rae:** Lift the board with me. The picture isn't sagging now.
+
+**Noah:** Put it on the hooks. There. You can see the whole harbour scene without the joins opening.
+
+**Rae:** So the paper pieces were connected before, but they couldn't hold themselves together as a hanging picture.
+
+**Noah:** The board carries them as one. We shouldn't remove it just because the glue has dried.
+
+### Structural check
+
+- **Change:** A connected but structurally unstable paper mosaic becomes a coherent, hangable picture through a single supporting backing.
+- **Sufficiency:** Additional glue is considered but does not solve the load-bearing problem. The approved board supports the composition across its area, and the hung mosaic is observed without sagging or separating.
+- **Persistence:** Its displayed unity depends on the backing remaining in place; the board is not merely a decorative border.
+- **Closest rival cell and decisive difference:** Cell 37, *Focal whole*. The harbour scene is a recognisable subject, but identifying its subject does not repair the failure. The decisive unity is the dependence of all the pieces on a common support.
+- **Decisive evidence:** “The paper pieces were connected before, but they couldn't hold themselves together as a hanging picture” — “The board carries them as one.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 39 / Joint capacity
+
+*Integration × Focal × Efficacy*
+
+### Dialogue
+
+*Two volunteers are running a temporary lost-property desk after a neighbourhood festival.*
+
+**Farah:** People keep asking me whether their things have been found, but the bags are in three different storerooms.
+
+**Mick:** I've got the lists from the three collection teams. We could put them all in one folder.
+
+**Farah:** A folder would help me answer questions, but someone still has to locate the actual bag.
+
+**Mick:** Let's use the reception table as the handover point. Each team can bring its labelled finds here before going home.
+
+**Farah:** Then I can match an enquiry to the item without sending someone round the building. But what if two bags look alike?
+
+**Mick:** Give each item a number when it arrives. I'll write the number and collection location on the sheet, and put the same number on the bag.
+
+**Farah:** I'll record the owner's description before showing them anything. That way we can check the claim.
+
+**Mick:** Here's the first one from the west gate. Number seventeen.
+
+**Farah:** A visitor's looking for a blue lunch bag with a broken zip. Does seventeen match?
+
+**Mick:** Blue, broken zip, and a name written inside. Yes.
+
+**Farah:** I've checked the name with the visitor. They're signing for it now.
+
+**Mick:** And I've marked seventeen returned, so the next shift won't search for it again.
+
+**Farah:** Good. The collection teams, the record and the claims desk are finally working as one service.
+
+### Structural check
+
+- **Change:** Dispersed collection, record-keeping and claimant verification become a functioning lost-property service centred on one handover desk.
+- **Sufficiency:** The desk integrates the different contributions into a tested process: an item is received, uniquely identified, matched to a claim and marked returned. A common folder alone would not demonstrate that joint capacity.
+- **Persistence:** Numbering and return records allow successive shifts to operate the same coordinated service.
+- **Closest rival cell and decisive difference:** Cell 27, *Emergent coordination*. The volunteers adapt to one another, but the distinctive completion is a single focal station through which otherwise separate functions are made into one executable service.
+- **Decisive evidence:** The successful return of item seventeen and the record update that prevents the next shift searching for it.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 40 / Role array
+
+*Integration × Distributed × Standing*
+
+### Dialogue
+
+*Two volunteers are planning an exhibition about how a village newspaper was produced.*
+
+**Leah:** We have the type case, a reporter's notebook, the printing plate, delivery satchel and an old subscription ledger. I thought we'd put them in order of size.
+
+**Conor:** The plate would dominate the display, but it wouldn't explain how the paper got to anyone.
+
+**Leah:** Then perhaps we start with the reporter's notebook and follow the paper through.
+
+**Conor:** Reporting, typesetting, printing, delivery, subscriptions. Those are different jobs, not just a row of old objects.
+
+**Leah:** The ledger might belong at the beginning, though. Subscriptions paid for the paper before an issue was made.
+
+**Conor:** True. And deliveries brought in changes of address that went back into the ledger. So a simple first-to-last timeline won't quite work.
+
+**Leah:** Let's make five sections and show the connections between them. The notebook stands for gathering stories, the type case for setting them, the plate for printing, the satchel for distribution, and the ledger for keeping the whole enterprise funded and its readers known.
+
+**Conor:** None of those objects tells the whole story on its own.
+
+**Leah:** We should check whether we're missing the editor's part. We don't have an object for it.
+
+**Conor:** We could add a caption about editing, but I don't want to pretend the notebook covers it.
+
+**Leah:** Agreed. Let's mark editing as a sixth section and look for a proof sheet before the exhibition opens.
+
+### Structural check
+
+- **Change:** The objects acquire distinct functional positions within a proposed account of newspaper production, and the volunteers recognise an unrepresented editorial role.
+- **Sufficiency:** The five established sections form a plausible distributed structure, but the participants explicitly leave a sixth necessary role without an exhibit or settled treatment. The intended whole is therefore not yet fully established.
+- **Persistence:** A provisional role arrangement stands, with an acknowledged gap that must be filled before the exhibition opens.
+- **Closest rival cell and decisive difference:** Cell 22, *Sequential link*. The discussion rejects a mere chronological chain because subscriptions and delivery feed back into earlier work. The target, however, requires a complete articulated role array, and the editorial gap remains.
+- **Decisive evidence:** “Let's mark editing as a sixth section and look for a proof sheet before the exhibition opens.”
+
+**Assessment:** Ambiguous.
+
+---
+
+<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 41 / Mutual-support structure. -->
