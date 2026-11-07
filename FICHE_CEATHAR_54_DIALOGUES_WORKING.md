@@ -1,9 +1,9 @@
 # Fiche Ceathar — The 54 Dialogue Generator
 
-**Working dialogue corpus · Cycles 1–3**  
+**Working dialogue corpus · Cycles 1–3 complete**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–50. **Next:** Cycle 3 / Cell 51 — Case settlement.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–54. **Next:** Review Cycle 3 discrimination outcomes.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -7049,4 +7049,199 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 51 / Case settlement. -->
+
+## Cycle 3 / Cell 51 / Case settlement
+
+*Settlement × Distributed × Efficacy*
+
+### Dialogue
+
+*Two volunteers are updating the procedure for equipment borrowed from a neighbourhood repair café.*
+
+**Jana:** We keep answering the same questions about loaned tools. Could we write one sheet for the desk?
+
+**Rory:** We should. Yesterday a soldering iron came back damaged, and nobody knew whether to mark it returned.
+
+**Jana:** Let's start with collection. We check the borrower's name, the tool number and the due date before it leaves.
+
+**Rory:** On return, we inspect it before closing the loan. If it's sound, we record the return and put it back in the available cupboard.
+
+**Jana:** If it's damaged, we record the return but mark the tool unavailable and send it to the repair bench.
+
+**Rory:** What if the borrower doesn't bring it back at all?
+
+**Jana:** The agreement says we send a reminder after seven days, then refer it to the coordinator after fourteen.
+
+**Rory:** And what happens after the coordinator receives it?
+
+**Jana:** They decide whether to arrange a replacement or recover the cost, according to the signed agreement.
+
+**Rory:** Is that decision recorded anywhere? Last month we couldn't tell whether a missing drill had been paid for.
+
+**Jana:** Good point. Let's add a final line: “Coordinator records replacement, payment or return, then closes the case.”
+
+**Rory:** Test it with the soldering iron. It came back damaged.
+
+**Jana:** Record the return, mark unavailable, send for inspection; after repair, mark available again or record disposal.
+
+**Rory:** And the missing drill?
+
+**Jana:** Reminder, referral, coordinator's decision, recorded outcome and closure. There isn't a step where the desk has to improvise.
+
+**Rory:** I'll print the checklist. We can follow it for the next loan from start to finish.
+
+### Structural check
+
+- **Change:** Unsettled decisions about equipment loans become a complete executable procedure covering ordinary return, damage and non-return through recorded closure.
+- **Sufficiency:** The participants discover and repair a genuine procedural gap at the final stage, then walk two difficult cases through to an outcome. A list of answers about borrowing would not be enough without determinate next actions at each branch.
+- **Persistence:** The checklist remains usable by subsequent desk volunteers across cases, including the exceptional ones that previously stalled.
+- **Closest rival cell and decisive difference:** Cell 49, *Recurrence settlement*. A complete FAQ could settle what the rules say. Here the result is a course of action that tells staff what to do and when a case is actually finished.
+- **Decisive evidence:** “There isn't a step where the desk has to improvise,” after both damaged and missing tools have been traced to closure.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 52 / Transformation release
+
+*Settlement × Release × Standing*
+
+### Dialogue
+
+*Two members of a residents' association are discussing the result of a vote on the design of a new noticeboard.*
+
+**Nina:** The blue design won, but I've had another message asking us to vote again. They say the green one would look better by the gate.
+
+**Callum:** Was there a problem with the ballot?
+
+**Nina:** I checked. Everyone on the eligible list received a ballot, the deadline was the same for all, and the count matches the returned forms.
+
+**Callum:** Did the association agree in advance that the higher vote would decide it?
+
+**Nina:** Yes. The minutes say so. The blue design won by four votes.
+
+**Callum:** Then the new preference doesn't make the choice undecided.
+
+**Nina:** The message says people might feel differently after seeing the samples outdoors.
+
+**Callum:** They might. We can record that concern without treating it as evidence that the vote failed.
+
+**Nina:** There's one complication. The committee hasn't yet approved the installation expense.
+
+**Callum:** That's a separate decision. It could delay buying the board, but it doesn't turn the design vote back into an open choice.
+
+**Nina:** So I'll record the objection and say the design selection stands under the agreed ballot. I'll leave the purchase request for the committee.
+
+**Callum:** Exactly. Blue is the selected design, even if we can't order it today.
+
+### Structural check
+
+- **Change:** A renewed preference is denied the authority to reopen a validly completed design selection.
+- **Sufficiency:** The participants check the agreed procedure, eligibility, count and decision rule; they then distinguish an unresolved expenditure approval from the already settled design choice.
+- **Persistence:** The blue design retains definitive standing despite disagreement and a separate obstacle to installation.
+- **Closest rival cell and decisive difference:** Cell 54, *Continuation discharge*. The board cannot yet be ordered because the expense remains unapproved. The completed achievement is the decision's final status, not an effective freedom to proceed with installation.
+- **Decisive evidence:** “It could delay buying the board, but it doesn't turn the design vote back into an open choice.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 53 / Retrospective settlement
+
+*Settlement × Release × Bearing*
+
+### Dialogue
+
+*Two friends are reconciling expenses after organising a shared street party.*
+
+**Ellen:** I think I still owe you something for the tables. I sent you forty pounds, but I can't remember whether that covered it.
+
+**Davi:** Let's use the receipts. I paid eighty for the tables and twenty for the bunting. You paid sixty for the food and forty for the sound equipment.
+
+**Ellen:** So we each spent a hundred before I transferred anything.
+
+**Davi:** Yes. That means we were even already.
+
+**Ellen:** Wait, the community fund reimbursed the sound equipment. I received forty back last week.
+
+**Davi:** Then your actual cost was sixty, not a hundred. I bore a hundred, so we should each have borne eighty.
+
+**Ellen:** That means I owed you twenty. But I transferred forty.
+
+**Davi:** So I owe you twenty back. Let me check that the transfer arrived. Yes, forty came in on Monday.
+
+**Ellen:** And the fund reimbursement is in my account. Nothing else is outstanding?
+
+**Davi:** The deposit for the hall was paid directly by the association, so it wasn't either of ours. I'll return twenty now.
+
+**Ellen:** I can see it. Then we've each ended up paying eighty.
+
+**Davi:** Right. Neither of us has a remaining claim against the other for the party.
+
+**Ellen:** Good. I didn't want to call it settled while one of us was still out of pocket.
+
+### Structural check
+
+- **Change:** An uncertain reciprocal debt becomes a balanced and discharged relation after all payments, reimbursement and transfers are accounted for.
+- **Sufficiency:** The first apparent equality is overturned by the reimbursement. The final balance follows from the actual net costs and the returned excess transfer, not from either person's wish to stop discussing money.
+- **Persistence:** The parties' being quits rests on the verified account: each has borne eighty and no outstanding claim remains.
+- **Closest rival cell and decisive difference:** Cell 52, *Transformation release*. An announcement that the party expenses are “closed” would not settle an unequal account. Here closure is constituted by restoring the correct relation between what each paid and owed.
+- **Decisive evidence:** “We've each ended up paying eighty,” confirmed after the twenty-pound refund is received.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 54 / Continuation discharge
+
+*Settlement × Release × Efficacy*
+
+### Dialogue
+
+*Two volunteers are preparing to send a community history booklet to the printer.*
+
+**Amina:** The proof is approved, but I've just received another suggestion to change the cover photograph.
+
+**Leo:** Is it a factual correction or a preference?
+
+**Amina:** A preference. They like the photograph of the old bridge better. We considered it in the cover meeting.
+
+**Leo:** And the approved cover is the one with the market square?
+
+**Amina:** Yes. The editor signed off that exact file after the dates, captions and permissions were checked.
+
+**Leo:** Then the suggestion can go into the notes for a future edition. Does our printing procedure require another cover vote?
+
+**Amina:** No. Once the editor signs the final proof, the print coordinator sends it to the printer.
+
+**Leo:** What's holding us up, then?
+
+**Amina:** I was about to circulate the photograph suggestion in case somebody objected to proceeding.
+
+**Leo:** That would turn every new preference into another approval round. The agreed review has finished.
+
+**Amina:** You're right. I'll log the suggestion without reopening the file. Let me check the printer's upload receipt.
+
+**Leo:** Do they have the approved version?
+
+**Amina:** Uploaded now. The receipt shows the right filename and revision number.
+
+**Leo:** Has the printer accepted it for the run?
+
+**Amina:** Yes, they've confirmed the order. I'll send the collection date to the volunteers.
+
+**Leo:** Good. The cover question doesn't have to be answered again before any of that can happen.
+
+### Structural check
+
+- **Change:** A possible new round of cover deliberation loses its power to obstruct the already authorised printing process, which actually proceeds.
+- **Sufficiency:** The suggestion is identified as a preference already considered, not a new factual or rights issue. The approved file is uploaded, its revision verified and the print order accepted.
+- **Persistence:** Subsequent collection and distribution can now proceed without the cover choice returning as a compulsory prerequisite; the suggestion remains available for a future edition.
+- **Closest rival cell and decisive difference:** Cell 52, *Transformation release*. The approved cover already had definitive standing before this conversation. What is newly accomplished is effective continuation—submission and acceptance of the print run despite the invitation to reopen the choice.
+- **Decisive evidence:** “They've confirmed the order. I'll send the collection date to the volunteers,” without a further cover vote.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Cycle 3 complete: 54 of 54 cells. Next: review discrimination outcomes and nearest-rival assignments. -->
