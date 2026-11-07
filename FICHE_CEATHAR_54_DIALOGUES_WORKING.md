@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–3**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–30. **Next:** Cycle 3 / Cell 31 — Cross-position validation.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–35. **Next:** Cycle 3 / Cell 36 — Disorder released.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -6155,4 +6155,235 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 31 / Cross-position validation. -->
+
+## Cycle 3 / Cell 31 / Cross-position validation
+
+*Repair × Distributed × Standing*
+
+### Dialogue
+
+*Two volunteers are preparing an evacuation leaflet for a community arts centre.*
+
+**Daisy:** The floor plan says the north stairs lead to the yard, but the written directions send people from the upstairs studio to the front entrance.
+
+**Kit:** Maybe both routes work. We should check before we print it.
+
+**Daisy:** On the ground-floor plan, the north-stair door is marked “staff only.”
+
+**Kit:** That sign was removed after the fire-door work. But the leaflet could still be wrong about where the stairs come out.
+
+**Daisy:** I'll go upstairs. Can you stand at the bottom and tell me where I emerge?
+
+**Kit:** You're coming out beside the yard door. That agrees with the revised floor plan.
+
+**Daisy:** Then the studio directions need changing.
+
+**Kit:** Wait. The gallery directions also say “turn right at the north stairs.” From the gallery, that's a left.
+
+**Daisy:** And the accessibility note sends wheelchair users to those stairs, which they can't use. The lift route is separate.
+
+**Kit:** Let's use the approved access plan to check every room against the actual doors. I'll read the directions while you follow them.
+
+**Daisy:** Studio to yard: correct. Gallery to yard: correct. Ground-floor rooms to front entrance: correct. Accessible route from the upper floor: lift to the staffed lobby, correct.
+
+**Kit:** And none of those directions contradicts the diagrams now?
+
+**Daisy:** No. We've checked each starting position against the route it names. We can print this version.
+
+### Structural check
+
+- **Change:** A leaflet whose directions conflict across rooms, diagrams and accessibility notes becomes a consistent account of routes from all the positions it covers.
+- **Sufficiency:** The volunteers check the corrected instructions against physical locations and the approved access plan, including errors that would survive a single-word correction.
+- **Persistence:** The verified leaflet supplies one coherent set of directions across the centre's distinct starting points.
+- **Closest rival cell and decisive difference:** Cell 32, *Joint-bound repair*. The routes do not have to be adjusted to make the doors fit one another. The completed repair is the agreement of multiple claims about an already established arrangement.
+- **Decisive evidence:** “We've checked each starting position against the route it names,” after the full read-through finds no remaining contradiction.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 32 / Joint-bound repair
+
+*Repair × Distributed × Bearing*
+
+### Dialogue
+
+*Two volunteers are refitting the two halves of a folding exhibition screen.*
+
+**Eve:** I've tightened the hinges on my panel. It stands straight now.
+
+**Ronan:** Mine stands straight too, but when we join them, the top edges overlap and the feet pull apart.
+
+**Eve:** Maybe one panel is warped. Lay them separately against the wall.
+
+**Ronan:** Both are flat. The trouble only appears when the joining hinges are closed.
+
+**Eve:** Your lower hinge is sitting a little farther out than the upper one.
+
+**Ronan:** If I bring it in, the top edges might line up. Hold the panels together while I loosen it.
+
+**Eve:** The top's flush now, but the bottom catches when we fold them.
+
+**Ronan:** Then my adjustment alone isn't enough. Can you shift your upper hinge slightly while I keep the bottom gap even?
+
+**Eve:** Try closing it now.
+
+**Ronan:** Smooth until the last inch. There's still a scrape at the middle.
+
+**Eve:** I can ease my panel back a fraction. There. Open and close it again.
+
+**Ronan:** No scrape. Both feet stay on the floor when it's open, and the edges meet when it's folded.
+
+**Eve:** Mark both hinge positions. Neither panel's “straight” position was the right one once they had to work together.
+
+### Structural check
+
+- **Change:** Two individually acceptable panels acquire a functioning mutual fit as one folding screen.
+- **Sufficiency:** The adjustments are tested at their interfaces in both open and closed positions. Correcting one panel in isolation repeatedly fails; each panel's acceptable position depends on the other's.
+- **Persistence:** The marked hinge positions preserve the assembly's joint alignment and smooth operation.
+- **Closest rival cell and decisive difference:** Cell 31, *Cross-position validation*. Checking that both panels are straight would verify separate descriptions. Here the relevant correctness is constituted by how the panels meet and move together, not by agreement among statements about them.
+- **Decisive evidence:** “Neither panel's ‘straight’ position was the right one once they had to work together,” after the screen opens and folds without scraping.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 33 / In-course correction
+
+*Repair × Distributed × Efficacy*
+
+### Dialogue
+
+*Two volunteers are trying to get meal deliveries out of a community kitchen on time.*
+
+**Amir:** The driver says the first three meals weren't in the collection area. The cooks say they finished them twenty minutes ago.
+
+**Lotte:** They're here on the cooling rack. Nobody moved them after the labels were printed.
+
+**Amir:** The labels say “prepared,” not “ready for collection.” Maybe the driver didn't know they were finished.
+
+**Lotte:** We changed the system last week. The packer is supposed to scan each bag before it goes to the collection shelf.
+
+**Amir:** Is the scanner working?
+
+**Lotte:** It beeps, but look at the screen: “Offline — scans queued.” That might explain why the driver saw no ready meals.
+
+**Amir:** We can call the driver now and carry these bags to the shelf. But what about the next batch?
+
+**Lotte:** I'll restart the connection. The screen says “Online” again.
+
+**Amir:** Scan this new bag.
+
+**Lotte:** Done. The ready count has gone up by one.
+
+**Amir:** Has the driver's list changed?
+
+**Lotte:** I can't see that screen from here. He's on the road now.
+
+**Amir:** Then we've repaired at least the kitchen end. I'll ask him to confirm what he sees when he gets back.
+
+**Lotte:** And until then, let's phone him whenever a batch is ready. I don't want another set of meals waiting unseen.
+
+### Structural check
+
+- **Change:** The volunteers identify a broken handoff, restore the scanner's local connection and introduce a temporary phone notification.
+- **Sufficiency:** The ready count changes in the kitchen, but no one verifies that the driver's list updates or that a subsequent batch moves through the entire process. A complete distributed repair remains unproven.
+- **Persistence:** A provisional workaround is operating, while the intended end-to-end handoff awaits confirmation.
+- **Closest rival cell and decisive difference:** Cell 28, *Focal adjustment*. The visible repair may amount only to correcting one local device state. Cell 33 requires the correction to function through the distributed kitchen-to-driver course.
+- **Decisive evidence:** “Has the driver's list changed?” — “I can't see that screen from here.”
+
+**Assessment:** Ambiguous.
+
+---
+
+## Cycle 3 / Cell 34 / Limit reset
+
+*Repair × Release × Standing*
+
+### Dialogue
+
+*Two coordinators are preparing a workshop in a room that used to hold a sewing class.*
+
+**Tessa:** The booking page still says twelve places. We're expecting eighteen people for the drawing session.
+
+**Malik:** Twelve was the sewing-class limit because every machine needed a separate table.
+
+**Tessa:** So should we change it to eighteen?
+
+**Malik:** Maybe, but we're running several kinds of workshops here now. For drawing, we could use long shared tables. For pottery, people need more space around their elbows.
+
+**Tessa:** The fire limit is twenty-four. That doesn't tell us how many can actually work comfortably.
+
+**Malik:** Let's try the drawing layout with eighteen chairs.
+
+**Tessa:** Everyone would have a surface, and the aisle stays clear. Eighteen works for drawing.
+
+**Malik:** But it wouldn't work for pottery. The drying boards take up two tables.
+
+**Tessa:** Then perhaps the booking page shouldn't have one number at all. We can give each workshop a limit based on its setup.
+
+**Malik:** Agreed. I'll remove the inherited twelve and ask each organiser for a room plan before we confirm numbers.
+
+**Tessa:** So we haven't replaced twelve with a new universal cap.
+
+**Malik:** No. We've established eighteen for this drawing session, and we'll check other activities against what they need.
+
+### Structural check
+
+- **Change:** The inherited twelve-person cap loses authority, and the drawing session receives a justified eighteen-person capacity.
+- **Sufficiency:** The conversation explicitly rejects establishing one corrected standing limit for the room. Capacity is instead determined by each activity's spatial requirements, with other sessions still to be assessed.
+- **Persistence:** The new procedure preserves a need-relative test for future bookings rather than one room-wide number.
+- **Closest rival cell and decisive difference:** Cell 35, *Condition reversal*. The target, Cell 34, would require the former limit to give way to a newly established standing limit for the relevant arrangement. The participants instead make correctness depend on the varying practical conditions of each workshop. The drawing-session number is settled, but the broader repair is explicitly conditional.
+- **Decisive evidence:** “We haven't replaced twelve with a new universal cap” — “No ... we'll check other activities against what they need.”
+
+**Assessment:** Rival achieved.
+
+---
+
+## Cycle 3 / Cell 35 / Condition reversal
+
+*Repair × Release × Bearing*
+
+### Dialogue
+
+*Two volunteers are updating the signs at a public library's temporary entrance.*
+
+**Hana:** The old sign template puts the library logo at the top, the welcome message in the middle and directions in small print at the bottom.
+
+**Owen:** It looks consistent with the other signs. Why did the receptionist ask us to redo it?
+
+**Hana:** Three visitors walked to the closed main door this morning. The temporary entrance is around the side, but you can't read that until you're right beside the sign.
+
+**Owen:** We could make the whole sign larger.
+
+**Hana:** The stand won't take a larger sheet. And people need the direction before they reach the closed door, not after.
+
+**Owen:** Let's put “ENTRANCE AROUND THE CORNER” at the top, with a large arrow. The logo can go underneath.
+
+**Hana:** The old template says the logo must be first.
+
+**Owen:** That's fine for a welcome notice. This one has to help someone find a door.
+
+**Hana:** I'll print it and stand across the path. Can you walk towards it from the bus stop?
+
+**Owen:** From here I can read the arrow. I'll follow it.
+
+**Hana:** You've turned before reaching the closed door. Can you still find the entrance without another instruction?
+
+**Owen:** Yes, there's the temporary-door sign. That works.
+
+**Hana:** Then let's use this layout until the main entrance reopens.
+
+### Structural check
+
+- **Change:** A visually consistent but ineffective sign is repaired by reversing which consideration governs its design: wayfinding need takes precedence over the inherited branding order.
+- **Sufficiency:** The new arrangement is tested from the visitor's actual approach and enables a person to turn in time and find the temporary door. Simply enlarging or relabelling the sign would not establish this fit.
+- **Persistence:** The sign remains adequate relative to the temporary entrance and the approach visitors must take; its correctness is conditional on that use.
+- **Closest rival cell and decisive difference:** Cell 34, *Limit reset*. Replacing the logo-first rule with a new universal arrow-first rule would establish a changed standing convention. Here the choice is justified and tested by this sign's particular wayfinding function.
+- **Decisive evidence:** “You've turned before reaching the closed door,” followed by Owen finding the temporary entrance without further instruction.
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 36 / Disorder released. -->
