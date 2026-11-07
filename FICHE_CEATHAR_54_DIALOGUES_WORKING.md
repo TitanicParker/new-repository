@@ -3,7 +3,7 @@
 **Working dialogue corpus · Cycles 1–3**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–45. **Next:** Cycle 3 / Cell 46 — Settled alternative.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–50. **Next:** Cycle 3 / Cell 51 — Case settlement.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -6822,4 +6822,231 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 46 / Settled alternative. -->
+
+## Cycle 3 / Cell 46 / Settled alternative
+
+*Settlement × Focal × Standing*
+
+### Dialogue
+
+*Two volunteers must choose which of two donated display cases to keep in a narrow library corridor.*
+
+**Imogen:** The glass case looks better. It would make the old manuscripts seem important.
+
+**Rafi:** The wooden one has drawers, though. We could keep the handling copies underneath.
+
+**Imogen:** The glass case is thirty centimetres deeper. Would it leave enough space for wheelchairs?
+
+**Rafi:** The caretaker measured the corridor yesterday. Let me find the note.
+
+**Imogen:** It says we need the clear route to stay at least this wide. With the glass case, we'd be short by twelve centimetres.
+
+**Rafi:** Could we put it against the opposite wall?
+
+**Imogen:** That would block the fire-door recess. We can't use it in either position.
+
+**Rafi:** Then it's the wooden case, even though I liked the glass one.
+
+**Imogen:** I'll tell the donor we can accept the wooden case for this corridor and ask whether they want the other returned.
+
+**Rafi:** Should we decide where the manuscripts go inside it now?
+
+**Imogen:** Not yet. We can work out the arrangement when the conservator visits. The question today was which case we're keeping.
+
+**Rafi:** Wooden case it is. I'll mark the inventory accordingly.
+
+### Structural check
+
+- **Change:** An open choice between two cases becomes a definitive selection of the wooden case.
+- **Sufficiency:** The corridor and fire-door constraints rule out both proposed positions for the glass case, leaving a viable alternative that the participants explicitly accept and record.
+- **Persistence:** The inventory records the selected case; later decisions about its contents do not reopen which case was chosen.
+- **Closest rival cell and decisive difference:** Cell 48, *Path completion*. The volunteers may later need an installation plan, but they deliberately leave that continuation unresolved. The achieved settlement is the standing choice of one alternative.
+- **Decisive evidence:** “The question today was which case we're keeping,” followed by the inventory entry.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 47 / Unified settlement
+
+*Settlement × Focal × Bearing*
+
+### Dialogue
+
+*Two neighbours are dividing the cost of repairing a shared garden wall.*
+
+**Adele:** The builder's invoice is six hundred and forty. We said we'd split the repair, so that's three hundred and twenty each.
+
+**Bran:** But a hundred and twenty of that is for the extra stone coping you wanted. I only agreed to the basic repair.
+
+**Adele:** I thought the coping was included. Let's look at the estimate we both signed.
+
+**Bran:** Here: “Wall repair, five hundred and twenty.” Then “Optional coping, one hundred and twenty,” with your initials beside it.
+
+**Adele:** You're right. The basic repair is two hundred and sixty each, and I pay the extra hundred and twenty.
+
+**Bran:** That would make yours three hundred and eighty and mine two hundred and sixty.
+
+**Adele:** Wait. The invoice also includes a forty-pound delivery charge. Is that already in the five hundred and twenty?
+
+**Bran:** The line items say repair four hundred and eighty, delivery forty, coping one hundred and twenty. Yes, it is.
+
+**Adele:** Then those amounts stand. I'll email the breakdown so neither of us has to reconstruct it later.
+
+**Bran:** I agree to the split on that basis. I'll transfer my two hundred and sixty this afternoon.
+
+**Adele:** And I'll pay the balance.
+
+### Structural check
+
+- **Change:** A disputed allocation of one invoice becomes a jointly accepted division grounded in the parties' earlier terms.
+- **Sufficiency:** The signed estimate distinguishes shared repair and delivery from Adele's optional coping, and the final amounts are checked against the invoice total.
+- **Persistence:** The recorded breakdown preserves the basis on which each amount is owed, rather than merely recording two arbitrary figures.
+- **Closest rival cell and decisive difference:** Cell 46, *Settled alternative*. Choosing between an equal split and an unequal split would not suffice if the chosen amount failed the prior agreement. The settlement is constituted by its fit to the agreed cost categories.
+- **Decisive evidence:** “I agree to the split on that basis,” after the line items and totals have been reconciled.
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 48 / Path completion
+
+*Settlement × Focal × Efficacy*
+
+### Dialogue
+
+*Two volunteers are trying to get a replacement projector to a school assembly before the caretaker locks the storeroom.*
+
+**Niamh:** The projector in the hall has stopped working. The school office says there's a spare, but nobody knows whether it has the right cable.
+
+**Tomás:** We could move the assembly to the classroom with the fixed screen.
+
+**Niamh:** That room holds only thirty. There are seventy children.
+
+**Tomás:** Then we need the spare. The caretaker is here for another ten minutes.
+
+**Niamh:** I'll ring him. He says the spare has an HDMI socket, but the cable's in the media cupboard, not with the projector.
+
+**Tomás:** Does he have access to both cupboards?
+
+**Niamh:** Yes. He can leave them at reception if we collect them before he goes.
+
+**Tomás:** I'll go to reception now. Can you check whether the hall's laptop has HDMI?
+
+**Niamh:** It does. I'll stay here and have the screen ready.
+
+**Tomás:** Before I leave: are we still deciding between rooms?
+
+**Niamh:** No. You're collecting the spare and cable; I'm setting up in the hall. If the spare fails when we test it, we'll deal with that then.
+
+**Tomás:** Right. I'm on my way.
+
+### Structural check
+
+- **Change:** An urgent unresolved question about how the assembly can proceed becomes a specified and initiated course of action.
+- **Sufficiency:** The hall's capacity, the spare's connector, cable location and caretaker's availability together make the next steps executable. The conversation ends with both participants acting on the decision.
+- **Persistence:** The settlement persists as the operative plan until the projector is tested; it does not assert that the eventual assembly is already successful.
+- **Closest rival cell and decisive difference:** Cell 46, *Settled alternative*. The participants do reject the smaller classroom, but that exclusion alone would not get the assembly moving. The achieved completion is a practicable continuation with assigned immediate actions.
+- **Decisive evidence:** “You're collecting the spare and cable; I'm setting up in the hall,” followed by “I'm on my way.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 49 / Recurrence settlement
+
+*Settlement × Distributed × Standing*
+
+### Dialogue
+
+*Two committee members are preparing answers to repeated questions about a proposed weekend market.*
+
+**Sorcha:** People keep asking about parking. We answered that last month, but now there's another email about deliveries blocking the accessible entrance.
+
+**Eli:** Our old reply only said cars should use the south car park. It didn't explain where vans unload.
+
+**Sorcha:** The approved site plan puts deliveries at the east gate before nine.
+
+**Eli:** But the east gate is also where the accessible route starts. Are deliveries finished before visitors arrive?
+
+**Sorcha:** The market opens at nine-thirty. The organiser says all vans must be out by nine.
+
+**Eli:** And the accessible route is kept clear even during unloading?
+
+**Sorcha:** The organiser says yes, but I want the stewarding plan to confirm that.
+
+**Eli:** Here's the plan: a steward keeps the marked route clear from eight onward. So we can answer both questions together.
+
+**Sorcha:** We should also include where the public toilets are. That question came up twice.
+
+**Eli:** The building manager hasn't confirmed whether the courtyard toilets will be open. The indoor ones definitely will be.
+
+**Sorcha:** Then let's send the parking and delivery answers now, and say the toilet information is still being checked.
+
+**Eli:** Shall I file this as the final response to all the recurring questions?
+
+**Sorcha:** Not yet. It's a useful reply, but the complete account still has a gap.
+
+### Structural check
+
+- **Change:** The committee resolves an interaction between parking, unloading and accessible entry, but one recurring facilities question remains open.
+- **Sufficiency:** The participants produce consistent answers to several questions, yet expressly withhold final status because the toilet information is incomplete. The target requires closure of the relevant distributed question set, not merely a sound partial reply.
+- **Persistence:** A partial record can be reused, but the full answering account is not yet settled.
+- **Closest rival cell and decisive difference:** Cell 31, *Cross-position validation*. The parking and access claims are checked for mutual consistency, and that validation is achieved locally. Cell 49 would additionally require the outstanding range of questions to be discharged as a complete reusable account.
+- **Decisive evidence:** “Shall I file this as the final response to all the recurring questions?” — “Not yet.”
+
+**Assessment:** Ambiguous.
+
+---
+
+## Cycle 3 / Cell 50 / Condition-bound settlement
+
+*Settlement × Distributed × Bearing*
+
+### Dialogue
+
+*Two organisers are checking whether three neighbourhood groups have actually agreed to share a community minibus.*
+
+**Leila:** I've put the groups on a rota: youth club on Monday, choir on Wednesday, gardening group on Saturday. Can I tell everyone it's settled?
+
+**Duncan:** The youth club agreed, but the choir asked what happens if their rehearsal is cancelled. They don't want to pay for a trip they don't take.
+
+**Leila:** And the gardening group said they could swap Saturdays when their volunteers are away.
+
+**Duncan:** If we simply publish the dates, we'll have three different understandings of what a booking means.
+
+**Leila:** The transport provider charges for a late cancellation. Could each group cover its own fee if it cancels after noon the day before?
+
+**Duncan:** That seems workable, but we need their agreement. What about swaps?
+
+**Leila:** A swap only counts when both groups confirm it to the coordinator. Otherwise the original booking stays responsible.
+
+**Duncan:** I'll send those terms to the three contacts. We shouldn't call it agreed until they reply.
+
+**Leila:** The youth club has replied yes. The gardening group says yes to the swap rule.
+
+**Duncan:** The choir's response just came in: they agree if the cancellation deadline is noon, as written.
+
+**Leila:** Then I'll send the same final rota and conditions to all three.
+
+**Duncan:** And ask them to acknowledge that version, so there's no uncertainty about later edits.
+
+**Leila:** Two acknowledgements are back. The choir hasn't answered the final version yet.
+
+**Duncan:** So we have agreement on the terms in principle, but not confirmation that all three are working from the same final record.
+
+**Leila:** Leave it marked “awaiting final acknowledgement.” We'll close it when that last reply comes.
+
+### Structural check
+
+- **Change:** Three groups converge on cancellation and swap conditions, but their common recognition of the final recorded arrangement remains incomplete.
+- **Sufficiency:** The choir accepts the proposed condition, yet has not acknowledged the final circulated rota. The participants explicitly distinguish assent to terms from closure of the same shared arrangement across all parties.
+- **Persistence:** The draft conditions are provisionally stable, while the binding common record awaits the final acknowledgement.
+- **Closest rival cell and decisive difference:** Cell 49, *Recurrence settlement*. A complete written account of dates and rules may already exist. The target is stronger in a different way: the settlement must obtain through the parties' mutually acknowledged conditions, not the mere completeness of the document.
+- **Decisive evidence:** “We have agreement on the terms in principle, but not confirmation that all three are working from the same final record.”
+
+**Assessment:** Ambiguous.
+
+---
+
+<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 51 / Case settlement. -->
