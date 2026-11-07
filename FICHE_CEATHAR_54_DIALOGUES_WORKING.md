@@ -1,9 +1,9 @@
 # Fiche Ceathar — The 54 Dialogue Generator
 
-**Working dialogue corpus · Cycles 1–2**  
+**Working dialogue corpus · Cycles 1–3**  
 **Canonical authority:** `THE_54_CONTROL.md`  
 **Status:** Living Markdown file, append sequentially without altering the controlling reference.  
-**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54. **Next:** Cycle 3 / Cell 01 — Focal mark.
+**Completed:** Cycle 1 Cells 01–54; Cycle 2 Cells 01–54; Cycle 3 Cells 01–05. **Next:** Cycle 3 / Cell 06 — Field separation.
 
 The structural checks and assessments are working judgments, not modifications of the canonical definitions or cell identities.
 
@@ -4895,4 +4895,207 @@ The structural checks and assessments are working judgments, not modifications o
 
 ---
 
-<!-- Cycle 2 complete. Next target: Cycle 3 / Cell 01 / Focal mark. -->
+
+# Cycle 3 — The Nearest Neighbour Test
+
+*Protocol for this cycle: each ordinary exchange is designed so that the target and a neighbouring canonical form are both initially plausible. The conversation, not the intended label, determines the outcome. Alongside the established structural check, each entry identifies the decisive conversational evidence. Assessments may be Target achieved, Rival achieved, Ambiguous, or Neither achieved.*
+
+---
+
+## Cycle 3 / Cell 01 / Focal mark
+
+*Differentiation × Focal × Standing*
+
+### Dialogue
+
+*Two volunteers are sorting unlabelled keys found in a drawer at a neighbourhood theatre.*
+
+**Marta:** This one might be for the backstage door. It's shorter than the other brass keys.
+
+**Leo:** The backstage key was short, but so were the old cupboard keys. We could try it in the lock.
+
+**Marta:** The door's being painted. I'd rather not disturb the painter.
+
+**Leo:** There's a number stamped on the head. Can you see it?
+
+**Marta:** “B14.” The key register might help.
+
+**Leo:** Here it is. B12, costume cupboard; B13, lighting cabinet; B14, upstairs meter cupboard.
+
+**Marta:** Does the meter cupboard still exist?
+
+**Leo:** Yes, beside the rehearsal room. Look, the cupboard has B14 on its little metal plate.
+
+**Marta:** Then that's the meter-cupboard key. Its length was sending us in the wrong direction.
+
+**Leo:** I'll put it in a packet marked B14 and return it to the key board.
+
+### Structural check
+
+- **Change:** An uncertain key becomes determinately identified as the upstairs meter-cupboard key.
+- **Sufficiency:** The matching stamped designation on the key, register and cupboard fixes this item's identity; the comparison of key lengths is explicitly abandoned as inconclusive.
+- **Persistence:** The key retains its identified standing through its registered designation and labelled place on the board.
+- **Closest rival cell and decisive difference:** Cell 02, *Binary bearing*. The initial contrast with other keys invites an exceptional-or-matching judgment, but the achievement does not consist in standing apart from a comparison set. It is the positive identification of this one key.
+- **Decisive evidence:** “Then that's the meter-cupboard key. Its length was sending us in the wrong direction.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 02 / Binary bearing
+
+*Differentiation × Focal × Bearing*
+
+### Dialogue
+
+*Two neighbours are checking six identical-looking flower tubs supplied for a street planting day.*
+
+**Rafi:** This one has a white scratch on the side. We should put it where people won't see it.
+
+**Helen:** The others have scratches too. I don't think that makes it different.
+
+**Rafi:** You're right. They all look a bit worn. But this one keeps rocking on the paving.
+
+**Helen:** Maybe the paving is uneven. Move it onto the flat slab beside the wall.
+
+**Rafi:** Still rocking. Let me try one of the others there.
+
+**Helen:** That one sits flat. And the next one does too.
+
+**Rafi:** Turn the rocking tub over. One of its little feet is missing.
+
+**Helen:** The other five have all four feet. So it's not just another scratched tub; it's the one with the incomplete base.
+
+**Rafi:** I'll set that one aside for repair and use the other five along the railings.
+
+**Helen:** Good. We don't need to know which factory made it to know why it can't go with the rest.
+
+### Structural check
+
+- **Change:** One tub acquires determinate standing as the exception to five otherwise serviceable matching tubs.
+- **Sufficiency:** The missing foot matters as a difference *from the shared four-foot arrangement* verified on the others, not merely as an isolated feature of a tub.
+- **Persistence:** Its exceptional status holds in relation to the set of intact tubs, warranting separate handling.
+- **Closest rival cell and decisive difference:** Cell 01, *Focal mark*. A white scratch or an inventory number could identify the tub individually. The achieved distinction instead depends on what it lacks relative to the other five.
+- **Decisive evidence:** “The other five have all four feet. So it's not just another scratched tub; it's the one with the incomplete base.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 03 / Boundary act
+
+*Differentiation × Focal × Efficacy*
+
+### Dialogue
+
+*Two people are setting up a farmers' market in a school courtyard.*
+
+**Nadia:** The bread stall wants to move half a metre towards the gate. I can't see why it matters.
+
+**Evan:** Neither can I from here. There's a painted stripe, but it might just be for parking.
+
+**Nadia:** The site plan shows that stripe. It says “emergency access — no stalls beyond this line.”
+
+**Evan:** Let's check where the bread table would finish. If we move it, its back legs cross the stripe.
+
+**Nadia:** What if we turn the table sideways? It might still fit without blocking anything.
+
+**Evan:** Try it. Now all four legs are on this side, and the passage stays open.
+
+**Nadia:** The stallholder can still face the gate, then.
+
+**Evan:** Yes. We didn't need to reject the stall, only the position across the line.
+
+**Nadia:** I'll mark the final table position so it doesn't creep back during unloading.
+
+### Structural check
+
+- **Change:** A painted stripe of uncertain significance becomes the operative distinction between permitted and impermissible stall positions.
+- **Sufficiency:** The site rule and actual table placement establish the point at which an otherwise acceptable move becomes disallowed; turning the table demonstrates that the boundary governs action rather than simply naming an area.
+- **Persistence:** The distinction continues to determine permissible placement throughout market setup.
+- **Closest rival cell and decisive difference:** Cell 01, *Focal mark*. Identifying the stripe as an emergency-access marking would stop at what the mark is. The completed achievement is its practical authority over whether the proposed table position may be used.
+- **Decisive evidence:** “Now all four legs are on this side, and the passage stays open.”
+
+**Assessment:** Target achieved.
+
+---
+
+## Cycle 3 / Cell 04 / Scope standing
+
+*Differentiation × Distributed × Standing*
+
+### Dialogue
+
+*Two librarians are sorting donated board games for a lending shelf.*
+
+**Clare:** Could we put coloured stickers on these? People keep asking which games are quick.
+
+**Jonah:** We can sort them by playing time. This one says twenty minutes; that one says forty-five.
+
+**Clare:** But forty-five minutes is quick compared with the big strategy games that take three hours.
+
+**Jonah:** True. I was thinking of the children's games. Most of those take ten or fifteen minutes.
+
+**Clare:** Maybe we need “short,” “medium” and “long.”
+
+**Jonah:** Based on the printed times?
+
+**Clare:** Perhaps. But some of the boxes say thirty to ninety minutes, depending on how many people play.
+
+**Jonah:** And a family with small children might call thirty minutes long, while the chess group might call it short.
+
+**Clare:** Let's leave the coloured stickers off for today. We can put the manufacturers' time ranges on the shelf labels and ask borrowers what would be useful.
+
+**Jonah:** That'll at least give them something definite while we decide how to group the games.
+
+### Structural check
+
+- **Change:** The librarians move from a proposed quick/slow classification to displaying stated time ranges, but do not establish a completed differentiated classification across the collection.
+- **Sufficiency:** A distributed set of candidate distinctions is investigated, yet the participants explicitly defer choosing the categories. The target's sufficient completion does not occur.
+- **Persistence:** The printed time ranges remain available; no standing system of short, medium and long categories persists.
+- **Closest rival cell and decisive difference:** Cell 05, *Context-bound mark*. The dialogue does demonstrate that “quick” changes with the group of games or borrowers used for comparison. It does not complete the intended Cell 04 classification.
+- **Decisive evidence:** “A family with small children might call thirty minutes long, while the chess group might call it short,” followed by the decision to leave the category stickers off.
+ 
+**Assessment:** Rival achieved.
+
+---
+
+## Cycle 3 / Cell 05 / Context-bound mark
+
+*Differentiation × Distributed × Bearing*
+
+### Dialogue
+
+*Two people are choosing which ladders to take from a shared equipment store.*
+
+**Bea:** Bring the little ladder. We only need to reach the top shelf.
+
+**Sam:** Which one's the little one? The silver ladder looks small next to the long extension ladders.
+
+**Bea:** That's the one I meant.
+
+**Sam:** But we've also got these folding step stools. Beside them, the silver ladder is quite tall.
+
+**Bea:** Fair point. I was only thinking of the ladders we use outdoors.
+
+**Sam:** Is the top shelf higher than we can reach on a step stool?
+
+**Bea:** Yes. I measured it yesterday. We need the silver ladder.
+
+**Sam:** Then I'll write “shortest of the full-size ladders” on the collection note, not just “small ladder.”
+
+**Bea:** Good. Otherwise someone might bring one of the stools.
+
+### Structural check
+
+- **Change:** An unqualified “little ladder” becomes a determinate relative designation: the shortest full-size ladder, but not the smallest item among all available climbing equipment.
+- **Sufficiency:** Its distinctiveness is established through the chosen comparison field; changing the field from full-size ladders to ladders and stools changes which object qualifies.
+- **Persistence:** The description remains correct by preserving the relevant comparison group in the collection note.
+- **Closest rival cell and decisive difference:** Cell 04, *Scope standing*. A complete classification of all equipment into size groups would yield a distributed standing scheme. Here only the context-borne status of one ladder is settled.
+- **Decisive evidence:** “I'll write ‘shortest of the full-size ladders’ on the collection note, not just ‘small ladder.’”
+
+**Assessment:** Target achieved.
+
+---
+
+<!-- Append future Cycle 3 dialogues above this marker. Next target: Cycle 3 / Cell 06 / Field separation. -->
